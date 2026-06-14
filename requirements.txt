@@ -1,0 +1,8 @@
+azure-functions
+pandas
+sqlalchemy
+psycopg2-binary
+azure-storage-blob
+pyarrow
+fastparquet
+cryptography
