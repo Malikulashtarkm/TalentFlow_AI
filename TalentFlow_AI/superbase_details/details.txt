@@ -1,0 +1,4 @@
+Project Name: TalentFlow_AI
+
+Database password : FinalSem123@pass
+
