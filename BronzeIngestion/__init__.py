@@ -26,3 +26,6 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
         logging.error(f"❌ General Error: {str(e)}")
         return func.HttpResponse(f"Error: {str(e)}", status_code=500)
 
+
+
+
