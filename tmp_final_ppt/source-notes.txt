@@ -1,0 +1,3 @@
+Source deck: D:\TalentFlow_AI\outputs\TalentFlow_AI_Professional_Mid_Term_With_Screenshots_2024DA04133.pptx
+Project report: D:\TalentFlow_AI\outputs\TalentFlow_AI_Final_Project_Report_2024DA04133.pdf
+Project source files inspected locally for agent, pipeline, ML and validation details.

@@ -1,0 +1,295 @@
+{"kind":"deck","id":"pr/xzvjpd","name":"Deck"}
+{"kind":"layout","layoutId":"179f6fa1-94a4-4bc8-aa99-7e9c8df4b2af","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"926d2145-6ff8-4868-aa25-046eac526500","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/aaufay","slide":1,"title":"TalentFlow AI","textShapes":9}
+{"kind":"textbox","id":"sh/bat47y1k","slide":1,"text":"TalentFlow AI","textPreview":"TalentFlow AI","textChars":13,"textLines":1,"bbox":[54,86,760,76]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":1,"text":"Enterprise Candidate Relationship Management & Predictive Intelligence Ecosystem","textPreview":"Enterprise Candidate Relationship Management & Predictive Intelligence Ecosystem","textChars":80,"textLines":1,"bbox":[58,174,820,72]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":1,"text":"Mid Term Dissertation Presentation","textPreview":"Mid Term Dissertation Presentation","textChars":34,"textLines":1,"bbox":[58,286,650,34]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":1,"text":"Malikulashtar K MALAMPATIWALLA\nBITS ID: 2024DA04133\nM.Tech. Data Science and Data Engineering\nAltimetrik Pvt Ltd, Bangalore","textPreview":"Malikulashtar K MALAMPATIWALLA | BITS ID: 2024DA04133 | M.Tech. Data Science and Data Engineering | Altimetrik Pvt Ltd, Bangalore","textChars":123,"textLines":4,"bbox":[58,368,680,132]}
+{"kind":"shape","id":"sh/bm58z25k","slide":1,"bbox":[860,86,312,500]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":1,"text":"Mid-term focus","textPreview":"Mid-term focus","textChars":14,"textLines":1,"bbox":[900,130,240,30]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":1,"text":"From recruitment records to governed lakehouse analytics and ML-ready insights.","textPreview":"From recruitment records to governed lakehouse analytics and ML-ready insights.","textChars":79,"textLines":1,"bbox":[900,190,220,160]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":1,"text":"Supervisor: Gaurav Lathiya\nAdditional Examiner: Vignesh N","textPreview":"Supervisor: Gaurav Lathiya | Additional Examiner: Vignesh N","textChars":57,"textLines":2,"bbox":[900,482,236,60]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":1,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/aaufay","slide":1,"text":""}
+{"kind":"slide","id":"sl/g0he4g","slide":2,"title":"TALENTFLOW AI MID TERM","textShapes":17}
+{"kind":"textbox","id":"sh/lwval87e","slide":2,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":2,"text":"What I will present","textPreview":"What I will present","textChars":19,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":2,"bbox":[54,142,1172,1.5]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[90,180,62,34]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":2,"text":"Submitted report snapshot","textPreview":"Submitted report snapshot","textChars":25,"textLines":1,"bbox":[170,183,780,32]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[90,250,62,34]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":2,"text":"Problem and objective","textPreview":"Problem and objective","textChars":21,"textLines":1,"bbox":[170,253,780,32]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[90,320,62,34]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":2,"text":"System architecture","textPreview":"System architecture","textChars":19,"textLines":1,"bbox":[170,323,780,32]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":2,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[90,390,62,34]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":2,"text":"Database and ER design","textPreview":"Database and ER design","textChars":22,"textLines":1,"bbox":[170,393,780,32]}
+{"kind":"textbox","id":"sh/z61032ls","slide":2,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[90,460,62,34]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":2,"text":"Bronze-Silver-Gold ETL","textPreview":"Bronze-Silver-Gold ETL","textChars":22,"textLines":1,"bbox":[170,463,780,32]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":2,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[90,530,62,34]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":2,"text":"Demo, validation and roadmap","textPreview":"Demo, validation and roadmap","textChars":28,"textLines":1,"bbox":[170,533,780,32]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":2,"text":"The goal is to prove a working data product: operational portal + governed ETL + lakehouse analytics + ML insight publishing.","textPreview":"The goal is to prove a working data product: operational portal + governed ETL + lakehouse analytics + ML insight publishing.","textChars":125,"textLines":1,"bbox":[745,218,380,220]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":2,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/g0he4g","slide":2,"text":""}
+{"kind":"slide","id":"sl/e31ug1","slide":3,"title":"TALENTFLOW AI MID TERM","textShapes":11}
+{"kind":"textbox","id":"sh/032lszqt","slide":3,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":3,"text":"Submitted mid-term report: what this deck represents","textPreview":"Submitted mid-term report: what this deck represents","textChars":52,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/ixczed8v","slide":3,"bbox":[54,142,1172,1.5]}
+{"kind":"shape","id":"sh/bulwval8","slide":3,"bbox":[850,190,330,340]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":3,"text":"Presentation scope","textPreview":"Presentation scope","textChars":18,"textLines":1,"bbox":[880,222,270,34]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":3,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[880,293,20,26]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":3,"text":"Based on the submitted report dated June 2026.","textPreview":"Based on the submitted report dated June 2026.","textChars":46,"textLines":1,"bbox":[908,292,222,58]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":3,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[880,365,20,26]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":3,"text":"Focuses on completed portal, ETL and testing phase 1.","textPreview":"Focuses on completed portal, ETL and testing phase 1.","textChars":53,"textLines":1,"bbox":[908,364,222,58]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":3,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[880,437,20,26]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":3,"text":"Shows pending Text-to-SQL and final validation work clearly.","textPreview":"Shows pending Text-to-SQL and final validation work clearly.","textChars":60,"textLines":1,"bbox":[908,436,222,58]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":3,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"image","id":"im/gn29gr2p","slide":3,"name":"","alt":"Submitted report cover","bbox":[70,170,340,430]}
+{"kind":"image","id":"im/58z25kb6","slide":3,"name":"","alt":"Submitted report current status page","bbox":[462,170,340,430]}
+{"kind":"notes","id":"nt/e31ug1","slide":3,"text":""}
+{"kind":"slide","id":"sl/lpaw0q","slide":4,"title":"TALENTFLOW AI MID TERM","textShapes":18}
+{"kind":"textbox","id":"sh/zidonyd0","slide":4,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":4,"text":"Business problem and dissertation objective","textPreview":"Business problem and dissertation objective","textChars":43,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":4,"bbox":[54,142,1172,1.5]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":4,"bbox":[74,190,250,112]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[94,208,210,44]}
+{"kind":"textbox","id":"sh/svu9knih","slide":4,"text":"core recruitment gaps","textPreview":"core recruitment gaps","textChars":21,"textLines":1,"bbox":[94,258,210,30]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":4,"bbox":[370,190,250,112]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":4,"text":"620+","textPreview":"620+","textChars":4,"textLines":1,"bbox":[390,208,210,44]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":4,"text":"demo candidates generated","textPreview":"demo candidates generated","textChars":25,"textLines":1,"bbox":[390,258,210,30]}
+{"kind":"shape","id":"sh/bat47y1k","slide":4,"bbox":[666,190,250,112]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":4,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[686,208,210,44]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":4,"text":"gold analytics datasets","textPreview":"gold analytics datasets","textChars":23,"textLines":1,"bbox":[686,258,210,30]}
+{"kind":"shape","id":"sh/4vmtwra5","slide":4,"bbox":[962,190,250,112]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":4,"text":"2 min","textPreview":"2 min","textChars":5,"textLines":1,"bbox":[982,208,210,44]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":4,"text":"scheduled ETL demo interval","textPreview":"scheduled ETL demo interval","textChars":27,"textLines":1,"bbox":[982,258,210,30]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":4,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[100,371,20,26]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":4,"text":"Candidate data is often fragmented across operational screens and reports.","textPreview":"Candidate data is often fragmented across operational screens and reports.","textChars":74,"textLines":1,"bbox":[128,370,902,42]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":4,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[100,427,20,26]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":4,"text":"Profile updates overwrite history, limiting salary trend and engagement analysis.","textPreview":"Profile updates overwrite history, limiting salary trend and engagement analysis.","textChars":81,"textLines":1,"bbox":[128,426,902,42]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":4,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[100,483,20,26]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":4,"text":"Business users need KPI access without writing SQL against raw operational tables.","textPreview":"Business users need KPI access without writing SQL against raw operational tables.","textChars":82,"textLines":1,"bbox":[128,482,902,42]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":4,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/lpaw0q","slide":4,"text":""}
+{"kind":"slide","id":"sl/f3975m","slide":5,"title":"TALENTFLOW AI MID TERM","textShapes":12}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":5,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":5,"text":"Current architecture: operational portal to lakehouse insights","textPreview":"Current architecture: operational portal to lakehouse insights","textChars":62,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/7adsji5s","slide":5,"bbox":[54,142,1172,1.5]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":5,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[90,526,20,26]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":5,"text":"Streamlit captures candidate, interviewer and admin events.","textPreview":"Streamlit captures candidate, interviewer and admin events.","textChars":59,"textLines":1,"bbox":[118,525,1002,30]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":5,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[90,560,20,26]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":5,"text":"PostgreSQL remains the OLTP source; Azure Blob stores versioned lake layers.","textPreview":"PostgreSQL remains the OLTP source; Azure Blob stores versioned lake layers.","textChars":76,"textLines":1,"bbox":[118,559,1002,30]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":5,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[90,594,20,26]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":5,"text":"Gold parquet is the analytical source of truth; PostgreSQL publish supports dashboard cache.","textPreview":"Gold parquet is the analytical source of truth; PostgreSQL publish supports dashboard cache.","textChars":92,"textLines":1,"bbox":[118,593,1002,30]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":5,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[90,628,20,26]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":5,"text":"ML Training is downstream of the dashboard/feature insight path for demo clarity.","textPreview":"ML Training is downstream of the dashboard/feature insight path for demo clarity.","textChars":81,"textLines":1,"bbox":[118,627,1002,30]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":5,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"image","id":"im/loj2t83i","slide":5,"name":"","alt":"TalentFlow architecture diagram","bbox":[54,170,1172,330]}
+{"kind":"notes","id":"nt/f3975m","slide":5,"text":""}
+{"kind":"slide","id":"sl/by9pz6","slide":6,"title":"TALENTFLOW AI MID TERM","textShapes":11}
+{"kind":"textbox","id":"sh/eloj2t83","slide":6,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":6,"text":"Portal workflows implemented","textPreview":"Portal workflows implemented","textChars":28,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":6,"bbox":[54,142,1172,1.5]}
+{"kind":"shape","id":"sh/7u54zido","slide":6,"bbox":[74,190,340,330]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":6,"text":"Candidate","textPreview":"Candidate","textChars":9,"textLines":1,"bbox":[96,216,280,36]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":6,"text":"Register, login, view profile, update contact/education fields and generate login engagement events.","textPreview":"Register, login, view profile, update contact/education fields and generate login engagement events.","textChars":100,"textLines":1,"bbox":[96,286,285,170]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":6,"bbox":[464,190,340,330]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":6,"text":"Interviewer","textPreview":"Interviewer","textChars":11,"textLines":1,"bbox":[486,216,280,36]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":6,"text":"View assigned interviews, record rating, comments and Hire/Hold/Reject decision.","textPreview":"View assigned interviews, record rating, comments and Hire/Hold/Reject decision.","textChars":80,"textLines":1,"bbox":[486,286,285,170]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":6,"bbox":[854,190,340,330]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":6,"text":"Admin","textPreview":"Admin","textChars":5,"textLines":1,"bbox":[876,216,280,36]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":6,"text":"Schedule interviews, monitor pipeline, view Gold KPIs and ML feature-importance outputs.","textPreview":"Schedule interviews, monitor pipeline, view Gold KPIs and ML feature-importance outputs.","textChars":88,"textLines":1,"bbox":[876,286,285,170]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":6,"text":"Admin page is reached by email pattern: @admin.altimetrik.com","textPreview":"Admin page is reached by email pattern: @admin.altimetrik.com","textChars":61,"textLines":1,"bbox":[92,570,820,30]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":6,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/by9pz6","slide":6,"text":""}
+{"kind":"slide","id":"sl/fsedq1","slide":7,"title":"TALENTFLOW AI MID TERM","textShapes":11}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":7,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":7,"text":"Database design: normalized recruitment schema","textPreview":"Database design: normalized recruitment schema","textChars":46,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/4r65wjud","slide":7,"bbox":[54,142,1172,1.5]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":7,"bbox":[835,172,340,380]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":7,"text":"Why this matters","textPreview":"Why this matters","textChars":16,"textLines":1,"bbox":[862,196,280,34]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":7,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[862,261,20,26]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":7,"text":"Candidate profile separated from education, logins and audit history.","textPreview":"Candidate profile separated from education, logins and audit history.","textChars":69,"textLines":1,"bbox":[890,260,242,56]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":7,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[862,331,20,26]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":7,"text":"Interview schedules link candidates, jobs, interviewers and stages.","textPreview":"Interview schedules link candidates, jobs, interviewers and stages.","textChars":67,"textLines":1,"bbox":[890,330,242,56]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":7,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[862,401,20,26]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":7,"text":"Feedback and responses become analytical signals for funnel and ML insights.","textPreview":"Feedback and responses become analytical signals for funnel and ML insights.","textChars":76,"textLines":1,"bbox":[890,400,242,56]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":7,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"image","id":"im/qtcj6tov","slide":7,"name":"","alt":"TalentFlow ER diagram","bbox":[60,160,730,455]}
+{"kind":"notes","id":"nt/fsedq1","slide":7,"text":""}
+{"kind":"slide","id":"sl/xesac8","slide":8,"title":"TALENTFLOW AI MID TERM","textShapes":14}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":8,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":8,"text":"ELT pipeline: Bronze → Silver → Gold","textPreview":"ELT pipeline: Bronze → Silver → Gold","textChars":36,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":8,"bbox":[54,142,1172,1.5]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":8,"bbox":[70,220,300,160]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":8,"text":"Bronze","textPreview":"Bronze","textChars":6,"textLines":1,"bbox":[84,234,272,26]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":8,"text":"Raw PostgreSQL tables extracted to versioned parquet plus latest copies.","textPreview":"Raw PostgreSQL tables extracted to versioned parquet plus latest copies.","textChars":72,"textLines":1,"bbox":[84,272,272,98]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":8,"bbox":[490,220,300,160]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":8,"text":"Silver","textPreview":"Silver","textChars":6,"textLines":1,"bbox":[504,234,272,26]}
+{"kind":"textbox","id":"sh/u54zidon","slide":8,"text":"PII encrypted, candidate snapshots tracked with row_hash, start_date, end_date and is_current.","textPreview":"PII encrypted, candidate snapshots tracked with row_hash, start_date, end_date and is_current.","textChars":94,"textLines":1,"bbox":[504,272,272,98]}
+{"kind":"shape","id":"sh/cbulwval","slide":8,"bbox":[910,220,300,160]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":8,"text":"Gold","textPreview":"Gold","textChars":4,"textLines":1,"bbox":[924,234,272,26]}
+{"kind":"textbox","id":"sh/u54zidon","slide":8,"text":"DuckDB creates KPI parquet datasets: city score, salary benchmarks, engagement, funnel, hire rate.","textPreview":"DuckDB creates KPI parquet datasets: city score, salary benchmarks, engagement, funnel, hire rate.","textChars":98,"textLines":1,"bbox":[924,272,272,98]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[400,266,70,48]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[820,266,70,48]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":8,"bbox":[155,455,970,145]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":8,"text":"run_elt.py","textPreview":"run_elt.py","textChars":10,"textLines":1,"bbox":[173,469,934,24]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":8,"text":"run_datetime = run_datetime or make_run_datetime()\nbronze_flow(run_datetime)\nsilver_flow(run_datetime)\ngold_flow(run_datetime, publish_postgres=True)","textPreview":"run_datetime = run_datetime or make_run_datetime() | bronze_flow(run_datetime) | silver_flow(run_datetime) | gold_flow(run_datetime, publ...","textChars":149,"textLines":4,"bbox":[173,503,934,85]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":8,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/xesac8","slide":8,"text":""}
+{"kind":"slide","id":"sl/w2yk92","slide":9,"title":"TALENTFLOW AI MID TERM","textShapes":13}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":9,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":9,"text":"Security and history tracking in Silver","textPreview":"Security and history tracking in Silver","textChars":39,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/at47y1kr","slide":9,"bbox":[54,142,1172,1.5]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":9,"bbox":[72,176,660,360]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":9,"text":"elt_silver.py - key logic","textPreview":"elt_silver.py - key logic","textChars":25,"textLines":1,"bbox":[90,190,624,24]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":9,"text":"df[\"row_hash\"] = df.apply(lambda row: _row_hash(row, tracked_columns), axis=1)\ndf[\"start_date\"] = now\ndf[\"end_date\"] = pd.NaT\ndf[\"is_current\"] = True\n\n# Fernet ciphertext is text, so numeric PII columns are cast safely\ndf[col] = df[col].astype(\"object\")\ndf.loc[mask, col] = df.loc[mask, col].apply(odin_encrypt)","textPreview":"df[\"row_hash\"] = df.apply(lambda row: _row_hash(row, tracked_columns), axis=1) | df[\"start_date\"] = now | df[\"end_date\"] = pd.NaT | df[\"i...","textChars":311,"textLines":8,"bbox":[90,224,624,300]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":9,"bbox":[780,185,380,320]}
+{"kind":"textbox","id":"sh/lwval87e","slide":9,"text":"Mid-term improvement","textPreview":"Mid-term improvement","textChars":20,"textLines":1,"bbox":[812,216,310,30]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":9,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[812,281,20,26]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":9,"text":"Sensitive attributes are encrypted before analytical storage.","textPreview":"Sensitive attributes are encrypted before analytical storage.","textChars":61,"textLines":1,"bbox":[840,280,267,52]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":9,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[812,347,20,26]}
+{"kind":"textbox","id":"sh/knih4byh","slide":9,"text":"SCD2-style snapshots keep candidate history for point-in-time analysis.","textPreview":"SCD2-style snapshots keep candidate history for point-in-time analysis.","textChars":71,"textLines":1,"bbox":[840,346,267,52]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":9,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[812,413,20,26]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":9,"text":"Recent fixes made repeated scheduled runs stable for demo data.","textPreview":"Recent fixes made repeated scheduled runs stable for demo data.","textChars":63,"textLines":1,"bbox":[840,412,267,52]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":9,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/w2yk92","slide":9,"text":""}
+{"kind":"slide","id":"sl/8drotd","slide":10,"title":"TALENTFLOW AI MID TERM","textShapes":5}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":10,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":10,"text":"Visual evidence from submitted report","textPreview":"Visual evidence from submitted report","textChars":37,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":10,"bbox":[54,142,1172,1.5]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":10,"text":"These screenshots prove UI progress, Gold analytics visibility, and Prefect scheduled execution evidence.","textPreview":"These screenshots prove UI progress, Gold analytics visibility, and Prefect scheduled execution evidence.","textChars":105,"textLines":1,"bbox":[80,620,1040,34]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":10,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"image","id":"im/j6tovaho","slide":10,"name":"","alt":"Candidate and admin screenshots from report","bbox":[54,160,360,440]}
+{"kind":"image","id":"im/ulwval87","slide":10,"name":"","alt":"Gold dashboard screenshot from report","bbox":[460,160,360,440]}
+{"kind":"image","id":"im/1cfa9w3m","slide":10,"name":"","alt":"Prefect screenshots from report","bbox":[866,160,360,440]}
+{"kind":"notes","id":"nt/8drotd","slide":10,"text":""}
+{"kind":"slide","id":"sl/g3gpx5","slide":11,"title":"TALENTFLOW AI MID TERM","textShapes":16}
+{"kind":"textbox","id":"sh/4r65wjud","slide":11,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":11,"text":"Prefect Cloud demo: scheduled every 2 minutes","textPreview":"Prefect Cloud demo: scheduled every 2 minutes","textChars":45,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":11,"bbox":[54,142,1172,1.5]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":11,"bbox":[80,178,520,180]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":11,"text":"Command used for the live demo","textPreview":"Command used for the live demo","textChars":30,"textLines":1,"bbox":[98,192,484,24]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":11,"text":"cd D:\\TalentFlow_AI\nprefect cloud login\npython scripts\\serve_elt_prefect_cloud.py","textPreview":"cd D:\\TalentFlow_AI | prefect cloud login | python scripts\\serve_elt_prefect_cloud.py","textChars":81,"textLines":3,"bbox":[98,226,484,120]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":11,"bbox":[670,180,480,250]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":11,"text":"What examiner should see","textPreview":"What examiner should see","textChars":24,"textLines":1,"bbox":[700,210,380,34]}
+{"kind":"textbox","id":"sh/83itgfml","slide":11,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[700,269,20,26]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":11,"text":"Deployment: TalentFlow-Full-ELT / talentflow-elt-every-2-min-demo","textPreview":"Deployment: TalentFlow-Full-ELT / talentflow-elt-every-2-min-demo","textChars":65,"textLines":1,"bbox":[728,268,352,35]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":11,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[700,313,20,26]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":11,"text":"New flow run appears every 2 minutes","textPreview":"New flow run appears every 2 minutes","textChars":36,"textLines":1,"bbox":[728,312,352,35]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":11,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[700,357,20,26]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":11,"text":"Subflows show Bronze, Silver and Gold execution","textPreview":"Subflows show Bronze, Silver and Gold execution","textChars":47,"textLines":1,"bbox":[728,356,352,35]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":11,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[700,401,20,26]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":11,"text":"Completed runs confirm scheduled ETL is working","textPreview":"Completed runs confirm scheduled ETL is working","textChars":47,"textLines":1,"bbox":[728,400,352,35]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":11,"text":"If the lake is reset, delete bronze/silver/gold files only; keep PostgreSQL source data intact.","textPreview":"If the lake is reset, delete bronze/silver/gold files only; keep PostgreSQL source data intact.","textChars":95,"textLines":1,"bbox":[92,520,960,44]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":11,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/g3gpx5","slide":11,"text":""}
+{"kind":"slide","id":"sl/tfeo1r","slide":12,"title":"TALENTFLOW AI MID TERM","textShapes":30}
+{"kind":"textbox","id":"sh/xczed8v6","slide":12,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":12,"text":"Gold analytics and ML baseline results","textPreview":"Gold analytics and ML baseline results","textChars":38,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/fa9w3m94","slide":12,"bbox":[54,142,1172,1.5]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":12,"bbox":[70,180,260,112]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":12,"text":"0.502","textPreview":"0.502","textChars":5,"textLines":1,"bbox":[90,198,220,44]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":12,"text":"hire prediction accuracy","textPreview":"hire prediction accuracy","textChars":24,"textLines":1,"bbox":[90,248,220,30]}
+{"kind":"shape","id":"sh/fyxobm58","slide":12,"bbox":[370,180,260,112]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":12,"text":"0.343","textPreview":"0.343","textChars":5,"textLines":1,"bbox":[390,198,220,44]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":12,"text":"decision model accuracy","textPreview":"decision model accuracy","textChars":23,"textLines":1,"bbox":[390,248,220,30]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":12,"bbox":[670,180,260,112]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":12,"text":"1.23","textPreview":"1.23","textChars":4,"textLines":1,"bbox":[690,198,220,44]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":12,"text":"rating MAE baseline","textPreview":"rating MAE baseline","textChars":19,"textLines":1,"bbox":[690,248,220,30]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":12,"bbox":[970,180,230,112]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":12,"text":"45","textPreview":"45","textChars":2,"textLines":1,"bbox":[990,198,190,44]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":12,"text":"feature rows shown in admin","textPreview":"feature rows shown in admin","textChars":27,"textLines":1,"bbox":[990,248,190,30]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":12,"text":"Gold datasets surfaced","textPreview":"Gold datasets surfaced","textChars":22,"textLines":1,"bbox":[84,345,420,34]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":12,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[94,401,20,26]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":12,"text":"city_talent_score","textPreview":"city_talent_score","textChars":17,"textLines":1,"bbox":[122,400,392,28]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":12,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[94,437,20,26]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":12,"text":"salary_benchmarks","textPreview":"salary_benchmarks","textChars":17,"textLines":1,"bbox":[122,436,392,28]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":12,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[94,473,20,26]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":12,"text":"candidate_engagement","textPreview":"candidate_engagement","textChars":20,"textLines":1,"bbox":[122,472,392,28]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":12,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[94,509,20,26]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":12,"text":"interview_pipeline_funnel","textPreview":"interview_pipeline_funnel","textChars":25,"textLines":1,"bbox":[122,508,392,28]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":12,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[94,545,20,26]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":12,"text":"job_hire_rate","textPreview":"job_hire_rate","textChars":13,"textLines":1,"bbox":[122,544,392,28]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":12,"text":"Interpretation","textPreview":"Interpretation","textChars":14,"textLines":1,"bbox":[650,345,420,34]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":12,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[660,401,20,26]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":12,"text":"Models are baseline evidence that the ML pipeline works end-to-end.","textPreview":"Models are baseline evidence that the ML pipeline works end-to-end.","textChars":67,"textLines":1,"bbox":[688,400,442,46]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":12,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[660,459,20,26]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":12,"text":"Final phase should improve feature quality, class balance and model evaluation.","textPreview":"Final phase should improve feature quality, class balance and model evaluation.","textChars":79,"textLines":1,"bbox":[688,458,442,46]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":12,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[660,517,20,26]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":12,"text":"Feature importance is published to analytics.ml_feature_insights for business visibility.","textPreview":"Feature importance is published to analytics.ml_feature_insights for business visibility.","textChars":89,"textLines":1,"bbox":[688,516,442,46]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":12,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/tfeo1r","slide":12,"text":""}
+{"kind":"slide","id":"sl/oocb66","slide":13,"title":"TALENTFLOW AI MID TERM","textShapes":18}
+{"kind":"textbox","id":"sh/val87ed8","slide":13,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":13,"text":"Validation and quality checks","textPreview":"Validation and quality checks","textChars":29,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/dcbulwva","slide":13,"bbox":[54,142,1172,1.5]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":13,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[86,180,60,40]}
+{"kind":"textbox","id":"sh/vixczed8","slide":13,"text":"Demo safety","textPreview":"Demo safety","textChars":11,"textLines":1,"bbox":[170,180,360,32]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":13,"text":"Data reset guarded by ALLOW_DEMO_DATA_RESET.","textPreview":"Data reset guarded by ALLOW_DEMO_DATA_RESET.","textChars":44,"textLines":1,"bbox":[540,182,560,44]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":13,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[86,272,60,40]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":13,"text":"Gold checks","textPreview":"Gold checks","textChars":11,"textLines":1,"bbox":[170,272,360,32]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":13,"text":"Schema, row counts, null/range checks, reconciliation and formulas.","textPreview":"Schema, row counts, null/range checks, reconciliation and formulas.","textChars":67,"textLines":1,"bbox":[540,274,560,44]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":13,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[86,364,60,40]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":13,"text":"Contract tests","textPreview":"Contract tests","textChars":14,"textLines":1,"bbox":[170,364,360,32]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":13,"text":"SCD2 hashes, lake versioning, optional PostgreSQL publish and Hive definitions.","textPreview":"SCD2 hashes, lake versioning, optional PostgreSQL publish and Hive definitions.","textChars":79,"textLines":1,"bbox":[540,366,560,44]}
+{"kind":"textbox","id":"sh/sji5snel","slide":13,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[86,456,60,40]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":13,"text":"Dashboard","textPreview":"Dashboard","textChars":9,"textLines":1,"bbox":[170,456,360,32]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":13,"text":"Admin page exposes Gold KPIs and ML feature insights.","textPreview":"Admin page exposes Gold KPIs and ML feature insights.","textChars":53,"textLines":1,"bbox":[540,458,560,44]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":13,"bbox":[230,560,760,70]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":13,"text":"Validation command","textPreview":"Validation command","textChars":18,"textLines":1,"bbox":[248,574,724,24]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":13,"text":"python scripts\\validate_gold_analytics.py\npython -m pytest","textPreview":"python scripts\\validate_gold_analytics.py | python -m pytest","textChars":58,"textLines":2,"bbox":[248,608,724,10]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":13,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/oocb66","slide":13,"text":""}
+{"kind":"slide","id":"sl/m8a61v","slide":14,"title":"TALENTFLOW AI MID TERM","textShapes":16}
+{"kind":"textbox","id":"sh/xs72x4na","slide":14,"text":"TALENTFLOW AI MID TERM","textPreview":"TALENTFLOW AI MID TERM","textChars":22,"textLines":1,"bbox":[54,34,520,26]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":14,"text":"Plan from mid-term to final submission","textPreview":"Plan from mid-term to final submission","textChars":38,"textLines":1,"bbox":[54,70,1060,58]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":14,"bbox":[54,142,1172,1.5]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":14,"bbox":[66,190,250,340]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":14,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[88,220,48,44]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":14,"text":"Harden pipeline","textPreview":"Harden pipeline","textChars":15,"textLines":1,"bbox":[88,292,200,70]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":14,"text":"CDC/incremental loads, partition repair, robust SCD2 testing.","textPreview":"CDC/incremental loads, partition repair, robust SCD2 testing.","textChars":61,"textLines":1,"bbox":[88,400,200,90]}
+{"kind":"shape","id":"sh/8v6psfil","slide":14,"bbox":[366,190,250,340]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":14,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[388,220,48,44]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":14,"text":"Improve models","textPreview":"Improve models","textChars":14,"textLines":1,"bbox":[388,292,200,70]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":14,"text":"Richer behavioral features, model cards, drift checks and clearer evaluation.","textPreview":"Richer behavioral features, model cards, drift checks and clearer evaluation.","textChars":77,"textLines":1,"bbox":[388,400,200,90]}
+{"kind":"shape","id":"sh/vixczed8","slide":14,"bbox":[666,190,250,340]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":14,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[688,220,48,44]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":14,"text":"Natural language layer","textPreview":"Natural language layer","textChars":22,"textLines":1,"bbox":[688,292,200,70]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":14,"text":"Guarded Text-to-SQL over Gold analytics schema.","textPreview":"Guarded Text-to-SQL over Gold analytics schema.","textChars":47,"textLines":1,"bbox":[688,400,200,90]}
+{"kind":"shape","id":"sh/val87ed8","slide":14,"bbox":[966,190,250,340]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":14,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[988,220,48,44]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":14,"text":"Final polish","textPreview":"Final polish","textChars":12,"textLines":1,"bbox":[988,292,200,70]}
+{"kind":"textbox","id":"sh/knih4byh","slide":14,"text":"Screenshots, dashboards, result analysis and production readiness write-up.","textPreview":"Screenshots, dashboards, result analysis and production readiness write-up.","textChars":75,"textLines":1,"bbox":[988,400,200,90]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":14,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/m8a61v","slide":14,"text":""}
+{"kind":"slide","id":"sl/c48q3p","slide":15,"title":"What has been proven at mid-term","textShapes":14}
+{"kind":"textbox","id":"sh/7u54zido","slide":15,"text":"What has been proven at mid-term","textPreview":"What has been proven at mid-term","textChars":32,"textLines":1,"bbox":[54,72,860,64]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":15,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[92,191,20,26]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":15,"text":"A working recruitment portal exists for candidate, interviewer and admin roles.","textPreview":"A working recruitment portal exists for candidate, interviewer and admin roles.","textChars":79,"textLines":1,"bbox":[120,190,952,44]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":15,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[92,251,20,26]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":15,"text":"Operational PostgreSQL data flows into Bronze, Silver and Gold lake layers.","textPreview":"Operational PostgreSQL data flows into Bronze, Silver and Gold lake layers.","textChars":75,"textLines":1,"bbox":[120,250,952,44]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":15,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[92,311,20,26]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":15,"text":"PII protection, SCD2-style history and versioned parquet partitions are implemented.","textPreview":"PII protection, SCD2-style history and versioned parquet partitions are implemented.","textChars":84,"textLines":1,"bbox":[120,310,952,44]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":15,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[92,371,20,26]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":15,"text":"Prefect Cloud can show scheduled ELT execution every 2 minutes.","textPreview":"Prefect Cloud can show scheduled ELT execution every 2 minutes.","textChars":63,"textLines":1,"bbox":[120,370,952,44]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":15,"text":"▪","textPreview":"▪","textChars":1,"textLines":1,"bbox":[92,431,20,26]}
+{"kind":"textbox","id":"sh/u54zidon","slide":15,"text":"Gold KPIs and ML feature insights are ready for examiner demo.","textPreview":"Gold KPIs and ML feature insights are ready for examiner demo.","textChars":62,"textLines":1,"bbox":[120,430,952,44]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":15,"text":"Thank you","textPreview":"Thank you","textChars":9,"textLines":1,"bbox":[854,590,300,56]}
+{"kind":"textbox","id":"sh/cbulwval","slide":15,"text":"2024DA04133 | Malikulashtar K M","textPreview":"2024DA04133 | Malikulashtar K M","textChars":31,"textLines":1,"bbox":[54,675,500,24]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1178,675,48,24]}
+{"kind":"notes","id":"nt/c48q3p","slide":15,"text":""}

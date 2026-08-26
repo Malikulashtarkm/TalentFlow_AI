@@ -1,0 +1,26 @@
+feature,importance
+num__expected_salary,0.08926114606428491
+num__gpa,0.0870657412535547
+num__passing_year,0.06576359969300395
+num__login_count,0.057889935622117576
+cat__state_Maharashtra,0.04421794686233871
+cat__state_Assam,0.04110673400278421
+cat__degree_B.Sc,0.027286786911491726
+cat__stage_name_Screening,0.02658884568153058
+cat__state_Kerala,0.02352331080759927
+cat__state_Tripura,0.020170960891319173
+cat__stage_name_Technical Round 1,0.01513490723166704
+cat__state_Karnataka,0.015118273143545025
+cat__department_AI/ML,0.013709329696657717
+cat__department_Business Intelligence,0.01364693131481426
+cat__state_West Bengal,0.013193169836627617
+cat__job_title_Cloud Architect,0.012961992061886201
+cat__city_Nandyal,0.012855747146807615
+cat__job_location_Bangalore,0.012192314037959931
+cat__job_title_ML Engineer,0.01188555757955063
+"cat__salary_range_120,000 - 180,000",0.011794923330500503
+cat__degree_B.Tech,0.011606919186590318
+cat__degree_M.Tech,0.011562660438762034
+cat__state_Meghalaya,0.011220426074684505
+cat__job_title_Data Scientist,0.011002212841780181
+cat__department_Data Platform,0.010938653970370717

@@ -1,0 +1,589 @@
+{"kind":"deck","id":"pr/jq20va","name":"Deck"}
+{"kind":"layout","layoutId":"651a54d0-2194-4bfe-babb-841e2c2f1b7f","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"82aa98a5-2d3f-403e-8276-180f9442bc8a","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/ms549b","slide":1,"title":"FINAL REVIEW","textShapes":12}
+{"kind":"shape","id":"sh/wrmlcf6l","slide":1,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/bqtkja50","slide":1,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/apk3a5of","slide":1,"text":"FINAL REVIEW","textPreview":"FINAL REVIEW","textChars":12,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/9ob2h0na","slide":1,"text":"Slide 1","textPreview":"Slide 1","textChars":7,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/on2l8v6p","slide":1,"text":"TalentFlow AI","textPreview":"TalentFlow AI","textChars":13,"textLines":1,"bbox":[60,135,780,74]}
+{"kind":"textbox","id":"sh/nmtkfq54","slide":1,"text":"Enterprise Candidate Relationship Management and Predictive Intelligence Ecosystem","textPreview":"Enterprise Candidate Relationship Management and Predictive Intelligence Ecosystem","textChars":82,"textLines":1,"bbox":[62,215,1000,38]}
+{"kind":"textbox","id":"sh/mlk365oj","slide":1,"text":"Final project presentation covering the implemented portal, PostgreSQL schema, Azure lakehouse, ML insights, validation, and NLP-based conversational analytics agent.","textPreview":"Final project presentation covering the implemented portal, PostgreSQL schema, Azure lakehouse, ML insights, validation, and NLP-based co...","textChars":166,"textLines":1,"bbox":[62,284,960,58]}
+{"kind":"shape","id":"sh/1kb2d0ny","slide":1,"bbox":[60,515,250,94]}
+{"kind":"shape","id":"sh/0jil4v6d","slide":1,"bbox":[60,515,250,4]}
+{"kind":"textbox","id":"sh/6903yt0r","slide":1,"text":"2024DA04133","textPreview":"2024DA04133","textChars":11,"textLines":1,"bbox":[78,535,214,28]}
+{"kind":"textbox","id":"sh/7a947yhc","slide":1,"text":"BITS ID","textPreview":"BITS ID","textChars":7,"textLines":1,"bbox":[78,573,214,24]}
+{"kind":"shape","id":"sh/8vil03ix","slide":1,"bbox":[330,515,250,94]}
+{"kind":"shape","id":"sh/twrm9ozi","slide":1,"bbox":[330,515,250,4]}
+{"kind":"textbox","id":"sh/y5g3u90v","slide":1,"text":"Final Submission","textPreview":"Final Submission","textChars":16,"textLines":1,"bbox":[348,535,214,28]}
+{"kind":"textbox","id":"sh/j6p43ehg","slide":1,"text":"WILP dissertation stage","textPreview":"WILP dissertation stage","textChars":23,"textLines":1,"bbox":[348,573,214,24]}
+{"kind":"shape","id":"sh/k7ylwji1","slide":1,"bbox":[600,515,250,94]}
+{"kind":"shape","id":"sh/l8rm5ozm","slide":1,"bbox":[600,515,250,4]}
+{"kind":"textbox","id":"sh/a1g3q90z","slide":1,"text":"Altimetrik","textPreview":"Altimetrik","textChars":10,"textLines":1,"bbox":[618,535,214,28]}
+{"kind":"textbox","id":"sh/b2p4zeh4","slide":1,"text":"Host organization","textPreview":"Host organization","textChars":17,"textLines":1,"bbox":[618,573,214,24]}
+{"kind":"textbox","id":"sh/f6l0raxw","slide":1,"text":"Malikulashtar K Malampatiwalla","textPreview":"Malikulashtar K Malampatiwalla","textChars":30,"textLines":1,"bbox":[60,634,520,20]}
+{"kind":"notes","id":"nt/ms549b","slide":1,"text":"[Sources]\nLocal source deck used for styling: TalentFlow_AI_Professional_Mid_Term_With_Screenshots_2024DA04133.pptx\nFinal report: TalentFlow_AI_Final_Project_Report_2024DA04133.pdf"}
+{"kind":"slide","id":"sl/xhps6u","slide":2,"title":"NARRATIVE","textShapes":16}
+{"kind":"shape","id":"sh/m5k3y5cj","slide":2,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/98bm90va","slide":2,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/872l0vup","slide":2,"text":"NARRATIVE","textPreview":"NARRATIVE","textChars":9,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/vad4bad0","slide":2,"text":"Slide 2","textPreview":"Slide 2","textChars":7,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/a9k325cf","slide":2,"text":"Final Presentation Roadmap","textPreview":"Final Presentation Roadmap","textChars":26,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/xcvmdkb6","slide":2,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/wbm54ful","slide":2,"text":"The final review is structured to help the examiner see the problem, the implemented system, the intelligence layer, and the project evidence.","textPreview":"The final review is structured to help the examiner see the problem, the implemented system, the intelligence layer, and the project evid...","textChars":142,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/jed4futc","slide":2,"bbox":[70,190,530,128]}
+{"kind":"textbox","id":"sh/id4n6pcr","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[90,212,34,34]}
+{"kind":"textbox","id":"sh/obetwbyh","slide":2,"text":"Why TalentFlow AI?","textPreview":"Why TalentFlow AI?","textChars":18,"textLines":1,"bbox":[140,214,420,26]}
+{"kind":"textbox","id":"sh/9wna5gf2","slide":2,"text":"Recruitment data fragmentation, historical profile loss, slow reporting, and privacy exposure.","textPreview":"Recruitment data fragmentation, historical profile loss, slow reporting, and privacy exposure.","textChars":94,"textLines":1,"bbox":[140,250,425,48]}
+{"kind":"shape","id":"sh/m9crulgb","slide":2,"bbox":[645,190,530,128]}
+{"kind":"textbox","id":"sh/na5s36xw","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[665,212,34,34]}
+{"kind":"textbox","id":"sh/wzet0ved","slide":2,"text":"What was built","textPreview":"What was built","textChars":14,"textLines":1,"bbox":[715,214,420,26]}
+{"kind":"textbox","id":"sh/x0na90fy","slide":2,"text":"Role-based portal, PostgreSQL schema, medallion ELT, Gold analytics, ML, and Ask Data.","textPreview":"Role-based portal, PostgreSQL schema, medallion ELT, Gold analytics, ML, and Ask Data.","textChars":86,"textLines":1,"bbox":[715,250,425,48]}
+{"kind":"shape","id":"sh/axwbylwn","slide":2,"bbox":[70,375,530,128]}
+{"kind":"textbox","id":"sh/by5s7qxs","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[90,397,34,34]}
+{"kind":"textbox","id":"sh/k3yt4vep","slide":2,"text":"What is new after mid-term","textPreview":"What is new after mid-term","textChars":26,"textLines":1,"bbox":[140,399,420,26]}
+{"kind":"textbox","id":"sh/547ad0fa","slide":2,"text":"NLP semantic matcher, downloaded Hugging Face LLM mode, feedback memory, and SQL repair.","textPreview":"NLP semantic matcher, downloaded Hugging Face LLM mode, feedback memory, and SQL repair.","textChars":88,"textLines":1,"bbox":[140,435,425,48]}
+{"kind":"shape","id":"sh/tk3ah07e","slide":2,"bbox":[645,375,530,128]}
+{"kind":"textbox","id":"sh/sju9ov6t","slide":2,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[665,397,34,34]}
+{"kind":"textbox","id":"sh/rilsfqp8","slide":2,"text":"How it is validated","textPreview":"How it is validated","textChars":19,"textLines":1,"bbox":[715,399,420,26]}
+{"kind":"textbox","id":"sh/6hcrmlon","slide":2,"text":"Gold reconciliation, contract tests, agent tests, ML metrics, and security controls.","textPreview":"Gold reconciliation, contract tests, agent tests, ML metrics, and security controls.","textChars":84,"textLines":1,"bbox":[715,435,425,48]}
+{"kind":"notes","id":"nt/xhps6u","slide":2,"text":"[Sources]\nFinal report sections 1, 4, 8, 9 and 10."}
+{"kind":"slide","id":"sl/hsc5ka","slide":3,"title":"CONTEXT","textShapes":11}
+{"kind":"shape","id":"sh/x8nexkfu","slide":3,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/a5wfmpgj","slide":3,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/v65wvax4","slide":3,"text":"CONTEXT","textPreview":"CONTEXT","textChars":7,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/kbyxszyl","slide":3,"text":"Slide 3","textPreview":"Slide 3","textChars":7,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/5w7el4f6","slide":3,"text":"The problem is not only hiring workflow, it is analytical trust","textPreview":"The problem is not only hiring workflow, it is analytical trust","textChars":63,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/i9wfqpgf","slide":3,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/japwzux0","slide":3,"text":"TalentFlow AI converts operational recruitment events into secured, versioned, and explainable decision-support data.","textPreview":"TalentFlow AI converts operational recruitment events into secured, versioned, and explainable decision-support data.","textChars":117,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/0fuxgvyh","slide":3,"bbox":[60,200,350,270]}
+{"kind":"shape","id":"sh/l03ep0zm","slide":3,"bbox":[60,200,350,4]}
+{"kind":"textbox","id":"sh/1s365wna","slide":3,"text":"Operational fragmentation","textPreview":"Operational fragmentation","textChars":25,"textLines":1,"bbox":[78,220,314,28]}
+{"kind":"textbox","id":"sh/07upwrmp","slide":3,"text":"Candidate profile, interview schedule, feedback, login, and education data often live in separate screens or spreadsheets.","textPreview":"Candidate profile, interview schedule, feedback, login, and education data often live in separate screens or spreadsheets.","textChars":122,"textLines":1,"bbox":[78,258,314,200]}
+{"kind":"shape","id":"sh/z6lo3m54","slide":3,"bbox":[465,200,350,270]}
+{"kind":"shape","id":"sh/e5c7uh4z","slide":3,"bbox":[465,200,350,4]}
+{"kind":"textbox","id":"sh/9wn69wnm","slide":3,"text":"History loss","textPreview":"History loss","textChars":12,"textLines":1,"bbox":[483,220,314,28]}
+{"kind":"textbox","id":"sh/ovep0rm1","slide":3,"text":"Profile updates overwrite previous state unless audit and SCD2 logic capture change over time.","textPreview":"Profile updates overwrite previous state unless audit and SCD2 logic capture change over time.","textChars":94,"textLines":1,"bbox":[483,258,314,200]}
+{"kind":"shape","id":"sh/nu5o7m5g","slide":3,"bbox":[870,200,350,270]}
+{"kind":"shape","id":"sh/mtw7yh4v","slide":3,"bbox":[870,200,350,4]}
+{"kind":"textbox","id":"sh/x0nqdgni","slide":3,"text":"Analytics bottleneck","textPreview":"Analytics bottleneck","textChars":20,"textLines":1,"bbox":[888,220,314,28]}
+{"kind":"textbox","id":"sh/wzep4bmx","slide":3,"text":"Hiring managers need KPIs and natural-language answers without waiting for manual SQL or exported reports.","textPreview":"Hiring managers need KPIs and natural-language answers without waiting for manual SQL or exported reports.","textChars":106,"textLines":1,"bbox":[888,258,314,200]}
+{"kind":"textbox","id":"sh/gf6hwjyl","slide":3,"text":"Design implication: the project is a governed recruitment data product, not only a CRUD application.","textPreview":"Design implication: the project is a governed recruitment data product, not only a CRUD application.","textChars":100,"textLines":1,"bbox":[85,560,1080,30]}
+{"kind":"notes","id":"nt/hsc5ka","slide":3,"text":"[Sources]\nFinal report section 1: problem statement and objectives."}
+{"kind":"slide","id":"sl/70492v","slide":4,"title":"OBJECTIVES","textShapes":22}
+{"kind":"shape","id":"sh/21o76l87","slide":4,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/p4zq10ry","slide":4,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/o36p8vqd","slide":4,"text":"OBJECTIVES","textPreview":"OBJECTIVES","textChars":10,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/b6h83a9o","slide":4,"text":"Slide 4","textPreview":"Slide 4","textChars":7,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/a587a583","slide":4,"text":"All core project objectives were completed","textPreview":"All core project objectives were completed","textChars":42,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/x8zq50ru","slide":4,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/c7q9cfq9","slide":4,"text":"The final build covers operational capture, engineering, analytics, intelligence, security, and validation.","textPreview":"The final build covers operational capture, engineering, analytics, intelligence, security, and validation.","textChars":107,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/rad8r69k","slide":4,"bbox":[80,190,1120,46]}
+{"kind":"textbox","id":"sh/6947y1sz","slide":4,"text":"Role-aware portal","textPreview":"Role-aware portal","textChars":17,"textLines":1,"bbox":[105,203,230,22]}
+{"kind":"textbox","id":"sh/snihk3q9","slide":4,"text":"Candidate, admin, interviewer workflows","textPreview":"Candidate, admin, interviewer workflows","textChars":39,"textLines":1,"bbox":[360,203,620,22]}
+{"kind":"textbox","id":"sh/toryt87u","slide":4,"text":"Implemented","textPreview":"Implemented","textChars":11,"textLines":1,"bbox":[1030,203,120,22]}
+{"kind":"shape","id":"sh/6l0zid83","slide":4,"bbox":[80,248,1120,46]}
+{"kind":"textbox","id":"sh/7m9grypo","slide":4,"text":"Normalized database","textPreview":"Normalized database","textChars":19,"textLines":1,"bbox":[105,261,230,22]}
+{"kind":"textbox","id":"sh/gr2honq5","slide":4,"text":"Recruitment entities with relationships","textPreview":"Recruitment entities with relationships","textChars":39,"textLines":1,"bbox":[360,261,620,22]}
+{"kind":"textbox","id":"sh/hsbyxs7q","slide":4,"text":"Implemented","textPreview":"Implemented","textChars":11,"textLines":1,"bbox":[1030,261,120,22]}
+{"kind":"shape","id":"sh/up0zmd8z","slide":4,"bbox":[80,306,1120,46]}
+{"kind":"textbox","id":"sh/fq9gvipk","slide":4,"text":"Medallion ELT","textPreview":"Medallion ELT","textChars":13,"textLines":1,"bbox":[105,319,230,22]}
+{"kind":"textbox","id":"sh/wvyxcjq1","slide":4,"text":"Bronze, Silver, Gold Parquet pipeline","textPreview":"Bronze, Silver, Gold Parquet pipeline","textChars":37,"textLines":1,"bbox":[360,319,620,22]}
+{"kind":"textbox","id":"sh/xw7ylorm","slide":4,"text":"Implemented","textPreview":"Implemented","textChars":11,"textLines":1,"bbox":[1030,319,120,22]}
+{"kind":"shape","id":"sh/d0fmtgfy","slide":4,"bbox":[80,364,1120,46]}
+{"kind":"textbox","id":"sh/cf650bed","slide":4,"text":"Privacy controls","textPreview":"Privacy controls","textChars":16,"textLines":1,"bbox":[105,377,230,22]}
+{"kind":"textbox","id":"sh/rex4rqx8","slide":4,"text":"Fernet encryption and SCD2 history","textPreview":"Fernet encryption and SCD2 history","textChars":34,"textLines":1,"bbox":[360,377,620,22]}
+{"kind":"textbox","id":"sh/qdonylwn","slide":4,"text":"Implemented","textPreview":"Implemented","textChars":11,"textLines":1,"bbox":[1030,377,120,22]}
+{"kind":"shape","id":"sh/14z6x0fa","slide":4,"bbox":[80,422,1120,46]}
+{"kind":"textbox","id":"sh/03q54vep","slide":4,"text":"Predictive layer","textPreview":"Predictive layer","textChars":16,"textLines":1,"bbox":[105,435,230,22]}
+{"kind":"textbox","id":"sh/z2xovqx4","slide":4,"text":"Random Forest models and feature insight publishing","textPreview":"Random Forest models and feature insight publishing","textChars":51,"textLines":1,"bbox":[360,435,620,22]}
+{"kind":"textbox","id":"sh/e1on2lwj","slide":4,"text":"Implemented","textPreview":"Implemented","textChars":11,"textLines":1,"bbox":[1030,435,120,22]}
+{"kind":"shape","id":"sh/98z610f6","slide":4,"bbox":[80,480,1120,46]}
+{"kind":"textbox","id":"sh/o7q58vel","slide":4,"text":"Conversational analytics","textPreview":"Conversational analytics","textChars":24,"textLines":1,"bbox":[105,493,230,22]}
+{"kind":"textbox","id":"sh/6dkjmxc3","slide":4,"text":"NLP matcher, Hugging Face LLM, SQL repair, feedback memory","textPreview":"NLP matcher, Hugging Face LLM, SQL repair, feedback memory","textChars":58,"textLines":1,"bbox":[360,493,620,22]}
+{"kind":"textbox","id":"sh/7etkv2do","slide":4,"text":"Implemented","textPreview":"Implemented","textChars":11,"textLines":1,"bbox":[1030,493,120,22]}
+{"kind":"notes","id":"nt/70492v","slide":4,"text":"[Sources]\nFinal report abstract, sections 3 and 8."}
+{"kind":"slide","id":"sl/14ytbh","slide":5,"title":"ARCHITECTURE","textShapes":10}
+{"kind":"shape","id":"sh/w7mhk7m1","slide":5,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/v6d0bm5g","slide":5,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/u54zih4b","slide":5,"text":"ARCHITECTURE","textPreview":"ARCHITECTURE","textChars":12,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/94vi9cnq","slide":5,"text":"Slide 5","textPreview":"Slide 5","textChars":7,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/8jmhg7m5","slide":5,"text":"The final system separates workflow, lakehouse, analytics, and intelligence","textPreview":"The final system separates workflow, lakehouse, analytics, and intelligence","textChars":75,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/7id0725k","slide":5,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/mh4zex4z","slide":5,"text":"The architecture keeps operational transactions in PostgreSQL and moves analytical processing through governed lakehouse layers.","textPreview":"The architecture keeps operational transactions in PostgreSQL and moves analytical processing through governed lakehouse layers.","textChars":128,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/szq1srm9","slide":5,"bbox":[865,198,8,8]}
+{"kind":"textbox","id":"sh/21kbe50v","slide":5,"text":"Streamlit portal captures candidate, admin, and interviewer activity.","textPreview":"Streamlit portal captures candidate, admin, and interviewer activity.","textChars":69,"textLines":1,"bbox":[887,190,328,56]}
+{"kind":"shape","id":"sh/32tc7a1g","slide":5,"bbox":[865,256,8,8]}
+{"kind":"textbox","id":"sh/o32tgfi1","slide":5,"text":"PostgreSQL stores normalized operational records.","textPreview":"PostgreSQL stores normalized operational records.","textChars":49,"textLines":1,"bbox":[887,248,328,56]}
+{"kind":"shape","id":"sh/p4bu9kjm","slide":5,"bbox":[865,314,8,8]}
+{"kind":"textbox","id":"sh/ex0ba50z","slide":5,"text":"Bronze/Silver/Gold pipelines publish versioned Parquet outputs.","textPreview":"Bronze/Silver/Gold pipelines publish versioned Parquet outputs.","textChars":63,"textLines":1,"bbox":[887,306,328,56]}
+{"kind":"shape","id":"sh/fy9c3a14","slide":5,"bbox":[865,372,8,8]}
+{"kind":"textbox","id":"sh/gz2tcvip","slide":5,"text":"DuckDB builds Gold metrics; dashboard and agent consume curated data.","textPreview":"DuckDB builds Gold metrics; dashboard and agent consume curated data.","textChars":69,"textLines":1,"bbox":[887,364,328,56]}
+{"kind":"shape","id":"sh/10bu50ja","slide":5,"bbox":[865,430,8,8]}
+{"kind":"textbox","id":"sh/yt4vmp03","slide":5,"text":"ML models and the Ask Data agent add predictive and conversational intelligence.","textPreview":"ML models and the Ask Data agent add predictive and conversational intelligence.","textChars":80,"textLines":1,"bbox":[887,422,328,56]}
+{"kind":"textbox","id":"sh/zudcfu1o","slide":5,"text":"The system is intentionally modular: transactional concerns, analytical storage, model training, and natural-language querying are separated.","textPreview":"The system is intentionally modular: transactional concerns, analytical storage, model training, and natural-language querying are separa...","textChars":141,"textLines":1,"bbox":[85,535,1090,40]}
+{"kind":"image","id":"im/8f2pw3qt","slide":5,"name":"","geometry":"roundRect","alt":"Current architecture diagram from project deck","bbox":[55,185,760,210]}
+{"kind":"notes","id":"nt/14ytbh","slide":5,"text":"[Sources]\nEmbedded architecture image from mid-term deck; final report section 4."}
+{"kind":"slide","id":"sl/scca0c","slide":6,"title":"SYSTEM MODULES","textShapes":16}
+{"kind":"shape","id":"sh/v2lofepw","slide":6,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/g3epoj6h","slide":6,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/h4n6ho72","slide":6,"text":"SYSTEM MODULES","textPreview":"SYSTEM MODULES","textChars":14,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/ipw7qton","slide":6,"text":"Slide 6","textPreview":"Slide 6","textChars":7,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/3q58jyp8","slide":6,"text":"The implementation is broad but connected through one recruitment data model","textPreview":"The implementation is broad but connected through one recruitment data model","textChars":76,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/4reps36d","slide":6,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/5snql87y","slide":6,"text":"Each module contributes a specific business or engineering capability.","textPreview":"Each module contributes a specific business or engineering capability.","textChars":70,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/qtw7utoj","slide":6,"bbox":[80,185,500,88]}
+{"kind":"shape","id":"sh/rup8nyp4","slide":6,"bbox":[80,185,500,4]}
+{"kind":"textbox","id":"sh/by9k3qts","slide":6,"text":"Candidate portal","textPreview":"Candidate portal","textChars":16,"textLines":1,"bbox":[98,205,464,28]}
+{"kind":"textbox","id":"sh/ad03uls7","slide":6,"text":"Registration, login, profile update, education and salary details","textPreview":"Registration, login, profile update, education and salary details","textChars":65,"textLines":1,"bbox":[98,243,464,18]}
+{"kind":"shape","id":"sh/x0r25gbi","slide":6,"bbox":[665,185,500,88]}
+{"kind":"shape","id":"sh/wzilwbax","slide":6,"bbox":[665,185,500,4]}
+{"kind":"textbox","id":"sh/na9kz6tg","slide":6,"text":"Admin center","textPreview":"Admin center","textChars":12,"textLines":1,"bbox":[683,205,464,28]}
+{"kind":"textbox","id":"sh/m9g3q1cv","slide":6,"text":"Schedule interviews, inspect KPIs, view ML insights, run Ask Data","textPreview":"Schedule interviews, inspect KPIs, view ML insights, run Ask Data","textChars":65,"textLines":1,"bbox":[683,243,464,18]}
+{"kind":"shape","id":"sh/9cr21gbm","slide":6,"bbox":[80,310,500,88]}
+{"kind":"shape","id":"sh/obilsba1","slide":6,"bbox":[80,310,500,4]}
+{"kind":"textbox","id":"sh/76t4batk","slide":6,"text":"Interviewer center","textPreview":"Interviewer center","textChars":18,"textLines":1,"bbox":[98,330,464,28]}
+{"kind":"textbox","id":"sh/65k325sf","slide":6,"text":"Assigned interviews, rating, comments, hire/hold/reject decision","textPreview":"Assigned interviews, rating, comments, hire/hold/reject decision","textChars":64,"textLines":1,"bbox":[98,368,464,18]}
+{"kind":"shape","id":"sh/21onu9cn","slide":6,"bbox":[665,310,500,88]}
+{"kind":"shape","id":"sh/32xo3eds","slide":6,"bbox":[665,310,500,4]}
+{"kind":"textbox","id":"sh/4365wzud","slide":6,"text":"Data lakehouse","textPreview":"Data lakehouse","textChars":14,"textLines":1,"bbox":[683,330,464,28]}
+{"kind":"textbox","id":"sh/pof654vy","slide":6,"text":"Bronze snapshots, Silver protection/history, Gold business datasets","textPreview":"Bronze snapshots, Silver protection/history, Gold business datasets","textChars":67,"textLines":1,"bbox":[683,368,464,18]}
+{"kind":"shape","id":"sh/qpony9cj","slide":6,"bbox":[80,435,500,88]}
+{"kind":"shape","id":"sh/rqxo7ed4","slide":6,"bbox":[80,435,500,4]}
+{"kind":"textbox","id":"sh/cr6p0jup","slide":6,"text":"ML insights","textPreview":"ML insights","textChars":11,"textLines":1,"bbox":[98,455,464,28]}
+{"kind":"textbox","id":"sh/dsz69ova","slide":6,"text":"Hire, decision and rating models with feature importance","textPreview":"Hire, decision and rating models with feature importance","textChars":56,"textLines":1,"bbox":[98,493,464,18]}
+{"kind":"shape","id":"sh/6t4nmpcf","slide":6,"bbox":[665,435,500,88]}
+{"kind":"shape","id":"sh/7udovad0","slide":6,"bbox":[665,435,500,4]}
+{"kind":"textbox","id":"sh/903ihcje","slide":6,"text":"Analytics agent","textPreview":"Analytics agent","textChars":15,"textLines":1,"bbox":[683,455,464,28]}
+{"kind":"textbox","id":"sh/8zuho7i9","slide":6,"text":"Natural-language questions converted to safe read-only SQL","textPreview":"Natural-language questions converted to safe read-only SQL","textChars":58,"textLines":1,"bbox":[683,493,464,18]}
+{"kind":"notes","id":"nt/scca0c","slide":6,"text":"[Sources]\nProject source files: app/portal.py, pipelines, models/train_ml_insights.py, app/analytics_agent.py."}
+{"kind":"slide","id":"sl/h7shs9","slide":7,"title":"VISUAL EVIDENCE","textShapes":5}
+{"kind":"shape","id":"sh/4vylczm5","slide":7,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/3upkjulk","slide":7,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/itg3ap4z","slide":7,"text":"VISUAL EVIDENCE","textPreview":"VISUAL EVIDENCE","textChars":15,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/hs72hk3e","slide":7,"text":"Slide 7","textPreview":"Slide 7","textChars":7,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/gre18fmt","slide":7,"text":"The portal supports all three recruitment roles","textPreview":"The portal supports all three recruitment roles","textChars":47,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/vq5kfal8","slide":7,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/upwj6543","slide":7,"text":"Screenshots show the implemented user-facing workflows rather than only design diagrams.","textPreview":"Screenshots show the implemented user-facing workflows rather than only design diagrams.","textChars":88,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"textbox","id":"sh/sn6h4fqp","slide":7,"text":"Candidate profile, admin scheduling, active pipeline review, and interviewer feedback form are all implemented in the Streamlit portal.","textPreview":"Candidate profile, admin scheduling, active pipeline review, and interviewer feedback form are all implemented in the Streamlit portal.","textChars":135,"textLines":1,"bbox":[85,575,1090,34]}
+{"kind":"image","id":"im/8vy9w3qp","slide":7,"name":"","geometry":"roundRect","alt":"Candidate dashboard screenshot","bbox":[45,185,360,150]}
+{"kind":"image","id":"im/9w7qp8ra","slide":7,"name":"","geometry":"roundRect","alt":"Admin schedule screenshot","bbox":[460,185,360,150]}
+{"kind":"image","id":"im/1wru50z6","slide":7,"name":"","geometry":"roundRect","alt":"Interviewer feedback screenshot","bbox":[875,185,360,150]}
+{"kind":"image","id":"im/0vitwvyl","slide":7,"name":"","geometry":"roundRect","alt":"Admin pipeline screenshot","bbox":[260,380,760,155]}
+{"kind":"notes","id":"nt/h7shs9","slide":7,"text":"[Sources]\nEmbedded screenshots from mid-term deck; final project app/portal.py."}
+{"kind":"slide","id":"sl/0mrzii","slide":8,"title":"DATABASE DESIGN","textShapes":8}
+{"kind":"shape","id":"sh/h4by1gz2","slide":8,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/u1kfq1gb","slide":8,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/v2tgz6hw","slide":8,"text":"DATABASE DESIGN","textPreview":"DATABASE DESIGN","textChars":15,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/8zixory5","slide":8,"text":"Slide 8","textPreview":"Slide 8","textChars":7,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/90ryxwzq","slide":8,"text":"The PostgreSQL schema is normalized around recruitment entities","textPreview":"The PostgreSQL schema is normalized around recruitment entities","textChars":63,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/md0fm1gf","slide":8,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/7e9gv6h0","slide":8,"text":"Clear relationships make both transactional workflow and analytics joins reliable.","textPreview":"Clear relationships make both transactional workflow and analytics joins reliable.","textChars":82,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/lcrytwzu","slide":8,"bbox":[780,213,8,8]}
+{"kind":"textbox","id":"sh/l47e54vm","slide":8,"text":"Candidate identity, education, login, audit, jobs, interviewers, stages, schedules and feedback are separated.","textPreview":"Candidate identity, education, login, audit, jobs, interviewers, stages, schedules and feedback are separated.","textChars":110,"textLines":1,"bbox":[802,205,368,60]}
+{"kind":"shape","id":"sh/k3yxcze1","slide":8,"bbox":[780,275,8,8]}
+{"kind":"textbox","id":"sh/z2pw3udg","slide":8,"text":"Schedules connect candidate, job, interviewer and stage.","textPreview":"Schedules connect candidate, job, interviewer and stage.","textChars":56,"textLines":1,"bbox":[802,267,368,60]}
+{"kind":"shape","id":"sh/y1gfa9wv","slide":8,"bbox":[780,337,8,8]}
+{"kind":"textbox","id":"sh/xg7e14va","slide":8,"text":"Feedback belongs to a scheduled interview and drives KPIs and ML labels.","textPreview":"Feedback belongs to a scheduled interview and drives KPIs and ML labels.","textChars":72,"textLines":1,"bbox":[802,329,368,60]}
+{"kind":"shape","id":"sh/cfex8zep","slide":8,"bbox":[780,399,8,8]}
+{"kind":"textbox","id":"sh/be5wzudk","slide":8,"text":"analytics.agent_interactions stores question, SQL, summaries, helpful flag and corrected SQL.","textPreview":"analytics.agent_interactions stores question, SQL, summaries, helpful flag and corrected SQL.","textChars":93,"textLines":1,"bbox":[802,391,368,60]}
+{"kind":"image","id":"im/pkb298vy","slide":8,"name":"","geometry":"roundRect","alt":"Entity relationship diagram","bbox":[55,178,665,420]}
+{"kind":"notes","id":"nt/0mrzii","slide":8,"text":"[Sources]\nEmbedded ERD from mid-term deck; DDL.sql; final report section 5."}
+{"kind":"slide","id":"sl/n6l3gj","slide":9,"title":"DATA ENGINEERING","textShapes":16}
+{"kind":"shape","id":"sh/u1gjypsb","slide":9,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/h472t4bm","slide":9,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/w3y10zah","slide":9,"text":"DATA ENGINEERING","textPreview":"DATA ENGINEERING","textChars":16,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/j6pkvets","slide":9,"text":"Slide 9","textPreview":"Slide 9","textChars":7,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/i5gj29s7","slide":9,"text":"The medallion pipeline turns raw operations into governed analytics","textPreview":"The medallion pipeline turns raw operations into governed analytics","textChars":67,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/58r2x4by","slide":9,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/47i14zad","slide":9,"text":"Bronze preserves snapshots, Silver protects and versions records, and Gold publishes business-ready KPIs.","textPreview":"Bronze preserves snapshots, Silver protects and versions records, and Gold publishes business-ready KPIs.","textChars":105,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/ra9kzet4","slide":9,"bbox":[80,275,150,78]}
+{"kind":"textbox","id":"sh/690369sj","slide":9,"text":"PostgreSQL","textPreview":"PostgreSQL","textChars":10,"textLines":1,"bbox":[92,293,126,58]}
+{"kind":"shape","id":"sh/8ja5wjux","slide":9,"bbox":[275,275,150,78]}
+{"kind":"textbox","id":"sh/9kj6pov2","slide":9,"text":"Bronze","textPreview":"Bronze","textChars":6,"textLines":1,"bbox":[287,293,126,58]}
+{"kind":"shape","id":"sh/mhsnu9cr","slide":9,"bbox":[470,275,150,78]}
+{"kind":"textbox","id":"sh/ni1onedc","slide":9,"text":"Silver","textPreview":"Silver","textChars":6,"textLines":1,"bbox":[482,293,126,58]}
+{"kind":"shape","id":"sh/wnu50jut","slide":9,"bbox":[665,275,150,78]}
+{"kind":"textbox","id":"sh/xo36tove","slide":9,"text":"Gold","textPreview":"Gold","textChars":4,"textLines":1,"bbox":[677,293,126,58]}
+{"kind":"shape","id":"sh/alsnytcn","slide":9,"bbox":[860,275,150,78]}
+{"kind":"textbox","id":"sh/vm1ored8","slide":9,"text":"Dashboard","textPreview":"Dashboard","textChars":9,"textLines":1,"bbox":[872,293,126,58]}
+{"kind":"shape","id":"sh/krup43up","slide":9,"bbox":[1055,275,150,78]}
+{"kind":"textbox","id":"sh/5s36x8va","slide":9,"text":"ML + Agent","textPreview":"ML + Agent","textChars":10,"textLines":1,"bbox":[1067,293,126,58]}
+{"kind":"shape","id":"sh/t8z6h8ne","slide":9,"bbox":[230,314,45,0]}
+{"kind":"shape","id":"sh/s7q583m9","slide":9,"bbox":[425,314,45,0]}
+{"kind":"shape","id":"sh/r6hofy5o","slide":9,"bbox":[620,314,45,0]}
+{"kind":"shape","id":"sh/658n6t43","slide":9,"bbox":[815,314,45,0]}
+{"kind":"shape","id":"sh/1cj6l8nq","slide":9,"bbox":[1010,314,45,0]}
+{"kind":"shape","id":"sh/gba5c3m5","slide":9,"bbox":[80,445,320,110]}
+{"kind":"shape","id":"sh/fa1ojy5k","slide":9,"bbox":[80,445,320,4]}
+{"kind":"textbox","id":"sh/e98nat4z","slide":9,"text":"Bronze","textPreview":"Bronze","textChars":6,"textLines":1,"bbox":[98,465,284,28]}
+{"kind":"textbox","id":"sh/hgf69on6","slide":9,"text":"Raw snapshots with run_datetime lineage and latest copies.","textPreview":"Raw snapshots with run_datetime lineage and latest copies.","textChars":58,"textLines":1,"bbox":[98,503,284,40]}
+{"kind":"shape","id":"sh/wf650jm1","slide":9,"bbox":[480,445,320,110]}
+{"kind":"shape","id":"sh/ml43a5kj","slide":9,"bbox":[480,445,320,4]}
+{"kind":"textbox","id":"sh/7mdkjal4","slide":9,"text":"Silver","textPreview":"Silver","textChars":6,"textLines":1,"bbox":[498,465,284,28]}
+{"kind":"textbox","id":"sh/87mlcf2p","slide":9,"text":"PII encryption plus candidate history using SCD Type 2 logic.","textPreview":"PII encryption plus candidate history using SCD Type 2 logic.","textChars":61,"textLines":1,"bbox":[498,503,284,40]}
+{"kind":"shape","id":"sh/98v2lk3a","slide":9,"bbox":[880,445,320,110]}
+{"kind":"shape","id":"sh/u943epkv","slide":9,"bbox":[880,445,320,4]}
+{"kind":"textbox","id":"sh/vaxknulg","slide":9,"text":"Gold","textPreview":"Gold","textChars":4,"textLines":1,"bbox":[898,465,284,28]}
+{"kind":"textbox","id":"sh/wb6lgz21","slide":9,"text":"DuckDB aggregates city, salary, engagement, funnel and hire-rate datasets.","textPreview":"DuckDB aggregates city, salary, engagement, funnel and hire-rate datasets.","textChars":74,"textLines":1,"bbox":[898,503,284,40]}
+{"kind":"notes","id":"nt/n6l3gj","slide":9,"text":"[Sources]\nFinal report section 7; pipelines/elt_bronze.py, pipelines/elt_silver.py, pipelines/elt_gold.py."}
+{"kind":"slide","id":"sl/4tlckh","slide":10,"title":"LAKEHOUSE EVIDENCE","textShapes":5}
+{"kind":"shape","id":"sh/cbyp4z25","slide":10,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/bapovulk","slide":10,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/q9g729kz","slide":10,"text":"LAKEHOUSE EVIDENCE","textPreview":"LAKEHOUSE EVIDENCE","textChars":18,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/l0rq1o3m","slide":10,"text":"Slide 10","textPreview":"Slide 10","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/0fyp8j2h","slide":10,"text":"Azure Blob containers store versioned Parquet outputs","textPreview":"Azure Blob containers store versioned Parquet outputs","textChars":53,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/zep8zelw","slide":10,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/ydg769kb","slide":10,"text":"The screenshots show Bronze, Silver, and Gold folders produced by the pipeline.","textPreview":"The screenshots show Bronze, Silver, and Gold folders produced by the pipeline.","textChars":79,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"textbox","id":"sh/ax8b2h8r","slide":10,"text":"Evidence point: each layer has both run-level lineage and current analytical consumption paths.","textPreview":"Evidence point: each layer has both run-level lineage and current analytical consumption paths.","textChars":95,"textLines":1,"bbox":[85,555,1090,32]}
+{"kind":"image","id":"im/srmp47i9","slide":10,"name":"","geometry":"roundRect","alt":"Azure container root","bbox":[50,182,350,130]}
+{"kind":"image","id":"im/tsvqdcju","slide":10,"name":"","geometry":"roundRect","alt":"Bronze folders","bbox":[465,182,350,130]}
+{"kind":"image","id":"im/l8r61cn2","slide":10,"name":"","geometry":"roundRect","alt":"Silver folders","bbox":[880,182,350,130]}
+{"kind":"image","id":"im/kni5876h","slide":10,"name":"","geometry":"roundRect","alt":"Gold folders","bbox":[50,370,350,130]}
+{"kind":"image","id":"im/zm9oz25w","slide":10,"name":"","geometry":"roundRect","alt":"Gold versioned run","bbox":[465,370,350,130]}
+{"kind":"image","id":"im/yl0n6xob","slide":10,"name":"","geometry":"roundRect","alt":"Latest output","bbox":[880,370,350,130]}
+{"kind":"notes","id":"nt/4tlckh","slide":10,"text":"[Sources]\nEmbedded Azure screenshots from mid-term deck; final report section 7."}
+{"kind":"slide","id":"sl/sbwy3t","slide":11,"title":"GOLD ANALYTICS","textShapes":14}
+{"kind":"shape","id":"sh/4r2to7yl","slide":11,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/3qtsv2x0","slide":11,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/2pkbmhgf","slide":11,"text":"GOLD ANALYTICS","textPreview":"GOLD ANALYTICS","textChars":14,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/dgvu1wf2","slide":11,"text":"Slide 11","textPreview":"Slide 11","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/cvmtsryh","slide":11,"text":"Gold datasets convert recruitment activity into business questions","textPreview":"Gold datasets convert recruitment activity into business questions","textChars":66,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/rudczmxw","slide":11,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/qt4bqhgb","slide":11,"text":"The dashboard consumes curated tables instead of forcing managers to inspect raw transactional rows.","textPreview":"The dashboard consumes curated tables instead of forcing managers to inspect raw transactional rows.","textChars":100,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/t0rapsfy","slide":11,"bbox":[100,190,1080,48]}
+{"kind":"textbox","id":"sh/szitgnyd","slide":11,"text":"city_talent_score","textPreview":"city_talent_score","textChars":17,"textLines":1,"bbox":[130,204,300,22]}
+{"kind":"textbox","id":"sh/yts3mxk7","slide":11,"text":"Which cities have stronger candidate pipelines?","textPreview":"Which cities have stronger candidate pipelines?","textChars":47,"textLines":1,"bbox":[480,204,610,22]}
+{"kind":"shape","id":"sh/ju1kv21s","slide":11,"bbox":[100,252,1080,48]}
+{"kind":"textbox","id":"sh/kvalo72d","slide":11,"text":"salary_benchmarks","textPreview":"salary_benchmarks","textChars":17,"textLines":1,"bbox":[130,266,300,22]}
+{"kind":"textbox","id":"sh/lgj2xsjy","slide":11,"text":"How do expected salaries vary by education?","textPreview":"How do expected salaries vary by education?","textChars":43,"textLines":1,"bbox":[480,266,610,22]}
+{"kind":"shape","id":"sh/6hs3qxkj","slide":11,"bbox":[100,314,1080,48]}
+{"kind":"textbox","id":"sh/7i1kz21o","slide":11,"text":"candidate_engagement","textPreview":"candidate_engagement","textChars":20,"textLines":1,"bbox":[130,328,300,22]}
+{"kind":"textbox","id":"sh/8jals729","slide":11,"text":"Which candidates are active or inactive?","textPreview":"Which candidates are active or inactive?","textChars":40,"textLines":1,"bbox":[480,328,610,22]}
+{"kind":"shape","id":"sh/tkj21cju","slide":11,"bbox":[100,376,1080,48]}
+{"kind":"textbox","id":"sh/ulc3uhkf","slide":11,"text":"interview_pipeline_funnel","textPreview":"interview_pipeline_funnel","textChars":25,"textLines":1,"bbox":[130,390,300,22]}
+{"kind":"textbox","id":"sh/vmlk3m10","slide":11,"text":"Where is the interview process slowing down?","textPreview":"Where is the interview process slowing down?","textChars":44,"textLines":1,"bbox":[480,390,610,22]}
+{"kind":"shape","id":"sh/rqlkbmh8","slide":11,"bbox":[100,438,1080,48]}
+{"kind":"textbox","id":"sh/qpcjihgn","slide":11,"text":"job_hire_rate","textPreview":"job_hire_rate","textChars":13,"textLines":1,"bbox":[130,452,300,22]}
+{"kind":"textbox","id":"sh/dsn2dwzy","slide":11,"text":"Which jobs have better hire recommendation rates?","textPreview":"Which jobs have better hire recommendation rates?","textChars":49,"textLines":1,"bbox":[480,452,610,22]}
+{"kind":"notes","id":"nt/sbwy3t","slide":11,"text":"[Sources]\nFinal report section 7.3; pipelines/elt_gold.py; scripts/validate_gold_analytics.py."}
+{"kind":"slide","id":"sl/rmdma5","slide":12,"title":"DASHBOARD EVIDENCE","textShapes":8}
+{"kind":"shape","id":"sh/ip4jato7","slide":12,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/5cf2l87y","slide":12,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/4b6lc36d","slide":12,"text":"DASHBOARD EVIDENCE","textPreview":"DASHBOARD EVIDENCE","textChars":18,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/rexknipo","slide":12,"text":"Slide 12","textPreview":"Slide 12","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/qdo3edoj","slide":12,"text":"Admins can view KPIs and ML feature insights in one place","textPreview":"Admins can view KPIs and ML feature insights in one place","textChars":57,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/dgf2p8nu","slide":12,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/sf6lg369","slide":12,"text":"The dashboard joins lakehouse outputs, PostgreSQL cache tables, and model artifacts for business-facing consumption.","textPreview":"The dashboard joins lakehouse outputs, PostgreSQL cache tables, and model artifacts for business-facing consumption.","textChars":116,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/6hkj29oz","slide":12,"bbox":[875,200,300,120]}
+{"kind":"shape","id":"sh/kri9036t","slide":12,"bbox":[875,200,300,4]}
+{"kind":"textbox","id":"sh/lsrat8ny","slide":12,"text":"What it proves","textPreview":"What it proves","textChars":14,"textLines":1,"bbox":[893,220,264,28]}
+{"kind":"textbox","id":"sh/yp0ryton","slide":12,"text":"The final product is not limited to backend pipelines. It exposes analytics through a usable admin interface.","textPreview":"The final product is not limited to backend pipelines. It exposes analytics through a usable admin interface.","textChars":109,"textLines":1,"bbox":[893,258,264,50]}
+{"kind":"shape","id":"sh/zq9sry58","slide":12,"bbox":[875,360,300,120]}
+{"kind":"shape","id":"sh/8fit43mp","slide":12,"bbox":[875,360,300,4]}
+{"kind":"textbox","id":"sh/9gbax8na","slide":12,"text":"Decision support","textPreview":"Decision support","textChars":16,"textLines":1,"bbox":[893,380,264,28]}
+{"kind":"textbox","id":"sh/mt0b2doj","slide":12,"text":"Feature insight tables help explain model behavior without replacing human judgement.","textPreview":"Feature insight tables help explain model behavior without replacing human judgement.","textChars":85,"textLines":1,"bbox":[893,418,264,50]}
+{"kind":"image","id":"im/2d4j2ts7","slide":12,"name":"","geometry":"roundRect","alt":"Gold KPI dashboard and ML feature insights screenshot","bbox":[55,185,780,380]}
+{"kind":"notes","id":"nt/rmdma5","slide":12,"text":"[Sources]\nEmbedded dashboard screenshot from mid-term deck; final report section 8.1."}
+{"kind":"slide","id":"sl/av4fz2","slide":13,"title":"PREDICTIVE INTELLIGENCE","textShapes":11}
+{"kind":"shape","id":"sh/hw3u9g3a","slide":13,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/utcvy14z","slide":13,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/vulc76lk","slide":13,"text":"PREDICTIVE INTELLIGENCE","textPreview":"PREDICTIVE INTELLIGENCE","textChars":23,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/4jud4b21","slide":13,"text":"Slide 13","textPreview":"Slide 13","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/5knedg3m","slide":13,"text":"The ML layer creates three decision-support models","textPreview":"The ML layer creates three decision-support models","textChars":50,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/ihcv2lkv","slide":13,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/jilwb6lg","slide":13,"text":"The models are treated as prototypes for insight and explanation, not automatic hiring decision makers.","textPreview":"The models are treated as prototypes for insight and explanation, not automatic hiring decision makers.","textChars":103,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/sned8v2x","slide":13,"bbox":[80,210,310,210]}
+{"kind":"shape","id":"sh/toneh03i","slide":13,"bbox":[80,210,310,4]}
+{"kind":"textbox","id":"sh/l4z6d8nm","slide":13,"text":"hire_prediction","textPreview":"hire_prediction","textChars":15,"textLines":1,"bbox":[98,230,274,28]}
+{"kind":"textbox","id":"sh/k3qp43m1","slide":13,"text":"Accuracy 0.7552\nF1 0.8427\nROC-AUC 0.8262\nSupport 241","textPreview":"Accuracy 0.7552 | F1 0.8427 | ROC-AUC 0.8262 | Support 241","textChars":52,"textLines":4,"bbox":[98,268,274,140]}
+{"kind":"shape","id":"sh/z2hoby5w","slide":13,"bbox":[485,210,310,210]}
+{"kind":"shape","id":"sh/y1872t4b","slide":13,"bbox":[485,210,310,4]}
+{"kind":"textbox","id":"sh/98jqh8ny","slide":13,"text":"decision_prediction","textPreview":"decision_prediction","textChars":19,"textLines":1,"bbox":[503,230,274,28]}
+{"kind":"textbox","id":"sh/87ap83md","slide":13,"text":"Accuracy 0.7884\nWeighted F1 0.8165\nClasses: Hire, Hold, Reject\nSupport 241","textPreview":"Accuracy 0.7884 | Weighted F1 0.8165 | Classes: Hire, Hold, Reject | Support 241","textChars":74,"textLines":4,"bbox":[503,268,274,140]}
+{"kind":"shape","id":"sh/76hofy5s","slide":13,"bbox":[890,210,310,210]}
+{"kind":"shape","id":"sh/m5876t47","slide":13,"bbox":[890,210,310,4]}
+{"kind":"textbox","id":"sh/pcf65one","slide":13,"text":"rating_prediction","textPreview":"rating_prediction","textChars":17,"textLines":1,"bbox":[908,230,274,28]}
+{"kind":"textbox","id":"sh/ob6pwjmt","slide":13,"text":"MAE 0.3017\nR2 0.5309\nSupport 241\nMean rating 4.4995","textPreview":"MAE 0.3017 | R2 0.5309 | Support 241 | Mean rating 4.4995","textChars":51,"textLines":4,"bbox":[908,268,274,140]}
+{"kind":"textbox","id":"sh/gvapcjup","slide":13,"text":"Pipeline: joined recruitment features -> preprocessing -> Random Forest training -> artifacts -> analytics.ml_feature_insights -> dashboard.","textPreview":"Pipeline: joined recruitment features -> preprocessing -> Random Forest training -> artifacts -> analytics.ml_feature_insights -> dashboard.","textChars":140,"textLines":1,"bbox":[95,515,1090,44]}
+{"kind":"notes","id":"nt/av4fz2","slide":13,"text":"[Sources]\nmodels/artifacts/20260708_065754/metrics.json; final report section 8.1."}
+{"kind":"slide","id":"sl/toh5aa","slide":14,"title":"MODEL INTERPRETATION","textShapes":12}
+{"kind":"shape","id":"sh/uh0fu1on","slide":14,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/hkry5g7y","slide":14,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/gjixwb6d","slide":14,"text":"MODEL INTERPRETATION","textPreview":"MODEL INTERPRETATION","textChars":20,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/3mtg76p4","slide":14,"text":"Slide 14","textPreview":"Slide 14","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/il0fyloj","slide":14,"text":"Random Forest was chosen as a strong tabular baseline","textPreview":"Random Forest was chosen as a strong tabular baseline","textChars":53,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/5oby9g7a","slide":14,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/4n2x0b6p","slide":14,"text":"It supports mixed recruitment features and produces feature-importance signals that are easy to present to admins.","textPreview":"It supports mixed recruitment features and produces feature-importance signals that are easy to present to admins.","textChars":114,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/jqpwvmp0","slide":14,"bbox":[90,213,8,8]}
+{"kind":"textbox","id":"sh/ypgfmhof","slide":14,"text":"Handles numeric and categorical recruitment variables after preprocessing.","textPreview":"Handles numeric and categorical recruitment variables after preprocessing.","textChars":74,"textLines":1,"bbox":[112,205,478,68]}
+{"kind":"shape","id":"sh/w3ix03qx","slide":14,"bbox":[90,283,8,8]}
+{"kind":"textbox","id":"sh/x4ryt8r2","slide":14,"text":"Works well as a practical baseline for tabular decision-support problems.","textPreview":"Works well as a practical baseline for tabular decision-support problems.","textChars":73,"textLines":1,"bbox":[112,275,478,68]}
+{"kind":"shape","id":"sh/a1gfyt8r","slide":14,"bbox":[90,353,8,8]}
+{"kind":"textbox","id":"sh/b29wry9c","slide":14,"text":"Publishes feature importance so admins can see influential signals.","textPreview":"Publishes feature importance so admins can see influential signals.","textChars":67,"textLines":1,"bbox":[112,345,478,68]}
+{"kind":"shape","id":"sh/k7ix43qt","slide":14,"bbox":[90,423,8,8]}
+{"kind":"textbox","id":"sh/l8ryx8re","slide":14,"text":"Limitations are acknowledged: demo data size, bias risk, and the need for fairness/drift checks before production.","textPreview":"Limitations are acknowledged: demo data size, bias risk, and the need for fairness/drift checks before production.","textChars":114,"textLines":1,"bbox":[112,415,478,68]}
+{"kind":"shape","id":"sh/y50f2d8n","slide":14,"bbox":[680,210,440,220]}
+{"kind":"shape","id":"sh/j69gvy98","slide":14,"bbox":[680,210,440,4]}
+{"kind":"textbox","id":"sh/0byxsjqp","slide":14,"text":"Feature examples","textPreview":"Feature examples","textChars":16,"textLines":1,"bbox":[698,230,404,28]}
+{"kind":"textbox","id":"sh/1c7elora","slide":14,"text":"city, state, country, degree, university, expected salary, passing year, GPA, login count, job title, department, stage","textPreview":"city, state, country, degree, university, expected salary, passing year, GPA, login count, job title, department, stage","textChars":119,"textLines":1,"bbox":[698,268,404,150]}
+{"kind":"shape","id":"sh/hwfm9gfm","slide":14,"bbox":[680,470,440,120]}
+{"kind":"shape","id":"sh/gv6l0by1","slide":14,"bbox":[680,470,440,4]}
+{"kind":"textbox","id":"sh/vux476xg","slide":14,"text":"Human review remains mandatory","textPreview":"Human review remains mandatory","textChars":30,"textLines":1,"bbox":[698,490,404,28]}
+{"kind":"textbox","id":"sh/uto3y1gb","slide":14,"text":"Model outputs are advisory. Final hiring decisions must remain transparent, policy-compliant, and reviewed by people.","textPreview":"Model outputs are advisory. Final hiring decisions must remain transparent, policy-compliant, and reviewed by people.","textChars":117,"textLines":1,"bbox":[698,528,404,50]}
+{"kind":"notes","id":"nt/toh5aa","slide":14,"text":"[Sources]\nFinal report sections 8.1 and Appendix C; scikit-learn Random Forest documentation cited in the report."}
+{"kind":"slide","id":"sl/weewkx","slide":15,"title":"NEW FINAL ASPECT","textShapes":13}
+{"kind":"shape","id":"sh/r6p8r210","slide":15,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/c7y9072l","slide":15,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/d87atsj6","slide":15,"text":"NEW FINAL ASPECT","textPreview":"NEW FINAL ASPECT","textChars":16,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/2hwrudk3","slide":15,"text":"Slide 15","textPreview":"Slide 15","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/3i58ni1o","slide":15,"text":"The Ask Data module adds a conversational analytics layer","textPreview":"The Ask Data module adds a conversational analytics layer","textChars":57,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/43y9wn29","slide":15,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/p47qpsju","slide":15,"text":"Admins can ask recruitment questions in natural language and receive safe SQL-backed answers with tables or charts.","textPreview":"Admins can ask recruitment questions in natural language and receive safe SQL-backed answers with tables or charts.","textChars":115,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/udwrqdk7","slide":15,"bbox":[70,230,250,110]}
+{"kind":"shape","id":"sh/ve58ji1s","slide":15,"bbox":[70,230,250,4]}
+{"kind":"textbox","id":"sh/72t0v69g","slide":15,"text":"Natural-language input","textPreview":"Natural-language input","textChars":22,"textLines":1,"bbox":[88,250,214,28]}
+{"kind":"textbox","id":"sh/m1kj218v","slide":15,"text":"Example: Which candidates have high ratings but were not hired?","textPreview":"Example: Which candidates have high ratings but were not hired?","textChars":63,"textLines":1,"bbox":[88,288,214,40]}
+{"kind":"shape","id":"sh/94vixwrm","slide":15,"bbox":[370,230,250,110]}
+{"kind":"shape","id":"sh/83214rq1","slide":15,"bbox":[370,230,250,4]}
+{"kind":"textbox","id":"sh/v6d0z69s","slide":15,"text":"Agent plan","textPreview":"Agent plan","textChars":10,"textLines":1,"bbox":[388,250,214,28]}
+{"kind":"textbox","id":"sh/u54j6187","slide":15,"text":"The router chooses fast local NLP, Hugging Face local LLM, optional cloud AI, or fallback SQL.","textPreview":"The router chooses fast local NLP, Hugging Face local LLM, optional cloud AI, or fallback SQL.","textChars":94,"textLines":1,"bbox":[388,288,214,40]}
+{"kind":"shape","id":"sh/h8vi1gry","slide":15,"bbox":[670,230,250,110]}
+{"kind":"shape","id":"sh/w7m18bqd","slide":15,"bbox":[670,230,250,4]}
+{"kind":"textbox","id":"sh/ba90nm98","slide":15,"text":"Safe execution","textPreview":"Safe execution","textChars":14,"textLines":1,"bbox":[688,250,214,28]}
+{"kind":"textbox","id":"sh/q90zuhs3","slide":15,"text":"SQL is sanitized, limited, executed read-only, and optionally repaired once in Hugging Face mode.","textPreview":"SQL is sanitized, limited, executed read-only, and optionally repaired once in Hugging Face mode.","textChars":97,"textLines":1,"bbox":[688,288,214,40]}
+{"kind":"shape","id":"sh/ep832psb","slide":15,"bbox":[970,230,250,110]}
+{"kind":"shape","id":"sh/fqh4batw","slide":15,"bbox":[970,230,250,4]}
+{"kind":"textbox","id":"sh/grql4fah","slide":15,"text":"Learning loop","textPreview":"Learning loop","textChars":13,"textLines":1,"bbox":[988,250,214,28]}
+{"kind":"textbox","id":"sh/1szmdkb2","slide":15,"text":"Question, SQL, summary, helpful flag, and corrected SQL are stored for future reuse.","textPreview":"Question, SQL, summary, helpful flag, and corrected SQL are stored for future reuse.","textChars":84,"textLines":1,"bbox":[988,288,214,40]}
+{"kind":"textbox","id":"sh/61o3y5sf","slide":15,"text":"This is a major improvement over the mid-term plan: Text-to-SQL is now implemented with local NLP and downloaded LLM support.","textPreview":"This is a major improvement over the mid-term plan: Text-to-SQL is now implemented with local NLP and downloaded LLM support.","textChars":125,"textLines":1,"bbox":[85,515,1090,44]}
+{"kind":"notes","id":"nt/weewkx","slide":15,"text":"[Sources]\napp/analytics_agent.py, app/local_sql_model.py, app/huggingface_sql_agent.py, app/portal.py; final report section 8.2."}
+{"kind":"slide","id":"sl/h7f05r","slide":16,"title":"NLP + HUGGING FACE","textShapes":13}
+{"kind":"shape","id":"sh/mtoz2xsb","slide":16,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/9wzixcr2","slide":16,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/8vqh47ah","slide":16,"text":"NLP + HUGGING FACE","textPreview":"NLP + HUGGING FACE","textChars":18,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/vyh0zm98","slide":16,"text":"Slide 16","textPreview":"Slide 16","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/ax8z6hsn","slide":16,"text":"Fast local matching keeps demos responsive, while local LLM mode handles harder questions","textPreview":"Fast local matching keeps demos responsive, while local LLM mode handles harder questions","textChars":89,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/x0zi1cry","slide":16,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/wzqh8rat","slide":16,"text":"The system avoids depending only on paid cloud AI or slow model generation.","textPreview":"The system avoids depending only on paid cloud AI or slow model generation.","textChars":75,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/j2103m94","slide":16,"bbox":[80,265,150,74]}
+{"kind":"textbox","id":"sh/i18zahsj","slide":16,"text":"Admin question","textPreview":"Admin question","textChars":14,"textLines":1,"bbox":[92,283,126,54]}
+{"kind":"shape","id":"sh/orupczm5","slide":16,"bbox":[280,265,190,74]}
+{"kind":"textbox","id":"sh/ps3q54nq","slide":16,"text":"Schema + learned examples","textPreview":"Schema + learned examples","textChars":25,"textLines":1,"bbox":[292,283,166,54]}
+{"kind":"shape","id":"sh/2pc7a94z","slide":16,"bbox":[520,220,190,74]}
+{"kind":"textbox","id":"sh/3ql83u5k","slide":16,"text":"Fast local NLP matcher","textPreview":"Fast local NLP matcher","textChars":22,"textLines":1,"bbox":[532,238,166,54]}
+{"kind":"shape","id":"sh/cvupgjm1","slide":16,"bbox":[520,350,220,74]}
+{"kind":"textbox","id":"sh/dg3q9onm","slide":16,"text":"Downloaded Hugging Face LLM","textPreview":"Downloaded Hugging Face LLM","textChars":27,"textLines":1,"bbox":[532,368,196,54]}
+{"kind":"shape","id":"sh/qtc7e94b","slide":16,"bbox":[790,265,210,74]}
+{"kind":"textbox","id":"sh/bul87e5w","slide":16,"text":"Sanitized PostgreSQL SELECT","textPreview":"Sanitized PostgreSQL SELECT","textChars":27,"textLines":1,"bbox":[802,283,186,54]}
+{"kind":"shape","id":"sh/0je9kjmd","slide":16,"bbox":[1050,265,160,74]}
+{"kind":"textbox","id":"sh/lknqdony","slide":16,"text":"Answer + visualization","textPreview":"Answer + visualization","textChars":22,"textLines":1,"bbox":[1062,283,136,54]}
+{"kind":"shape","id":"sh/94zyh4bq","slide":16,"bbox":[230,302,50,0]}
+{"kind":"shape","id":"sh/83qh8za5","slide":16,"bbox":[470,257,50,45]}
+{"kind":"shape","id":"sh/n2hgfutk","slide":16,"bbox":[470,302,50,85]}
+{"kind":"shape","id":"sh/m18z6psz","slide":16,"bbox":[710,257,80,45]}
+{"kind":"shape","id":"sh/xsjyl4b2","slide":16,"bbox":[740,302,50,85]}
+{"kind":"shape","id":"sh/wrahczah","slide":16,"bbox":[1000,302,50,0]}
+{"kind":"shape","id":"sh/vq1gjutw","slide":16,"bbox":[105,513,8,8]}
+{"kind":"textbox","id":"sh/ap8zapsb","slide":16,"text":"LOCAL_AGENT_SPEED_MODE defaults to fast local SQL before slow LLM generation.","textPreview":"LOCAL_AGENT_SPEED_MODE defaults to fast local SQL before slow LLM generation.","textChars":77,"textLines":1,"bbox":[127,505,998,34]}
+{"kind":"shape","id":"sh/dwfy90bi","slide":16,"bbox":[105,549,8,8]}
+{"kind":"textbox","id":"sh/cv6x0fax","slide":16,"text":"LOCAL_ALLOW_SLOW_LLM enables slower Hugging Face fallback when local confidence is low.","textPreview":"LOCAL_ALLOW_SLOW_LLM enables slower Hugging Face fallback when local confidence is low.","textChars":87,"textLines":1,"bbox":[127,541,998,34]}
+{"kind":"shape","id":"sh/214va18v","slide":16,"bbox":[105,585,8,8]}
+{"kind":"textbox","id":"sh/32dwj69g","slide":16,"text":"Default local model: Qwen/Qwen2.5-Coder-1.5B-Instruct through Transformers text-generation pipeline.","textPreview":"Default local model: Qwen/Qwen2.5-Coder-1.5B-Instruct through Transformers text-generation pipeline.","textChars":100,"textLines":1,"bbox":[127,577,998,34]}
+{"kind":"notes","id":"nt/h7f05r","slide":16,"text":"[Sources]\napp/analytics_agent.py and app/huggingface_sql_agent.py; Hugging Face Transformers/Qwen references cited in final report."}
+{"kind":"slide","id":"sl/kdjgjs","slide":17,"title":"AGENT SAFETY","textShapes":16}
+{"kind":"shape","id":"sh/7etwfad0","slide":17,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/8z2d8ful","slide":17,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/t0vehkv6","slide":17,"text":"AGENT SAFETY","textPreview":"AGENT SAFETY","textChars":12,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/u14vapcr","slide":17,"text":"Slide 17","textPreview":"Slide 17","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/v2dwjutc","slide":17,"text":"The assistant is designed to be useful without being dangerous","textPreview":"The assistant is designed to be useful without being dangerous","textChars":62,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/g3mdczuh","slide":17,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/h4vel4b2","slide":17,"text":"Generated SQL is never trusted directly; the same sanitizer protects pasted SQL, local NLP SQL, cloud SQL, and Hugging Face SQL.","textPreview":"Generated SQL is never trusted directly; the same sanitizer protects pasted SQL, local NLP SQL, cloud SQL, and Hugging Face SQL.","textChars":128,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/i54fe9cn","slide":17,"bbox":[80,190,320,120]}
+{"kind":"shape","id":"sh/36dwnet8","slide":17,"bbox":[80,190,320,4]}
+{"kind":"textbox","id":"sh/7a50n2t8","slide":17,"text":"Read-only","textPreview":"Read-only","textChars":9,"textLines":1,"bbox":[98,210,284,28]}
+{"kind":"textbox","id":"sh/69wzexsn","slide":17,"text":"Only SELECT or WITH queries are allowed.","textPreview":"Only SELECT or WITH queries are allowed.","textChars":40,"textLines":1,"bbox":[98,248,284,50]}
+{"kind":"shape","id":"sh/tcnipcbe","slide":17,"bbox":[460,190,320,120]}
+{"kind":"shape","id":"sh/sbehg7at","slide":17,"bbox":[460,190,320,4]}
+{"kind":"textbox","id":"sh/j6l0jitc","slide":17,"text":"Single statement","textPreview":"Single statement","textChars":16,"textLines":1,"bbox":[478,210,284,28]}
+{"kind":"textbox","id":"sh/i5czaxsr","slide":17,"text":"Multiple semicolon-separated statements are rejected.","textPreview":"Multiple semicolon-separated statements are rejected.","textChars":53,"textLines":1,"bbox":[478,248,284,50]}
+{"kind":"shape","id":"sh/583ilsbi","slide":17,"bbox":[840,190,320,120]}
+{"kind":"shape","id":"sh/k7uhcnax","slide":17,"bbox":[840,190,320,4]}
+{"kind":"textbox","id":"sh/32p0vmtg","slide":17,"text":"Blocked mutations","textPreview":"Blocked mutations","textChars":17,"textLines":1,"bbox":[858,210,284,28]}
+{"kind":"textbox","id":"sh/21gjmhsv","slide":17,"text":"INSERT, UPDATE, DELETE, DROP, ALTER, CREATE, TRUNCATE, COPY, GRANT and REVOKE are blocked.","textPreview":"INSERT, UPDATE, DELETE, DROP, ALTER, CREATE, TRUNCATE, COPY, GRANT and REVOKE are blocked.","textChars":90,"textLines":1,"bbox":[858,248,284,50]}
+{"kind":"shape","id":"sh/ex03elc3","slide":17,"bbox":[80,370,320,120]}
+{"kind":"shape","id":"sh/zy9knqdo","slide":17,"bbox":[80,370,320,4]}
+{"kind":"textbox","id":"sh/0zilgvu9","slide":17,"text":"Sensitive fields","textPreview":"Sensitive fields","textChars":16,"textLines":1,"bbox":[98,390,284,28]}
+{"kind":"textbox","id":"sh/10b2p0vu","slide":17,"text":"Password and secret fields are not allowed in assistant output.","textPreview":"Password and secret fields are not allowed in assistant output.","textChars":63,"textLines":1,"bbox":[98,428,284,50]}
+{"kind":"shape","id":"sh/m1k3i5cf","slide":17,"bbox":[460,370,320,120]}
+{"kind":"shape","id":"sh/n2tkrqd0","slide":17,"bbox":[460,370,320,4]}
+{"kind":"textbox","id":"sh/o32lkvu5","slide":17,"text":"Bounded output","textPreview":"Bounded output","textChars":14,"textLines":1,"bbox":[478,390,284,28]}
+{"kind":"textbox","id":"sh/94bmt0vq","slide":17,"text":"A LIMIT is added when missing to reduce accidental large scans.","textPreview":"A LIMIT is added when missing to reduce accidental large scans.","textChars":63,"textLines":1,"bbox":[478,428,284,50]}
+{"kind":"shape","id":"sh/25g361cv","slide":17,"bbox":[840,370,320,120]}
+{"kind":"shape","id":"sh/36pkf6dg","slide":17,"bbox":[840,370,320,4]}
+{"kind":"textbox","id":"sh/5wze18ja","slide":17,"text":"Feedback memory","textPreview":"Feedback memory","textChars":15,"textLines":1,"bbox":[858,390,284,28]}
+{"kind":"textbox","id":"sh/4v6x83ip","slide":17,"text":"Useful answers and corrected SQL teach future examples.","textPreview":"Useful answers and corrected SQL teach future examples.","textChars":55,"textLines":1,"bbox":[858,428,284,50]}
+{"kind":"notes","id":"nt/kdjgjs","slide":17,"text":"[Sources]\napp/analytics_assistant.py, app/analytics_agent.py; final report section 8.2.4."}
+{"kind":"slide","id":"sl/lhcwjt","slide":18,"title":"AGENT DEMONSTRATION","textShapes":12}
+{"kind":"shape","id":"sh/ex07q947","slide":18,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/1krqlo3i","slide":18,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/0zipsjmx","slide":18,"text":"AGENT DEMONSTRATION","textPreview":"AGENT DEMONSTRATION","textChars":19,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/nmt8nelo","slide":18,"text":"Slide 18","textPreview":"Slide 18","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/mlk7ut43","slide":18,"text":"The question bank is aligned with real recruitment decisions","textPreview":"The question bank is aligned with real recruitment decisions","textChars":60,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/9obqpo3u","slide":18,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/on2pwjm9","slide":18,"text":"These questions are ready to use during viva or project demonstration.","textPreview":"These questions are ready to use during viva or project demonstration.","textChars":70,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/bqt8rylk","slide":18,"bbox":[80,185,520,58]}
+{"kind":"textbox","id":"sh/apk7yt4f","slide":18,"text":"Give me a hiring summary with the main KPIs.","textPreview":"Give me a hiring summary with the main KPIs.","textChars":44,"textLines":1,"bbox":[100,200,480,26]}
+{"kind":"shape","id":"sh/gjmt076t","slide":18,"bbox":[650,185,520,58]}
+{"kind":"textbox","id":"sh/hkfa9s7e","slide":18,"text":"Which cities have the strongest candidate pipeline?","textPreview":"Which cities have the strongest candidate pipeline?","textChars":51,"textLines":1,"bbox":[670,200,480,26]}
+{"kind":"shape","id":"sh/uh4byxon","slide":18,"bbox":[80,273,520,58]}
+{"kind":"textbox","id":"sh/vids72p8","slide":18,"text":"Which candidates have high ratings but were not hired?","textPreview":"Which candidates have high ratings but were not hired?","textChars":54,"textLines":1,"bbox":[100,288,480,26]}
+{"kind":"shape","id":"sh/476t476p","slide":18,"bbox":[650,273,520,58]}
+{"kind":"textbox","id":"sh/58fadc7a","slide":18,"text":"Which jobs have the best hire rate and enough feedback?","textPreview":"Which jobs have the best hire rate and enough feedback?","textChars":55,"textLines":1,"bbox":[670,288,480,26]}
+{"kind":"shape","id":"sh/i5ob2xoz","slide":18,"bbox":[80,361,520,58]}
+{"kind":"textbox","id":"sh/36xsb2pk","slide":18,"text":"Which interviewers have the highest pending feedback workload?","textPreview":"Which interviewers have the highest pending feedback workload?","textChars":62,"textLines":1,"bbox":[100,376,480,26]}
+{"kind":"shape","id":"sh/sbqt8r61","slide":18,"bbox":[650,361,520,58]}
+{"kind":"textbox","id":"sh/dczahc7m","slide":18,"text":"Which degrees are associated with better ratings?","textPreview":"Which degrees are associated with better ratings?","textChars":49,"textLines":1,"bbox":[670,376,480,26]}
+{"kind":"shape","id":"sh/1sva1czq","slide":18,"bbox":[80,449,520,58]}
+{"kind":"textbox","id":"sh/0rmts7y5","slide":18,"text":"Which active candidates have not logged in recently?","textPreview":"Which active candidates have not logged in recently?","textChars":52,"textLines":1,"bbox":[100,464,480,26]}
+{"kind":"shape","id":"sh/zqdsz2hk","slide":18,"bbox":[650,449,520,58]}
+{"kind":"textbox","id":"sh/e5krqhgz","slide":18,"text":"What are the top ML feature insights and what should I do next?","textPreview":"What are the top ML feature insights and what should I do next?","textChars":63,"textLines":1,"bbox":[670,464,480,26]}
+{"kind":"notes","id":"nt/lhcwjt","slide":18,"text":"[Sources]\napp/portal.py example_questions; outputs/TalentFlow_AI_Agent_Question_Bank.md."}
+{"kind":"slide","id":"sl/hdggjp","slide":19,"title":"TESTING","textShapes":13}
+{"kind":"shape","id":"sh/ut0fu1ob","slide":19,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/hgry5gnm","slide":19,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/wfixwb61","slide":19,"text":"TESTING","textPreview":"TESTING","textChars":7,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/jitg7q5s","slide":19,"text":"Slide 19","textPreview":"Slide 19","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/ih0fylo7","slide":19,"text":"Validation covers schema, data quality, contracts, and the new agent","textPreview":"Validation covers schema, data quality, contracts, and the new agent","textChars":68,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/5kby9gny","slide":19,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/4j2x0b6d","slide":19,"text":"The final project includes tests for both the data product and the conversational analytics layer.","textPreview":"The final project includes tests for both the data product and the conversational analytics layer.","textChars":98,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/rmtgbq5o","slide":19,"bbox":[80,200,500,120]}
+{"kind":"shape","id":"sh/6lkf2lo3","slide":19,"bbox":[80,200,500,4]}
+{"kind":"textbox","id":"sh/w3a9cbqh","slide":19,"text":"Gold validation","textPreview":"Gold validation","textChars":15,"textLines":1,"bbox":[98,220,464,28]}
+{"kind":"textbox","id":"sh/x43algr2","slide":19,"text":"Row counts, nulls, duplicates, ranges, formulas, reconciliation","textPreview":"Row counts, nulls, duplicates, ranges, formulas, reconciliation","textChars":63,"textLines":1,"bbox":[98,258,464,50]}
+{"kind":"shape","id":"sh/a1sra18r","slide":19,"bbox":[650,200,500,120]}
+{"kind":"shape","id":"sh/v21sj69c","slide":19,"bbox":[650,200,500,4]}
+{"kind":"textbox","id":"sh/47u9gvqt","slide":19,"text":"Project contracts","textPreview":"Project contracts","textChars":17,"textLines":1,"bbox":[668,220,464,28]}
+{"kind":"textbox","id":"sh/583ap0re","slide":19,"text":"SCD2, versioned lake paths, Hive tables, dashboard exposure","textPreview":"SCD2, versioned lake paths, Hive tables, dashboard exposure","textChars":59,"textLines":1,"bbox":[668,258,464,50]}
+{"kind":"shape","id":"sh/i5crel8n","slide":19,"bbox":[80,380,500,120]}
+{"kind":"shape","id":"sh/j6lsnq98","slide":19,"bbox":[80,380,500,4]}
+{"kind":"textbox","id":"sh/svu9kvqp","slide":19,"text":"Agent tests","textPreview":"Agent tests","textChars":11,"textLines":1,"bbox":[98,400,464,28]}
+{"kind":"textbox","id":"sh/twnat0ra","slide":19,"text":"Local matching, Hugging Face prompt parsing, response extraction, fallback narration","textPreview":"Local matching, Hugging Face prompt parsing, response extraction, fallback narration","textChars":84,"textLines":1,"bbox":[98,438,464,50]}
+{"kind":"shape","id":"sh/1sjad0je","slide":19,"bbox":[650,380,500,120]}
+{"kind":"shape","id":"sh/0ra94vit","slide":19,"bbox":[650,380,500,4]}
+{"kind":"textbox","id":"sh/fqh8bq1o","slide":19,"text":"Latest result","textPreview":"Latest result","textChars":13,"textLines":1,"bbox":[668,400,464,28]}
+{"kind":"textbox","id":"sh/ep8r2l03","slide":19,"text":"10 targeted agent tests passed after the final update","textPreview":"10 targeted agent tests passed after the final update","textChars":53,"textLines":1,"bbox":[668,438,464,50]}
+{"kind":"textbox","id":"sh/pgjah0jq","slide":19,"text":"Verification command result: 10 passed across huggingface_sql_agent, analytics_agent, and local_sql_model tests.","textPreview":"Verification command result: 10 passed across huggingface_sql_agent, analytics_agent, and local_sql_model tests.","textChars":112,"textLines":1,"bbox":[85,570,1090,30]}
+{"kind":"notes","id":"nt/hdggjp","slide":19,"text":"[Sources]\ntests/test_huggingface_sql_agent.py, tests/test_analytics_agent.py, tests/test_local_sql_model.py; local verification run on 2026-07-27."}
+{"kind":"slide","id":"sl/0th4mw","slide":20,"title":"SECURITY","textShapes":9}
+{"kind":"shape","id":"sh/eh4v21sn","slide":20,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/1kfexwbe","slide":20,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/0j6d4rat","slide":20,"text":"SECURITY","textPreview":"SECURITY","textChars":8,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/n6xwz6t4","slide":20,"text":"Slide 20","textPreview":"Slide 20","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/2lov61sj","slide":20,"text":"Privacy and governance are built into the pipeline and assistant","textPreview":"Privacy and governance are built into the pipeline and assistant","textChars":64,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/p8fe1gba","slide":20,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/o76d8bap","slide":20,"text":"The project handles sensitive data carefully at the analytics boundary and prevents unsafe assistant operations.","textPreview":"The project handles sensitive data carefully at the analytics boundary and prevents unsafe assistant operations.","textChars":112,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/baxw3qtg","slide":20,"bbox":[95,198,8,8]}
+{"kind":"textbox","id":"sh/a9ovalsv","slide":20,"text":"Fernet encryption protects selected PII before Silver publication.","textPreview":"Fernet encryption protects selected PII before Silver publication.","textChars":66,"textLines":1,"bbox":[117,190,998,66]}
+{"kind":"shape","id":"sh/sv2t4nuh","slide":20,"bbox":[95,266,8,8]}
+{"kind":"textbox","id":"sh/twvuxsb2","slide":20,"text":"SCD Type 2 candidate history preserves changes instead of overwriting analytical memory.","textPreview":"SCD Type 2 candidate history preserves changes instead of overwriting analytical memory.","textChars":88,"textLines":1,"bbox":[117,258,998,66]}
+{"kind":"shape","id":"sh/69kb2dcr","slide":20,"bbox":[95,334,8,8]}
+{"kind":"textbox","id":"sh/rutcvitc","slide":20,"text":"Read-only SQL guardrails reduce risk in the conversational agent.","textPreview":"Read-only SQL guardrails reduce risk in the conversational agent.","textChars":65,"textLines":1,"bbox":[117,326,998,66]}
+{"kind":"shape","id":"sh/gzmt87ut","slide":20,"bbox":[95,402,8,8]}
+{"kind":"textbox","id":"sh/10vu1cbe","slide":20,"text":"run_datetime lake paths provide lineage and reproducibility.","textPreview":"run_datetime lake paths provide lineage and reproducibility.","textChars":60,"textLines":1,"bbox":[117,394,998,66]}
+{"kind":"shape","id":"sh/ex4b6xcn","slide":20,"bbox":[95,470,8,8]}
+{"kind":"textbox","id":"sh/fydcz2t8","slide":20,"text":"Production recommendations include Key Vault, formal RBAC, password hashing, CI, monitoring, model cards, fairness checks, and drift monitoring.","textPreview":"Production recommendations include Key Vault, formal RBAC, password hashing, CI, monitoring, model cards, fairness checks, and drift moni...","textChars":144,"textLines":1,"bbox":[117,462,998,66]}
+{"kind":"notes","id":"nt/0th4mw","slide":20,"text":"[Sources]\nutils/crypto_utils.py, pipelines/elt_silver.py, app/analytics_assistant.py; final report section 10."}
+{"kind":"slide","id":"sl/ps0fsa","slide":21,"title":"RESULTS","textShapes":14}
+{"kind":"shape","id":"sh/ja1cnqh4","slide":21,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/kbutgvip","slide":21,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/5c3up0za","slide":21,"text":"RESULTS","textPreview":"RESULTS","textChars":7,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/6dcbi50v","slide":21,"text":"Slide 21","textPreview":"Slide 21","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/7ylcrahg","slide":21,"text":"The final outcome is a working recruitment intelligence foundation","textPreview":"The final outcome is a working recruitment intelligence foundation","textChars":66,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/szutkvi1","slide":21,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/t03ut0z6","slide":21,"text":"The project demonstrates end-to-end data engineering plus data science, not isolated scripts.","textPreview":"The project demonstrates end-to-end data engineering plus data science, not isolated scripts.","textChars":93,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/u1cbm50r","slide":21,"bbox":[80,200,320,125]}
+{"kind":"shape","id":"sh/f2lcvahc","slide":21,"bbox":[80,200,320,4]}
+{"kind":"textbox","id":"sh/3a90rydk","slide":21,"text":"Operational workflows","textPreview":"Operational workflows","textChars":21,"textLines":1,"bbox":[98,220,284,28]}
+{"kind":"textbox","id":"sh/290zitwz","slide":21,"text":"Registration, profile update, scheduling, feedback","textPreview":"Registration, profile update, scheduling, feedback","textChars":50,"textLines":1,"bbox":[98,258,284,55]}
+{"kind":"shape","id":"sh/pcritova","slide":21,"bbox":[460,200,320,125]}
+{"kind":"shape","id":"sh/obihkje5","slide":21,"bbox":[460,200,320,4]}
+{"kind":"textbox","id":"sh/fmp0ned8","slide":21,"text":"Lakehouse pipeline","textPreview":"Lakehouse pipeline","textChars":18,"textLines":1,"bbox":[478,220,284,28]}
+{"kind":"textbox","id":"sh/elgze9wn","slide":21,"text":"Bronze, Silver, Gold, Azure Parquet, external table readiness","textPreview":"Bronze, Silver, Gold, Azure Parquet, external table readiness","textChars":61,"textLines":1,"bbox":[478,258,284,55]}
+{"kind":"shape","id":"sh/187ipove","slide":21,"bbox":[840,200,320,125]}
+{"kind":"shape","id":"sh/gnyhgjet","slide":21,"bbox":[840,200,320,4]}
+{"kind":"textbox","id":"sh/zit0zids","slide":21,"text":"Analytics products","textPreview":"Analytics products","textChars":18,"textLines":1,"bbox":[858,220,284,28]}
+{"kind":"textbox","id":"sh/yhkzqdw7","slide":21,"text":"Gold KPIs, dashboard, validation, reconciliation","textPreview":"Gold KPIs, dashboard, validation, reconciliation","textChars":48,"textLines":1,"bbox":[858,258,284,55]}
+{"kind":"shape","id":"sh/ad43yhgf","slide":21,"bbox":[80,400,320,125]}
+{"kind":"shape","id":"sh/vydkr2x0","slide":21,"bbox":[80,400,320,4]}
+{"kind":"textbox","id":"sh/wzml07y5","slide":21,"text":"Predictive intelligence","textPreview":"Predictive intelligence","textChars":23,"textLines":1,"bbox":[98,420,284,28]}
+{"kind":"textbox","id":"sh/h0f2tcfq","slide":21,"text":"ML models, feature importance, decision-support framing","textPreview":"ML models, feature importance, decision-support framing","textChars":55,"textLines":1,"bbox":[98,458,284,55]}
+{"kind":"shape","id":"sh/i1o32hgb","slide":21,"bbox":[460,400,320,125]}
+{"kind":"shape","id":"sh/j2xkvmxw","slide":21,"bbox":[460,400,320,4]}
+{"kind":"textbox","id":"sh/436l4ryh","slide":21,"text":"Conversational analytics","textPreview":"Conversational analytics","textChars":24,"textLines":1,"bbox":[478,420,284,28]}
+{"kind":"textbox","id":"sh/54f2xwf2","slide":21,"text":"NLP matcher, Hugging Face LLM, SQL safety, feedback memory","textPreview":"NLP matcher, Hugging Face LLM, SQL safety, feedback memory","textChars":58,"textLines":1,"bbox":[478,458,284,55]}
+{"kind":"notes","id":"nt/ps0fsa","slide":21,"text":"[Sources]\nFinal report conclusion and appendices; local project implementation."}
+{"kind":"slide","id":"sl/a1wkp0","slide":22,"title":"LIMITATIONS","textShapes":9}
+{"kind":"shape","id":"sh/ep8jm9o3","slide":22,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/1szixo7u","slide":22,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/0rq1oj69","slide":22,"text":"LIMITATIONS","textPreview":"LIMITATIONS","textChars":11,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/nuh0zyp0","slide":22,"text":"Slide 22","textPreview":"Slide 22","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/mt8jqtof","slide":22,"text":"The project is strong as a prototype, with clear production next steps","textPreview":"The project is strong as a prototype, with clear production next steps","textChars":70,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/9wji1o7q","slide":22,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/ovq1s365","slide":22,"text":"Acknowledging limits improves credibility and shows engineering maturity.","textPreview":"Acknowledging limits improves credibility and shows engineering maturity.","textChars":73,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/3yx0nupg","slide":22,"bbox":[95,210,460,260]}
+{"kind":"shape","id":"sh/ixozepov","slide":22,"bbox":[95,210,460,4]}
+{"kind":"textbox","id":"sh/0j6hwb6t","slide":22,"text":"Current limitations","textPreview":"Current limitations","textChars":19,"textLines":1,"bbox":[113,230,424,28]}
+{"kind":"textbox","id":"sh/lkfipg7e","slide":22,"text":"Demo-oriented data size\nEmail-domain role checks\nPrototype ML evaluation\nLocal LLM can be slow on CPU\nNo production CI/CD yet","textPreview":"Demo-oriented data size | Email-domain role checks | Prototype ML evaluation | Local LLM can be slow on CPU | No production CI/CD yet","textChars":125,"textLines":5,"bbox":[113,268,424,190]}
+{"kind":"shape","id":"sh/yhozu1o3","slide":22,"bbox":[725,210,460,260]}
+{"kind":"shape","id":"sh/zix0n6p8","slide":22,"bbox":[725,210,460,4]}
+{"kind":"textbox","id":"sh/8nq10b65","slide":22,"text":"Recommended hardening","textPreview":"Recommended hardening","textChars":21,"textLines":1,"bbox":[743,230,424,28]}
+{"kind":"textbox","id":"sh/9ozitgnq","slide":22,"text":"Identity provider and RBAC\nAzure Key Vault\nArgon2/bcrypt passwords\nDeployment automation\nMonitoring, fairness and drift checks","textPreview":"Identity provider and RBAC | Azure Key Vault | Argon2/bcrypt passwords | Deployment automation | Monitoring, fairness and drift checks","textChars":126,"textLines":5,"bbox":[743,268,424,190]}
+{"kind":"textbox","id":"sh/mlozy1oz","slide":22,"text":"Positioning: the submitted system is a complete academic project and a realistic foundation for productionization.","textPreview":"Positioning: the submitted system is a complete academic project and a realistic foundation for productionization.","textChars":114,"textLines":1,"bbox":[85,550,1090,32]}
+{"kind":"notes","id":"nt/a1wkp0","slide":22,"text":"[Sources]\nFinal report sections 10 and 11."}
+{"kind":"slide","id":"sl/iie3ha","slide":23,"title":"VIVA TALKING POINTS","textShapes":14}
+{"kind":"shape","id":"sh/9kj6tgbe","slide":23,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/mh87i1sn","slide":23,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/nihor6t8","slide":23,"text":"VIVA TALKING POINTS","textPreview":"VIVA TALKING POINTS","textChars":19,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/0fqpgbah","slide":23,"text":"Slide 23","textPreview":"Slide 23","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/1gz6pwb2","slide":23,"text":"Use these points to explain the project confidently","textPreview":"Use these points to explain the project confidently","textChars":51,"textLines":1,"bbox":[60,54,910,62]}
+{"kind":"shape","id":"sh/ed87e1sr","slide":23,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/zehon6tc","slide":23,"text":"The answers connect implementation choices to business and engineering value.","textPreview":"The answers connect implementation choices to business and engineering value.","textChars":77,"textLines":1,"bbox":[60,130,1040,38]}
+{"kind":"shape","id":"sh/kbupsva1","slide":23,"bbox":[70,200,350,130]}
+{"kind":"shape","id":"sh/lc3q10bm","slide":23,"bbox":[70,200,350,4]}
+{"kind":"textbox","id":"sh/pcvmtozq","slide":23,"text":"Why medallion?","textPreview":"Why medallion?","textChars":14,"textLines":1,"bbox":[88,220,314,28]}
+{"kind":"textbox","id":"sh/ob2l0jy5","slide":23,"text":"It separates raw capture, protected history, and trusted business metrics.","textPreview":"It separates raw capture, protected history, and trusted business metrics.","textChars":74,"textLines":1,"bbox":[88,258,314,60]}
+{"kind":"shape","id":"sh/nat4reh0","slide":23,"bbox":[465,200,350,130]}
+{"kind":"shape","id":"sh/29k3y9gf","slide":23,"bbox":[465,200,350,4]}
+{"kind":"textbox","id":"sh/18bmp4zu","slide":23,"text":"Why DuckDB?","textPreview":"Why DuckDB?","textChars":11,"textLines":1,"bbox":[483,220,314,28]}
+{"kind":"textbox","id":"sh/072lwzy9","slide":23,"text":"It can query Parquet directly and works well for lake-first Gold aggregation.","textPreview":"It can query Parquet directly and works well for lake-first Gold aggregation.","textChars":77,"textLines":1,"bbox":[483,258,314,60]}
+{"kind":"shape","id":"sh/f6t4nuho","slide":23,"bbox":[860,200,350,130]}
+{"kind":"shape","id":"sh/e5k3u903","slide":23,"bbox":[860,200,350,4]}
+{"kind":"textbox","id":"sh/l4fm18zy","slide":23,"text":"Why Random Forest?","textPreview":"Why Random Forest?","textChars":18,"textLines":1,"bbox":[878,220,314,28]}
+{"kind":"textbox","id":"sh/k36583yd","slide":23,"text":"It is a strong tabular baseline and gives feature-importance outputs.","textPreview":"It is a strong tabular baseline and gives feature-importance outputs.","textChars":69,"textLines":1,"bbox":[878,258,314,60]}
+{"kind":"shape","id":"sh/47ep476p","slide":23,"bbox":[70,390,540,150]}
+{"kind":"shape","id":"sh/58n6dc7a","slide":23,"bbox":[70,390,540,4]}
+{"kind":"textbox","id":"sh/ilcn2xoj","slide":23,"text":"Why local NLP + LLM?","textPreview":"Why local NLP + LLM?","textChars":20,"textLines":1,"bbox":[88,410,504,28]}
+{"kind":"textbox","id":"sh/jmlob2p4","slide":23,"text":"The local matcher keeps common questions fast; Hugging Face mode handles harder Text-to-SQL without paid cloud AI.","textPreview":"The local matcher keeps common questions fast; Hugging Face mode handles harder Text-to-SQL without paid cloud AI.","textChars":114,"textLines":1,"bbox":[88,448,504,80]}
+{"kind":"shape","id":"sh/wju5076t","slide":23,"bbox":[670,390,540,150]}
+{"kind":"shape","id":"sh/hk369s7y","slide":23,"bbox":[670,390,540,4]}
+{"kind":"textbox","id":"sh/uhcnyxon","slide":23,"text":"What is the main contribution?","textPreview":"What is the main contribution?","textChars":30,"textLines":1,"bbox":[688,410,504,28]}
+{"kind":"textbox","id":"sh/vilo72p8","slide":23,"text":"An integrated recruitment data product combining OLTP workflows, lakehouse engineering, privacy, ML, and conversational analytics.","textPreview":"An integrated recruitment data product combining OLTP workflows, lakehouse engineering, privacy, ML, and conversational analytics.","textChars":130,"textLines":1,"bbox":[688,448,504,80]}
+{"kind":"notes","id":"nt/iie3ha","slide":23,"text":"[Sources]\nFinal report sections 4, 7, 8, 9 and 11."}
+{"kind":"slide","id":"sl/ljawh5","slide":24,"title":"CLOSING","textShapes":9}
+{"kind":"shape","id":"sh/10ny5wfa","slide":24,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/exczu1gz","slide":24,"bbox":[742,713,538,7]}
+{"kind":"textbox","id":"sh/fylg36xk","slide":24,"text":"CLOSING","textPreview":"CLOSING","textChars":7,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/sbuhsryt","slide":24,"text":"Slide 24","textPreview":"Slide 24","textChars":8,"textLines":1,"bbox":[1168,662,52,16]}
+{"kind":"textbox","id":"sh/dw3y1wfe","slide":24,"text":"Conclusion","textPreview":"Conclusion","textChars":10,"textLines":1,"bbox":[60,90,780,70]}
+{"kind":"textbox","id":"sh/q9czqhgn","slide":24,"text":"TalentFlow AI successfully demonstrates a complete recruitment intelligence data product: operational workflows, governed lakehouse pipelines, validated analytics, machine-learning insights, and an NLP-based analytics agent.","textPreview":"TalentFlow AI successfully demonstrates a complete recruitment intelligence data product: operational workflows, governed lakehouse pipel...","textChars":224,"textLines":1,"bbox":[62,180,980,86]}
+{"kind":"shape","id":"sh/ralgzmx8","slide":24,"bbox":[80,350,520,150]}
+{"kind":"shape","id":"sh/47uhoryx","slide":24,"bbox":[80,350,520,4]}
+{"kind":"textbox","id":"sh/583yxcf2","slide":24,"text":"Best examiner takeaway","textPreview":"Best examiner takeaway","textChars":22,"textLines":1,"bbox":[98,370,484,28]}
+{"kind":"textbox","id":"sh/1srmd43m","slide":24,"text":"This project combines data engineering, data science, privacy, validation, and practical business usability in one coherent system.","textPreview":"This project combines data engineering, data science, privacy, validation, and practical business usability in one coherent system.","textChars":131,"textLines":1,"bbox":[98,408,484,80]}
+{"kind":"shape","id":"sh/07i5kz21","slide":24,"bbox":[680,350,420,150]}
+{"kind":"shape","id":"sh/z694belg","slide":24,"bbox":[680,350,420,4]}
+{"kind":"textbox","id":"sh/e50ni9kv","slide":24,"text":"Thank you","textPreview":"Thank you","textChars":9,"textLines":1,"bbox":[698,370,384,28]}
+{"kind":"textbox","id":"sh/d47m943a","slide":24,"text":"Questions and discussion","textPreview":"Questions and discussion","textChars":24,"textLines":1,"bbox":[698,408,384,80]}
+{"kind":"textbox","id":"sh/c3y5gz25","slide":24,"text":"Malikulashtar K Malampatiwalla | 2024DA04133","textPreview":"Malikulashtar K Malampatiwalla | 2024DA04133","textChars":44,"textLines":1,"bbox":[60,635,560,20]}
+{"kind":"notes","id":"nt/ljawh5","slide":24,"text":"[Sources]\nFinal report conclusion."}

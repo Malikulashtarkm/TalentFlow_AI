@@ -1,0 +1,26 @@
+feature,importance
+num__gpa,0.22230760148277962
+num__expected_salary,0.20977332792581513
+num__login_count,0.15276781015645327
+num__passing_year,0.11397918404672422
+cat__stage_name_Screening,0.02429389005055597
+cat__job_location_Bangalore,0.02409491683805574
+cat__stage_name_Technical Round 1,0.019086241658116152
+cat__degree_B.Sc,0.01791602011800905
+cat__degree_M.Tech,0.015558994275275812
+cat__degree_PhD,0.01413780429355259
+cat__department_AI/ML,0.013861996336228621
+cat__degree_B.Tech,0.01289318856206891
+cat__stage_name_Managerial Round,0.012047024624154587
+cat__state_Odisha,0.011510520391465355
+cat__state_Manipur,0.008964115744111286
+cat__state_Assam,0.006733778959954754
+cat__job_title_ML Engineer,0.00636100542747033
+"cat__salary_range_120,000 - 180,000",0.005906593174410466
+cat__job_title_Cloud Architect,0.005545656929650697
+cat__department_Infrastructure,0.005365695877328434
+cat__state_West Bengal,0.005344904631288764
+"cat__salary_range_100,000 - 150,000",0.005048164493102334
+cat__state_Tripura,0.005016156836998674
+cat__stage_name_Technical Round 2,0.00434699180940371
+cat__state_Nagaland,0.0036282309281396733

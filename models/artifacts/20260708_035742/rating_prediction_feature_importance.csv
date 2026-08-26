@@ -1,0 +1,26 @@
+feature,importance
+num__login_count,0.4097641910188376
+num__gpa,0.2556905083609515
+num__expected_salary,0.13447812150414334
+num__passing_year,0.03828263681006836
+cat__job_title_Data Analyst,0.017216275626489728
+cat__degree_B.Sc,0.016130449826752335
+cat__degree_B.Tech,0.015074334605804379
+"cat__salary_range_60,000 - 90,000",0.01392272037185568
+cat__job_location_Hyderabad,0.013194818322866505
+cat__job_location_Bangalore,0.012359397762032862
+cat__department_Business Intelligence,0.01205769491085199
+cat__degree_M.Tech,0.00900030930583656
+cat__stage_name_Screening,0.008605957955931765
+cat__stage_name_Technical Round 1,0.005704884818158523
+cat__department_AI/ML,0.0035563337691618523
+cat__state_Tamil Nadu,0.0033109788051645128
+cat__state_Kerala,0.0028098762964976335
+cat__state_Haryana,0.0016776299238276636
+cat__job_title_Backend Developer,0.0015213728668585242
+cat__state_Chhattisgarh,0.0014624469464657418
+cat__job_location_Pune,0.0014444603805045407
+"cat__salary_range_100,000 - 150,000",0.0014110877564503038
+cat__job_title_Data Engineer,0.0013872489313420616
+cat__state_Tripura,0.0012716501600806957
+cat__job_location_Remote,0.0011612609582929074

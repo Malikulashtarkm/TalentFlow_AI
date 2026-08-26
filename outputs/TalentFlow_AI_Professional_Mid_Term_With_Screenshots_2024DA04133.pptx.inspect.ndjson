@@ -1,0 +1,829 @@
+{"kind":"deck","id":"pr/aixs4h","name":"Deck"}
+{"kind":"layout","layoutId":"cd5f25eb-0b97-4855-a656-175dbbdaea64","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"6265237c-fd54-48c5-b70d-b3343bf985f2","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/m194q6","slide":1,"title":"TALENTFLOW AI | MID-TERM REVIEW","textShapes":11}
+{"kind":"shape","id":"sh/at47y1kr","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":1,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":1,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":1,"text":"TALENTFLOW AI | MID-TERM REVIEW","textPreview":"TALENTFLOW AI | MID-TERM REVIEW","textChars":31,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":1,"text":"TalentFlow AI","textPreview":"TalentFlow AI","textChars":13,"textLines":1,"bbox":[60,135,780,70]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":1,"text":"Enterprise Candidate Relationship Management and Predictive Intelligence Ecosystem","textPreview":"Enterprise Candidate Relationship Management and Predictive Intelligence Ecosystem","textChars":82,"textLines":1,"bbox":[62,214,980,38]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":1,"text":"A detailed mid-term presentation covering system design, lakehouse engineering, validation, ML workflow, and future Text-to-SQL direction.","textPreview":"A detailed mid-term presentation covering system design, lakehouse engineering, validation, ML workflow, and future Text-to-SQL direction.","textChars":138,"textLines":1,"bbox":[62,284,915,58]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":1,"bbox":[60,515,250,94]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":1,"text":"2024DA04133","textPreview":"2024DA04133","textChars":11,"textLines":1,"bbox":[76,531,218,34]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":1,"text":"BITS ID","textPreview":"BITS ID","textChars":7,"textLines":1,"bbox":[76,571,218,24]}
+{"kind":"shape","id":"sh/xs72x4na","slide":1,"bbox":[330,515,250,94]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":1,"text":"Mid-Term","textPreview":"Mid-Term","textChars":8,"textLines":1,"bbox":[346,531,218,34]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":1,"text":"Project evaluation stage","textPreview":"Project evaluation stage","textChars":24,"textLines":1,"bbox":[346,571,218,24]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":1,"bbox":[600,515,250,94]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":1,"text":"Altimetrik","textPreview":"Altimetrik","textChars":10,"textLines":1,"bbox":[616,531,218,34]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":1,"text":"Host organization","textPreview":"Host organization","textChars":17,"textLines":1,"bbox":[616,571,218,24]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":1,"text":"Malikulashtar K Malampatiwalla","textPreview":"Malikulashtar K Malampatiwalla","textChars":30,"textLines":1,"bbox":[60,634,520,20]}
+{"kind":"notes","id":"nt/m194q6","slide":1,"text":""}
+{"kind":"slide","id":"sl/27pe44","slide":2,"title":"NARRATIVE","textShapes":15}
+{"kind":"shape","id":"sh/m1cfa9w3","slide":2,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":2,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/47y1kre1","slide":2,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":2,"text":"NARRATIVE","textPreview":"NARRATIVE","textChars":9,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":2,"text":"Presentation Roadmap","textPreview":"Presentation Roadmap","textChars":20,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":2,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":2,"text":"How the review is structured for the examiner: problem, architecture, implementation evidence, validation, and next work.","textPreview":"How the review is structured for the examiner: problem, architecture, implementation evidence, validation, and next work.","textChars":121,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":2,"bbox":[70,190,530,128]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[90,212,34,34]}
+{"kind":"textbox","id":"sh/0z61032l","slide":2,"text":"Why TalentFlow AI?","textPreview":"Why TalentFlow AI?","textChars":18,"textLines":1,"bbox":[140,214,420,26]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":2,"text":"Recruitment data fragmentation, loss of candidate history, and manual reporting bottlenecks.","textPreview":"Recruitment data fragmentation, loss of candidate history, and manual reporting bottlenecks.","textChars":92,"textLines":1,"bbox":[140,250,425,45]}
+{"kind":"shape","id":"sh/itgfmlkj","slide":2,"bbox":[645,190,530,128]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[665,212,34,34]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":2,"text":"How the system is built","textPreview":"How the system is built","textChars":23,"textLines":1,"bbox":[715,214,420,26]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":2,"text":"Streamlit portals, PostgreSQL operational schema, Azure lakehouse, Prefect flows, DuckDB Gold analytics.","textPreview":"Streamlit portals, PostgreSQL operational schema, Azure lakehouse, Prefect flows, DuckDB Gold analytics.","textChars":104,"textLines":1,"bbox":[715,250,425,45]}
+{"kind":"shape","id":"sh/ih4byhgn","slide":2,"bbox":[70,375,530,128]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[90,397,34,34]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":2,"text":"What has been completed","textPreview":"What has been completed","textChars":23,"textLines":1,"bbox":[140,399,420,26]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":2,"text":"Frontend workflows, Bronze/Silver/Gold ELT, Gold KPI datasets, ML artifacts, validation scripts.","textPreview":"Frontend workflows, Bronze/Silver/Gold ELT, Gold KPI datasets, ML artifacts, validation scripts.","textChars":96,"textLines":1,"bbox":[140,435,425,45]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":2,"bbox":[645,375,530,128]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":2,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[665,397,34,34]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":2,"text":"What remains","textPreview":"What remains","textChars":12,"textLines":1,"bbox":[715,399,420,26]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":2,"text":"Text-to-SQL conversational interface, stronger model validation, production hardening and final dissertation polish.","textPreview":"Text-to-SQL conversational interface, stronger model validation, production hardening and final dissertation polish.","textChars":116,"textLines":1,"bbox":[715,435,425,45]}
+{"kind":"notes","id":"nt/27pe44","slide":2,"text":""}
+{"kind":"slide","id":"sl/aatudz","slide":3,"title":"CONTEXT","textShapes":25}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":3,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/g7adsji5","slide":3,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":3,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":3,"text":"CONTEXT","textPreview":"CONTEXT","textChars":7,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":3,"text":"Problem Definition and Motivation","textPreview":"Problem Definition and Motivation","textChars":33,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":3,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":3,"text":"TalentFlow AI was designed around a practical recruitment-data problem: operational tools capture activity, but do not automatically create reliable analytical memory.","textPreview":"TalentFlow AI was designed around a practical recruitment-data problem: operational tools capture activity, but do not automatically crea...","textChars":167,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":3,"bbox":[60,190,350,310]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":3,"text":"OPERATIONAL FRAGMENTATION","textPreview":"OPERATIONAL FRAGMENTATION","textChars":25,"textLines":1,"bbox":[88,218,260,20]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":3,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,259,14,20]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":3,"text":"Candidate profile, interview schedule, feedback and engagement data are spread across workflow screens.","textPreview":"Candidate profile, interview schedule, feedback and engagement data are spread across workflow screens.","textChars":103,"textLines":1,"bbox":[110,258,263,66]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":3,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,317,14,20]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":3,"text":"Simple update-in-place systems overwrite the earlier state of a candidate.","textPreview":"Simple update-in-place systems overwrite the earlier state of a candidate.","textChars":74,"textLines":1,"bbox":[110,316,263,66]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":3,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,375,14,20]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":3,"text":"Recruiters need timeline-aware information, not just the current profile row.","textPreview":"Recruiters need timeline-aware information, not just the current profile row.","textChars":77,"textLines":1,"bbox":[110,374,263,66]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":3,"bbox":[465,190,350,310]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":3,"text":"ANALYTICS BOTTLENECK","textPreview":"ANALYTICS BOTTLENECK","textChars":20,"textLines":1,"bbox":[493,218,260,20]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":3,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[493,259,14,20]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":3,"text":"Hiring-funnel, salary, engagement and city-level questions require manual SQL or exported reports.","textPreview":"Hiring-funnel, salary, engagement and city-level questions require manual SQL or exported reports.","textChars":98,"textLines":1,"bbox":[515,258,263,66]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":3,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[493,317,14,20]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":3,"text":"Operational databases are not designed as business-facing reporting products.","textPreview":"Operational databases are not designed as business-facing reporting products.","textChars":77,"textLines":1,"bbox":[515,316,263,66]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":3,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[493,375,14,20]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":3,"text":"Data quality and privacy must be handled before analytics are trusted.","textPreview":"Data quality and privacy must be handled before analytics are trusted.","textChars":70,"textLines":1,"bbox":[515,374,263,66]}
+{"kind":"shape","id":"sh/at47y1kr","slide":3,"bbox":[870,190,350,310]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":3,"text":"PROJECT RESPONSE","textPreview":"PROJECT RESPONSE","textChars":16,"textLines":1,"bbox":[898,218,260,20]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":3,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[898,259,14,20]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":3,"text":"Separate OLTP work from lakehouse analytics.","textPreview":"Separate OLTP work from lakehouse analytics.","textChars":44,"textLines":1,"bbox":[920,258,263,66]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":3,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[898,317,14,20]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":3,"text":"Preserve historical candidate versions through Silver SCD2 logic.","textPreview":"Preserve historical candidate versions through Silver SCD2 logic.","textChars":65,"textLines":1,"bbox":[920,316,263,66]}
+{"kind":"textbox","id":"sh/tovahoza","slide":3,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[898,375,14,20]}
+{"kind":"textbox","id":"sh/032lszqt","slide":3,"text":"Serve Gold KPIs and ML features to admin dashboards and future conversational analytics.","textPreview":"Serve Gold KPIs and ML features to admin dashboards and future conversational analytics.","textChars":88,"textLines":1,"bbox":[920,374,263,66]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":3,"text":"Design implication: the project is not only a recruitment portal; it is a governed recruitment-data product.","textPreview":"Design implication: the project is not only a recruitment portal; it is a governed recruitment-data product.","textChars":108,"textLines":1,"bbox":[85,560,1080,28]}
+{"kind":"notes","id":"nt/aatudz","slide":3,"text":""}
+{"kind":"slide","id":"sl/gmekla","slide":4,"title":"OBJECTIVES","textShapes":24}
+{"kind":"shape","id":"sh/z61032ls","slide":4,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/orytsvu9","slide":4,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":4,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":4,"text":"OBJECTIVES","textPreview":"OBJECTIVES","textChars":10,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":4,"text":"Project Objectives and Scope","textPreview":"Project Objectives and Scope","textChars":28,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":4,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":4,"text":"The scope combines application workflows with data engineering and AI readiness, so the system demonstrates end-to-end recruitment intelligence.","textPreview":"The scope combines application workflows with data engineering and AI readiness, so the system demonstrates end-to-end recruitment intell...","textChars":144,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/65wjudg7","slide":4,"bbox":[62,180,1156,55]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":4,"text":"Area","textPreview":"Area","textChars":4,"textLines":1,"bbox":[74,189,367.33,45]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":4,"text":"Objective","textPreview":"Objective","textChars":9,"textLines":1,"bbox":[459.33,189,367.33,45]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":4,"text":"Implementation Evidence","textPreview":"Implementation Evidence","textChars":23,"textLines":1,"bbox":[844.67,189,367.33,45]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":4,"bbox":[62,235,1156,55]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":4,"text":"Operational CRM","textPreview":"Operational CRM","textChars":15,"textLines":1,"bbox":[74,244,367.33,45]}
+{"kind":"textbox","id":"sh/z61032ls","slide":4,"text":"Candidate, interviewer and admin workflows","textPreview":"Candidate, interviewer and admin workflows","textChars":42,"textLines":1,"bbox":[459.33,244,367.33,45]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":4,"text":"Streamlit portal, profile updates, schedules, feedback","textPreview":"Streamlit portal, profile updates, schedules, feedback","textChars":54,"textLines":1,"bbox":[844.67,244,367.33,45]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":4,"bbox":[62,290,1156,55]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":4,"text":"Relational core","textPreview":"Relational core","textChars":15,"textLines":1,"bbox":[74,299,367.33,45]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":4,"text":"Normalized recruitment source schema","textPreview":"Normalized recruitment source schema","textChars":36,"textLines":1,"bbox":[459.33,299,367.33,45]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":4,"text":"13 PostgreSQL tables with PK/FK/CHECK/UNIQUE constraints","textPreview":"13 PostgreSQL tables with PK/FK/CHECK/UNIQUE constraints","textChars":56,"textLines":1,"bbox":[844.67,299,367.33,45]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":4,"bbox":[62,345,1156,55]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":4,"text":"Lakehouse","textPreview":"Lakehouse","textChars":9,"textLines":1,"bbox":[74,354,367.33,45]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":4,"text":"Bronze raw, Silver secure, Gold analytics","textPreview":"Bronze raw, Silver secure, Gold analytics","textChars":41,"textLines":1,"bbox":[459.33,354,367.33,45]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":4,"text":"Versioned Parquet outputs with latest copies","textPreview":"Versioned Parquet outputs with latest copies","textChars":44,"textLines":1,"bbox":[844.67,354,367.33,45]}
+{"kind":"shape","id":"sh/epkzupwb","slide":4,"bbox":[62,400,1156,55]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":4,"text":"Orchestration","textPreview":"Orchestration","textChars":13,"textLines":1,"bbox":[74,409,367.33,45]}
+{"kind":"textbox","id":"sh/wval87ed","slide":4,"text":"Repeatable ELT with observability","textPreview":"Repeatable ELT with observability","textChars":33,"textLines":1,"bbox":[459.33,409,367.33,45]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":4,"text":"Prefect full flow and 2-minute demo deployment","textPreview":"Prefect full flow and 2-minute demo deployment","textChars":46,"textLines":1,"bbox":[844.67,409,367.33,45]}
+{"kind":"shape","id":"sh/eloj2t83","slide":4,"bbox":[62,455,1156,55]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":4,"text":"Analytics","textPreview":"Analytics","textChars":9,"textLines":1,"bbox":[74,464,367.33,45]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":4,"text":"Recruitment KPI datasets","textPreview":"Recruitment KPI datasets","textChars":24,"textLines":1,"bbox":[459.33,464,367.33,45]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":4,"text":"city_talent_score, salary_benchmarks, engagement, funnel, hire_rate","textPreview":"city_talent_score, salary_benchmarks, engagement, funnel, hire_rate","textChars":67,"textLines":1,"bbox":[844.67,464,367.33,45]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":4,"bbox":[62,510,1156,55]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":4,"text":"Predictive AI","textPreview":"Predictive AI","textChars":13,"textLines":1,"bbox":[74,519,367.33,45]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":4,"text":"ML-ready features and model artifacts","textPreview":"ML-ready features and model artifacts","textChars":37,"textLines":1,"bbox":[459.33,519,367.33,45]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":4,"text":"Random Forest pipelines, metrics JSON, feature importance CSVs","textPreview":"Random Forest pipelines, metrics JSON, feature importance CSVs","textChars":62,"textLines":1,"bbox":[844.67,519,367.33,45]}
+{"kind":"notes","id":"nt/gmekla","slide":4,"text":""}
+{"kind":"slide","id":"sl/roqgcq","slide":5,"title":"SYSTEM MODULES","textShapes":19}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":5,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/87ed8bat","slide":5,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/xs72x4na","slide":5,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":5,"text":"SYSTEM MODULES","textPreview":"SYSTEM MODULES","textChars":14,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":5,"text":"Current Implementation Modules","textPreview":"Current Implementation Modules","textChars":30,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":5,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":5,"text":"The implementation is modular: user-facing actions are separated from storage, transformation, analytics, metadata and validation.","textPreview":"The implementation is modular: user-facing actions are separated from storage, transformation, analytics, metadata and validation.","textChars":130,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":5,"bbox":[60,170,535,70]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":5,"text":"Candidate Portal","textPreview":"Candidate Portal","textChars":16,"textLines":1,"bbox":[78,184,180,22]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":5,"text":"Registration, login, profile display/update, engagement logging","textPreview":"Registration, login, profile display/update, engagement logging","textChars":63,"textLines":1,"bbox":[270,183,295,36]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":5,"bbox":[650,170,535,70]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":5,"text":"Interviewer Portal","textPreview":"Interviewer Portal","textChars":18,"textLines":1,"bbox":[668,184,180,22]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":5,"text":"Assigned interview view, structured rating, comments and decision","textPreview":"Assigned interview view, structured rating, comments and decision","textChars":65,"textLines":1,"bbox":[860,183,295,36]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":5,"bbox":[60,266,535,70]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":5,"text":"Admin Portal","textPreview":"Admin Portal","textChars":12,"textLines":1,"bbox":[78,280,180,22]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":5,"text":"Recruiter assignment, schedule control, KPI tabs and ML feature insights","textPreview":"Recruiter assignment, schedule control, KPI tabs and ML feature insights","textChars":72,"textLines":1,"bbox":[270,279,295,36]}
+{"kind":"shape","id":"sh/87ed8bat","slide":5,"bbox":[650,266,535,70]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":5,"text":"Operational DB","textPreview":"Operational DB","textChars":14,"textLines":1,"bbox":[668,280,180,22]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":5,"text":"PostgreSQL recruitment entities, constraints, audit and login logs","textPreview":"PostgreSQL recruitment entities, constraints, audit and login logs","textChars":66,"textLines":1,"bbox":[860,279,295,36]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":5,"bbox":[60,362,535,70]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":5,"text":"Bronze Layer","textPreview":"Bronze Layer","textChars":12,"textLines":1,"bbox":[78,376,180,22]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":5,"text":"Raw source extraction to versioned Parquet paths and latest copies","textPreview":"Raw source extraction to versioned Parquet paths and latest copies","textChars":66,"textLines":1,"bbox":[270,375,295,36]}
+{"kind":"shape","id":"sh/58z25kb6","slide":5,"bbox":[650,362,535,70]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":5,"text":"Silver Layer","textPreview":"Silver Layer","textChars":12,"textLines":1,"bbox":[668,376,180,22]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":5,"text":"PII encryption, SCD2 candidate tracking, secure Parquet outputs","textPreview":"PII encryption, SCD2 candidate tracking, secure Parquet outputs","textChars":63,"textLines":1,"bbox":[860,375,295,36]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":5,"bbox":[60,458,535,70]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":5,"text":"Gold Layer","textPreview":"Gold Layer","textChars":10,"textLines":1,"bbox":[78,472,180,22]}
+{"kind":"textbox","id":"sh/u54zidon","slide":5,"text":"DuckDB KPI aggregation and optional analytics schema publishing","textPreview":"DuckDB KPI aggregation and optional analytics schema publishing","textChars":63,"textLines":1,"bbox":[270,471,295,36]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":5,"bbox":[650,458,535,70]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":5,"text":"ML Layer","textPreview":"ML Layer","textChars":8,"textLines":1,"bbox":[668,472,180,22]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":5,"text":"Random Forest artifacts, metrics, feature importance and dashboard output","textPreview":"Random Forest artifacts, metrics, feature importance and dashboard output","textChars":73,"textLines":1,"bbox":[860,471,295,36]}
+{"kind":"notes","id":"nt/roqgcq","slide":5,"text":""}
+{"kind":"slide","id":"sl/mt7u59","slide":6,"title":"APPLICATION EVIDENCE","textShapes":7}
+{"kind":"shape","id":"sh/7ed8bat4","slide":6,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/0z61032l","slide":6,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":6,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":6,"text":"APPLICATION EVIDENCE","textPreview":"APPLICATION EVIDENCE","textChars":20,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":6,"text":"Visual Evidence: Candidate and Admin Workflows","textPreview":"Visual Evidence: Candidate and Admin Workflows","textChars":46,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":6,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":6,"text":"These screens show the user-facing Streamlit application that feeds the operational PostgreSQL source database.","textPreview":"These screens show the user-facing Streamlit application that feeds the operational PostgreSQL source database.","textChars":111,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":6,"bbox":[49,144,567,342]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":6,"text":"Candidate registration screen captures profile data and login credentials.","textPreview":"Candidate registration screen captures profile data and login credentials.","textChars":74,"textLines":1,"bbox":[59,462,547,20]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":6,"bbox":[664,144,567,342]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":6,"text":"Candidate dashboard shows the profile fields that become operational source records.","textPreview":"Candidate dashboard shows the profile fields that become operational source records.","textChars":84,"textLines":1,"bbox":[674,462,547,20]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":6,"bbox":[80,515,1120,75]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":6,"text":"Why this matters","textPreview":"Why this matters","textChars":16,"textLines":1,"bbox":[105,536,160,22]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":6,"text":"The portal is not separate from the data platform: candidate registration, profile updates and login activity create the records later extracted into Bronze and transformed into engagement, salary and profile-history analytics.","textPreview":"The portal is not separate from the data platform: candidate registration, profile updates and login activity create the records later ex...","textChars":227,"textLines":1,"bbox":[265,532,880,34]}
+{"kind":"image","id":"im/i9s36hcr","slide":6,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 003158.png","bbox":[55,150,555,300]}
+{"kind":"image","id":"im/i9s36hcr","slide":6,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 003314.png","bbox":[670,150,555,300]}
+{"kind":"notes","id":"nt/mt7u59","slide":6,"text":""}
+{"kind":"slide","id":"sl/b03fgt","slide":7,"title":"APPLICATION EVIDENCE","textShapes":13}
+{"kind":"shape","id":"sh/2lszqtcj","slide":7,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/d8bat47y","slide":7,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/knih4byh","slide":7,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":7,"text":"APPLICATION EVIDENCE","textPreview":"APPLICATION EVIDENCE","textChars":20,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":7,"text":"Visual Evidence: Interviewer and Admin Workflows","textPreview":"Visual Evidence: Interviewer and Admin Workflows","textChars":48,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/d0z61032","slide":7,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":7,"text":"The recruitment workflow is role based: admins schedule interviews and interviewers submit feedback that later becomes Gold and ML input.","textPreview":"The recruitment workflow is role based: admins schedule interviews and interviewers submit feedback that later becomes Gold and ML input.","textChars":137,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/vixczed8","slide":7,"bbox":[44,139,382,282]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":7,"text":"Admin scheduling creates interview_schedules records.","textPreview":"Admin scheduling creates interview_schedules records.","textChars":53,"textLines":1,"bbox":[54,397,362,20]}
+{"kind":"shape","id":"sh/90je9cvi","slide":7,"bbox":[449,139,382,282]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":7,"text":"Admin pipeline overview shows scheduled/completed stages.","textPreview":"Admin pipeline overview shows scheduled/completed stages.","textChars":57,"textLines":1,"bbox":[459,397,362,20]}
+{"kind":"shape","id":"sh/g7adsji5","slide":7,"bbox":[854,139,382,282]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":7,"text":"Interviewer feedback captures rating and hire/hold/reject decisions.","textPreview":"Interviewer feedback captures rating and hire/hold/reject decisions.","textChars":68,"textLines":1,"bbox":[864,397,362,20]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":7,"bbox":[75,470,1130,110]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":7,"text":"DATA GENERATED BY THESE SCREENS","textPreview":"DATA GENERATED BY THESE SCREENS","textChars":31,"textLines":1,"bbox":[105,492,260,20]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":7,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[105,529,14,20]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":7,"text":"interview_schedules links candidate_id, job_id, interviewer_id, stage_id, interview_date and status.","textPreview":"interview_schedules links candidate_id, job_id, interviewer_id, stage_id, interview_date and status.","textChars":100,"textLines":1,"bbox":[127,528,988,32]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":7,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[105,553,14,20]}
+{"kind":"textbox","id":"sh/bulwval8","slide":7,"text":"interview_feedback stores rating, comments, decision and submitted_at.","textPreview":"interview_feedback stores rating, comments, decision and submitted_at.","textChars":70,"textLines":1,"bbox":[127,552,988,32]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":7,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[105,577,14,20]}
+{"kind":"textbox","id":"sh/tovahoza","slide":7,"text":"These records drive interview_pipeline_funnel, job_hire_rate and Random Forest model targets.","textPreview":"These records drive interview_pipeline_funnel, job_hire_rate and Random Forest model targets.","textChars":93,"textLines":1,"bbox":[127,576,988,32]}
+{"kind":"image","id":"im/jqh0fepk","slide":7,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 005128.png","bbox":[50,145,370,240]}
+{"kind":"image","id":"im/xs72x4na","slide":7,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 005200.png","bbox":[455,145,370,240]}
+{"kind":"image","id":"im/qtcj6tov","slide":7,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 004905.png","bbox":[860,145,370,240]}
+{"kind":"notes","id":"nt/b03fgt","slide":7,"text":""}
+{"kind":"slide","id":"sl/zka92d","slide":8,"title":"ARCHITECTURE","textShapes":21}
+{"kind":"shape","id":"sh/jqh0fepk","slide":8,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/8bat47y1","slide":8,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":8,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":8,"text":"ARCHITECTURE","textPreview":"ARCHITECTURE","textChars":12,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":8,"text":"End-to-End Functional Architecture","textPreview":"End-to-End Functional Architecture","textChars":34,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":8,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":8,"text":"The implementation follows the flow captured in your mid-term report: operational capture, medallion ELT, Gold analytics, and ML outputs.","textPreview":"The implementation follows the flow captured in your mid-term report: operational capture, medallion ELT, Gold analytics, and ML outputs.","textChars":137,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/j6tovaho","slide":8,"bbox":[55,455,185.83,94]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":8,"text":"Streamlit","textPreview":"Streamlit","textChars":9,"textLines":1,"bbox":[67,467,161.83,21]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":8,"text":"Candidate, Interviewer, Admin and KPI screens","textPreview":"Candidate, Interviewer, Admin and KPI screens","textChars":45,"textLines":1,"bbox":[67,497,161.83,42]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[241.83,493,14,24]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":8,"bbox":[251.83,455,185.83,94]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":8,"text":"PostgreSQL","textPreview":"PostgreSQL","textChars":10,"textLines":1,"bbox":[263.83,467,161.83,21]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":8,"text":"Normalized OLTP source and audit logs","textPreview":"Normalized OLTP source and audit logs","textChars":37,"textLines":1,"bbox":[263.83,497,161.83,42]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[438.67,493,14,24]}
+{"kind":"shape","id":"sh/8bat47y1","slide":8,"bbox":[448.67,455,185.83,94]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":8,"text":"Bronze","textPreview":"Bronze","textChars":6,"textLines":1,"bbox":[460.67,467,161.83,21]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":8,"text":"Raw extracts with versioned run folders","textPreview":"Raw extracts with versioned run folders","textChars":39,"textLines":1,"bbox":[460.67,497,161.83,42]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[635.5,493,14,24]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":8,"bbox":[645.5,455,185.83,94]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":8,"text":"Silver","textPreview":"Silver","textChars":6,"textLines":1,"bbox":[657.5,467,161.83,21]}
+{"kind":"textbox","id":"sh/9knih4by","slide":8,"text":"PII encryption and SCD2 history","textPreview":"PII encryption and SCD2 history","textChars":31,"textLines":1,"bbox":[657.5,497,161.83,42]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[832.33,493,14,24]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":8,"bbox":[842.33,455,185.83,94]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":8,"text":"Gold","textPreview":"Gold","textChars":4,"textLines":1,"bbox":[854.33,467,161.83,21]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":8,"text":"DuckDB KPIs as Parquet","textPreview":"DuckDB KPIs as Parquet","textChars":22,"textLines":1,"bbox":[854.33,497,161.83,42]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":8,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[1029.17,493,14,24]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":8,"bbox":[1039.17,455,185.83,94]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":8,"text":"ML","textPreview":"ML","textChars":2,"textLines":1,"bbox":[1051.17,467,161.83,21]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":8,"text":"Training artifacts and feature insights","textPreview":"Training artifacts and feature insights","textChars":39,"textLines":1,"bbox":[1051.17,497,161.83,42]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":8,"text":"Reference alignment: medallion architecture improves quality progressively from raw to validated to business-ready data; Gold is optimized for analytics and ML consumption.","textPreview":"Reference alignment: medallion architecture improves quality progressively from raw to validated to business-ready data; Gold is optimize...","textChars":172,"textLines":1,"bbox":[68,592,1110,34]}
+{"kind":"image","id":"im/ra5gbq1o","slide":8,"name":"","geometry":"roundRect","alt":"talentflow_architecture.png","bbox":[60,145,1160,245]}
+{"kind":"notes","id":"nt/zka92d","slide":8,"text":""}
+{"kind":"slide","id":"sl/b5mfcz","slide":9,"title":"DATABASE DESIGN","textShapes":14}
+{"kind":"shape","id":"sh/72x4nap4","slide":9,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":9,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":9,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":9,"text":"DATABASE DESIGN","textPreview":"DATABASE DESIGN","textChars":15,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":9,"text":"ER Diagram and Relational Design","textPreview":"ER Diagram and Relational Design","textChars":32,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/0z61032l","slide":9,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":9,"text":"The OLTP database is normalized to protect operational integrity before data enters the lakehouse.","textPreview":"The OLTP database is normalized to protect operational integrity before data enters the lakehouse.","textChars":98,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":9,"bbox":[810,145,405,500]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":9,"text":"SCHEMA GROUPS","textPreview":"SCHEMA GROUPS","textChars":13,"textLines":1,"bbox":[838,172,260,20]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":9,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[838,221,14,20]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":9,"text":"Candidate core: candidates, education, login logs, audit log.","textPreview":"Candidate core: candidates, education, login logs, audit log.","textChars":61,"textLines":1,"bbox":[860,220,313,64]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":9,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[838,277,14,20]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":9,"text":"Hiring and evaluation: jobs, stages, interviewers, schedules, feedback, responses.","textPreview":"Hiring and evaluation: jobs, stages, interviewers, schedules, feedback, responses.","textChars":82,"textLines":1,"bbox":[860,276,313,64]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":9,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[838,333,14,20]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":9,"text":"Administration: recruiters and reference tables.","textPreview":"Administration: recruiters and reference tables.","textChars":48,"textLines":1,"bbox":[860,332,313,64]}
+{"kind":"textbox","id":"sh/83itgfml","slide":9,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[838,389,14,20]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":9,"text":"Integrity: UUID primary keys, foreign keys, unique emails and rating CHECK constraint.","textPreview":"Integrity: UUID primary keys, foreign keys, unique emails and rating CHECK constraint.","textChars":86,"textLines":1,"bbox":[860,388,313,64]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":9,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[838,445,14,20]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":9,"text":"Analytical seed: login logs and feedback become ML features and Gold KPIs.","textPreview":"Analytical seed: login logs and feedback become ML features and Gold KPIs.","textChars":74,"textLines":1,"bbox":[860,444,313,64]}
+{"kind":"image","id":"im/bi9s36hc","slide":9,"name":"","geometry":"roundRect","alt":"talentflow_er_diagram.png","bbox":[55,145,710,500]}
+{"kind":"notes","id":"nt/b5mfcz","slide":9,"text":""}
+{"kind":"slide","id":"sl/u90mi9","slide":10,"title":"OLTP LAYER","textShapes":15}
+{"kind":"shape","id":"sh/zqtcj6to","slide":10,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/obm58z25","slide":10,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":10,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":10,"text":"OLTP LAYER","textPreview":"OLTP LAYER","textChars":10,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":10,"text":"PostgreSQL Operational Layer","textPreview":"PostgreSQL Operational Layer","textChars":28,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":10,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":10,"text":"PostgreSQL is used as the transactional source of truth; the lakehouse is not a replacement for the normalized application database.","textPreview":"PostgreSQL is used as the transactional source of truth; the lakehouse is not a replacement for the normalized application database.","textChars":132,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/al87ed8b","slide":10,"bbox":[60,170,360,390]}
+{"kind":"textbox","id":"sh/z61032ls","slide":10,"text":"WHY POSTGRESQL HERE?","textPreview":"WHY POSTGRESQL HERE?","textChars":20,"textLines":1,"bbox":[88,198,260,20]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":10,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,241,14,20]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":10,"text":"Recruitment workflow needs row-level consistency and relational integrity.","textPreview":"Recruitment workflow needs row-level consistency and relational integrity.","textChars":74,"textLines":1,"bbox":[110,240,268,66]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":10,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,299,14,20]}
+{"kind":"textbox","id":"sh/svu9knih","slide":10,"text":"Foreign keys connect candidate, schedule, job, interviewer and feedback records.","textPreview":"Foreign keys connect candidate, schedule, job, interviewer and feedback records.","textChars":80,"textLines":1,"bbox":[110,298,268,66]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":10,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,357,14,20]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":10,"text":"Constraints prevent invalid operational values before they reach analytics.","textPreview":"Constraints prevent invalid operational values before they reach analytics.","textChars":75,"textLines":1,"bbox":[110,356,268,66]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":10,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,415,14,20]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":10,"text":"The schema remains understandable for application queries and migrations.","textPreview":"The schema remains understandable for application queries and migrations.","textChars":73,"textLines":1,"bbox":[110,414,268,66]}
+{"kind":"shape","id":"sh/3m94fu18","slide":10,"bbox":[460,170,760,390]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":10,"text":"REPRESENTATIVE SCHEMA CHOICES","textPreview":"REPRESENTATIVE SCHEMA CHOICES","textChars":29,"textLines":1,"bbox":[492,198,260,20]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":10,"text":"candidates(candidate_id UUID PRIMARY KEY, email TEXT UNIQUE NOT NULL, expected_salary NUMERIC)\ninterview_schedules(schedule_id UUID PRIMARY KEY, candidate_id FK, job_id FK, interviewer_id FK, stage_id FK)\ninterview_feedback(feedback_id SERIAL PRIMARY KEY, schedule_id FK, rating INTEGER CHECK rating between 1 and 5)\nlogin_logs(log_id SERIAL PRIMARY KEY, candidate_id FK, login_timestamp)","textPreview":"candidates(candidate_id UUID PRIMARY KEY, email TEXT UNIQUE NOT NULL, expected_salary NUMERIC) | interview_schedules(schedule_id UUID PRI...","textChars":388,"textLines":4,"bbox":[492,240,665,180]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":10,"text":"Reference used: PostgreSQL constraints documentation confirms CHECK, NOT NULL, UNIQUE, PRIMARY KEY and FOREIGN KEY controls for table integrity.","textPreview":"Reference used: PostgreSQL constraints documentation confirms CHECK, NOT NULL, UNIQUE, PRIMARY KEY and FOREIGN KEY controls for table int...","textChars":144,"textLines":1,"bbox":[492,480,660,38]}
+{"kind":"notes","id":"nt/u90mi9","slide":10,"text":""}
+{"kind":"slide","id":"sl/rjidh5","slide":11,"title":"LAKEHOUSE RATIONALE","textShapes":16}
+{"kind":"shape","id":"sh/cbulwval","slide":11,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":11,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/u54zidon","slide":11,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":11,"text":"LAKEHOUSE RATIONALE","textPreview":"LAKEHOUSE RATIONALE","textChars":19,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":11,"text":"Why Medallion Architecture?","textPreview":"Why Medallion Architecture?","textChars":27,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/neloj2t8","slide":11,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":11,"text":"The project uses Bronze, Silver and Gold layers because each stage has a different responsibility and audience.","textPreview":"The project uses Bronze, Silver and Gold layers because each stage has a different responsibility and audience.","textChars":111,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/58z25kb6","slide":11,"bbox":[70,174,1140,82]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":11,"text":"Layer","textPreview":"Layer","textChars":5,"textLines":1,"bbox":[82,183,362,72]}
+{"kind":"textbox","id":"sh/u54zidon","slide":11,"text":"TalentFlow implementation","textPreview":"TalentFlow implementation","textChars":25,"textLines":1,"bbox":[462,183,362,72]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":11,"text":"Reference-backed purpose","textPreview":"Reference-backed purpose","textChars":24,"textLines":1,"bbox":[842,183,362,72]}
+{"kind":"shape","id":"sh/cbulwval","slide":11,"bbox":[70,256,1140,82]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":11,"text":"Bronze","textPreview":"Bronze","textChars":6,"textLines":1,"bbox":[82,265,362,72]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":11,"text":"Extract each PostgreSQL table to raw versioned Parquet plus latest copy","textPreview":"Extract each PostgreSQL table to raw versioned Parquet plus latest copy","textChars":71,"textLines":1,"bbox":[462,265,362,72]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":11,"text":"Preserve source fidelity, enable reprocessing and audit","textPreview":"Preserve source fidelity, enable reprocessing and audit","textChars":55,"textLines":1,"bbox":[842,265,362,72]}
+{"kind":"shape","id":"sh/czed8v6p","slide":11,"bbox":[70,338,1140,82]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":11,"text":"Silver","textPreview":"Silver","textChars":6,"textLines":1,"bbox":[82,347,362,72]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":11,"text":"Encrypt PII, normalize UUIDs, apply row_hash and SCD2 current flag","textPreview":"Encrypt PII, normalize UUIDs, apply row_hash and SCD2 current flag","textChars":66,"textLines":1,"bbox":[462,347,362,72]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":11,"text":"Clean, validate, deduplicate and enrich detailed data","textPreview":"Clean, validate, deduplicate and enrich detailed data","textChars":53,"textLines":1,"bbox":[842,347,362,72]}
+{"kind":"shape","id":"sh/fyxobm58","slide":11,"bbox":[70,420,1140,82]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":11,"text":"Gold","textPreview":"Gold","textChars":4,"textLines":1,"bbox":[82,429,362,72]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":11,"text":"Build business KPIs and ML feature tables using DuckDB","textPreview":"Build business KPIs and ML feature tables using DuckDB","textChars":54,"textLines":1,"bbox":[462,429,362,72]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":11,"text":"Serve domain-specific analytics, dashboards and ML-ready datasets","textPreview":"Serve domain-specific analytics, dashboards and ML-ready datasets","textChars":65,"textLines":1,"bbox":[842,429,362,72]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":11,"text":"Design comparison: direct OLTP reporting is simpler, but it mixes operational load with analytics, loses historical versions, and makes privacy controls harder to isolate.","textPreview":"Design comparison: direct OLTP reporting is simpler, but it mixes operational load with analytics, loses historical versions, and makes p...","textChars":171,"textLines":1,"bbox":[90,548,1080,35]}
+{"kind":"notes","id":"nt/rjidh5","slide":11,"text":""}
+{"kind":"slide","id":"sl/vuet96","slide":12,"title":"AZURE EVIDENCE","textShapes":7}
+{"kind":"shape","id":"sh/nqxs72x4","slide":12,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/cbulwval","slide":12,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/5sneloj2","slide":12,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":12,"text":"AZURE EVIDENCE","textPreview":"AZURE EVIDENCE","textChars":14,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":12,"text":"Visual Evidence: Azure Lakehouse Containers","textPreview":"Visual Evidence: Azure Lakehouse Containers","textChars":43,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/czed8v6p","slide":12,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":12,"text":"The Azure storage account shows the medallion layout implemented as separate private containers for Bronze, Silver and Gold.","textPreview":"The Azure storage account shows the medallion layout implemented as separate private containers for Bronze, Silver and Gold.","textChars":124,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":12,"bbox":[54,139,562,287]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":12,"text":"Storage account containers: bronze, silver and gold.","textPreview":"Storage account containers: bronze, silver and gold.","textChars":52,"textLines":1,"bbox":[64,402,542,20]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":12,"bbox":[664,139,562,287]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":12,"text":"Bronze container stores raw table folders from PostgreSQL extraction.","textPreview":"Bronze container stores raw table folders from PostgreSQL extraction.","textChars":69,"textLines":1,"bbox":[674,402,542,20]}
+{"kind":"shape","id":"sh/fa9w3m94","slide":12,"bbox":[54,444,562,212]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":12,"text":"Silver container stores secure/transformed table folders, including *_secure outputs.","textPreview":"Silver container stores secure/transformed table folders, including *_secure outputs.","textChars":85,"textLines":1,"bbox":[64,632,542,20]}
+{"kind":"shape","id":"sh/8v6psfil","slide":12,"bbox":[664,444,562,212]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":12,"text":"Gold container stores business-facing KPI dataset folders.","textPreview":"Gold container stores business-facing KPI dataset folders.","textChars":58,"textLines":1,"bbox":[674,632,542,20]}
+{"kind":"image","id":"im/m58z25kb","slide":12,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 225521.png","bbox":[60,145,550,245]}
+{"kind":"image","id":"im/61032lsz","slide":12,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 225530.png","bbox":[670,145,550,245]}
+{"kind":"image","id":"im/d4vmtwra","slide":12,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 225540.png","bbox":[60,450,550,170]}
+{"kind":"image","id":"im/onyd0z61","slide":12,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 225655.png","bbox":[670,450,550,170]}
+{"kind":"notes","id":"nt/vuet96","slide":12,"text":""}
+{"kind":"slide","id":"sl/ph689e","slide":13,"title":"GOLD EVIDENCE","textShapes":7}
+{"kind":"shape","id":"sh/y1kre1w7","slide":13,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":13,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/g7adsji5","slide":13,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":13,"text":"GOLD EVIDENCE","textPreview":"GOLD EVIDENCE","textChars":13,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":13,"text":"Visual Evidence: Gold Versioned Parquet Outputs","textPreview":"Visual Evidence: Gold Versioned Parquet Outputs","textChars":47,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/90je9cvi","slide":13,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":13,"text":"Gold outputs are written as versioned Parquet snapshots and latest copies, which supports repeated demo runs and reproducibility.","textPreview":"Gold outputs are written as versioned Parquet snapshots and latest copies, which supports repeated demo runs and reproducibility.","textChars":129,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/r65wjudg","slide":13,"bbox":[54,144,572,332]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":13,"text":"salary_benchmarks has multiple run_datetime folders plus latest.","textPreview":"salary_benchmarks has multiple run_datetime folders plus latest.","textChars":64,"textLines":1,"bbox":[64,452,552,20]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":13,"bbox":[659,144,572,332]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":13,"text":"Inside a run folder, the Gold parquet file is stored as a block blob.","textPreview":"Inside a run folder, the Gold parquet file is stored as a block blob.","textChars":69,"textLines":1,"bbox":[669,452,552,20]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":13,"bbox":[90,515,1090,74]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":13,"text":"Presentation talking point","textPreview":"Presentation talking point","textChars":26,"textLines":1,"bbox":[118,536,205,22]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":13,"text":"This proves that the Gold layer is lake-first: each KPI dataset is materialized to Azure storage with traceable runtime partitions, and PostgreSQL publishing is only an optional dashboard cache.","textPreview":"This proves that the Gold layer is lake-first: each KPI dataset is materialized to Azure storage with traceable runtime partitions, and P...","textChars":194,"textLines":1,"bbox":[325,532,790,34]}
+{"kind":"image","id":"im/3m94fu18","slide":13,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 230709.png","bbox":[60,150,560,290]}
+{"kind":"image","id":"im/hoza1gvy","slide":13,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 225707.png","bbox":[665,150,560,290]}
+{"kind":"notes","id":"nt/ph689e","slide":13,"text":""}
+{"kind":"slide","id":"sl/th7dpy","slide":14,"title":"BRONZE","textShapes":15}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":14,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/psfil0rq","slide":14,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":14,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":14,"text":"BRONZE","textPreview":"BRONZE","textChars":6,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":14,"text":"Bronze Layer: Raw Ingestion and Runtime Lineage","textPreview":"Bronze Layer: Raw Ingestion and Runtime Lineage","textChars":47,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":14,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/wval87ed","slide":14,"text":"Bronze is intentionally close to the source. It captures raw extracts and ties every table to the same run identifier.","textPreview":"Bronze is intentionally close to the source. It captures raw extracts and ties every table to the same run identifier.","textChars":118,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":14,"bbox":[60,170,540,380]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":14,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[88,198,260,20]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":14,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,241,14,20]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":14,"text":"Prefect task reads each configured PostgreSQL table with pandas SQL extraction.","textPreview":"Prefect task reads each configured PostgreSQL table with pandas SQL extraction.","textChars":79,"textLines":1,"bbox":[110,240,433,64]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":14,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,297,14,20]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":14,"text":"Each table is written to Azure Blob Storage as Parquet.","textPreview":"Each table is written to Azure Blob Storage as Parquet.","textChars":55,"textLines":1,"bbox":[110,296,433,64]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":14,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,353,14,20]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":14,"text":"Every run writes a versioned path and a latest copy.","textPreview":"Every run writes a versioned path and a latest copy.","textChars":52,"textLines":1,"bbox":[110,352,433,64]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":14,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,409,14,20]}
+{"kind":"textbox","id":"sh/7u54zido","slide":14,"text":"Shared run_datetime links Bronze, Silver and Gold outputs from the same execution.","textPreview":"Shared run_datetime links Bronze, Silver and Gold outputs from the same execution.","textChars":82,"textLines":1,"bbox":[110,408,433,64]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":14,"bbox":[650,170,570,380]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":14,"text":"PATH CONTRACT","textPreview":"PATH CONTRACT","textChars":13,"textLines":1,"bbox":[682,198,260,20]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":14,"text":"bronze/<table_name>/run_datetime=YYYYMMDD_HHMMSS/*.parquet\nbronze/<table_name>/latest/<table_name>.parquet\n\nThe same run_datetime is passed into Silver and Gold, giving traceability when demo runs execute every 2 minutes.","textPreview":"bronze/<table_name>/run_datetime=YYYYMMDD_HHMMSS/*.parquet | bronze/<table_name>/latest/<table_name>.parquet |  | The same run_datetime i...","textChars":221,"textLines":4,"bbox":[682,240,480,170]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":14,"text":"Azure Data Lake Storage is built on Blob Storage and supports hierarchical directory organization for data lake workloads.","textPreview":"Azure Data Lake Storage is built on Blob Storage and supports hierarchical directory organization for data lake workloads.","textChars":122,"textLines":1,"bbox":[682,458,455,42]}
+{"kind":"notes","id":"nt/th7dpy","slide":14,"text":""}
+{"kind":"slide","id":"sl/j96lxp","slide":15,"title":"SILVER","textShapes":27}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":15,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/g7adsji5","slide":15,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":15,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":15,"text":"SILVER","textPreview":"SILVER","textChars":6,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":15,"text":"Silver Layer: PII Protection and SCD Type 2 History","textPreview":"Silver Layer: PII Protection and SCD Type 2 History","textChars":51,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":15,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":15,"text":"Silver is where TalentFlow AI becomes analytically trustworthy: sensitive data is protected and changed candidate profiles are versioned.","textPreview":"Silver is where TalentFlow AI becomes analytically trustworthy: sensitive data is protected and changed candidate profiles are versioned.","textChars":137,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":15,"bbox":[60,160,360,410]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":15,"text":"PRIVACY CONTROLS","textPreview":"PRIVACY CONTROLS","textChars":16,"textLines":1,"bbox":[88,188,260,20]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":15,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,231,14,20]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":15,"text":"PII columns are encrypted before secure Parquet output.","textPreview":"PII columns are encrypted before secure Parquet output.","textChars":55,"textLines":1,"bbox":[110,230,268,74]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":15,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,297,14,20]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":15,"text":"Numeric salary fields are cast to object/string before ciphertext assignment.","textPreview":"Numeric salary fields are cast to object/string before ciphertext assignment.","textChars":77,"textLines":1,"bbox":[110,296,268,74]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":15,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,363,14,20]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":15,"text":"Gold decrypts only the salary value required for aggregate KPI calculation.","textPreview":"Gold decrypts only the salary value required for aggregate KPI calculation.","textChars":75,"textLines":1,"bbox":[110,362,268,74]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":15,"bbox":[460,160,360,410]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":15,"text":"SCD2 MECHANISM","textPreview":"SCD2 MECHANISM","textChars":14,"textLines":1,"bbox":[488,188,260,20]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":15,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,231,14,20]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":15,"text":"candidate_id is normalized even when Parquet returns UUID bytes.","textPreview":"candidate_id is normalized even when Parquet returns UUID bytes.","textChars":64,"textLines":1,"bbox":[510,230,268,64]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":15,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,287,14,20]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":15,"text":"row_hash detects changes across tracked attributes.","textPreview":"row_hash detects changes across tracked attributes.","textChars":51,"textLines":1,"bbox":[510,286,268,64]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":15,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,343,14,20]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":15,"text":"Changed keys close previous rows with end_date and is_current = false.","textPreview":"Changed keys close previous rows with end_date and is_current = false.","textChars":70,"textLines":1,"bbox":[510,342,268,64]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":15,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,399,14,20]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":15,"text":"New versions start with current timestamp and is_current = true.","textPreview":"New versions start with current timestamp and is_current = true.","textChars":64,"textLines":1,"bbox":[510,398,268,64]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":15,"bbox":[860,160,360,410]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":15,"text":"WHY IT MATTERS","textPreview":"WHY IT MATTERS","textChars":14,"textLines":1,"bbox":[888,188,260,20]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":15,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[888,231,14,20]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":15,"text":"Recruitment analytics need the state of the candidate at the time of decisions.","textPreview":"Recruitment analytics need the state of the candidate at the time of decisions.","textChars":79,"textLines":1,"bbox":[910,230,268,74]}
+{"kind":"textbox","id":"sh/tovahoza","slide":15,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[888,297,14,20]}
+{"kind":"textbox","id":"sh/032lszqt","slide":15,"text":"Historical profile movement supports longitudinal analysis.","textPreview":"Historical profile movement supports longitudinal analysis.","textChars":59,"textLines":1,"bbox":[910,296,268,74]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":15,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[888,363,14,20]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":15,"text":"Kimball-style dimensional thinking values clear grain and time-variant history.","textPreview":"Kimball-style dimensional thinking values clear grain and time-variant history.","textChars":79,"textLines":1,"bbox":[910,362,268,74]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":15,"text":"Mid-term debugging outcome: the pipeline was fixed to handle encrypted strings in numeric columns and UUID byte decoding in SCD2 comparison.","textPreview":"Mid-term debugging outcome: the pipeline was fixed to handle encrypted strings in numeric columns and UUID byte decoding in SCD2 comparison.","textChars":140,"textLines":1,"bbox":[80,612,1090,26]}
+{"kind":"notes","id":"nt/j96lxp","slide":15,"text":""}
+{"kind":"slide","id":"sl/ifvcn1","slide":16,"title":"GOLD ANALYTICS","textShapes":22}
+{"kind":"shape","id":"sh/d4vmtwra","slide":16,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":16,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/vy90je9c","slide":16,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":16,"text":"GOLD ANALYTICS","textPreview":"GOLD ANALYTICS","textChars":14,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":16,"text":"Gold Layer: Business-Facing Analytical Datasets","textPreview":"Gold Layer: Business-Facing Analytical Datasets","textChars":47,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/61032lsz","slide":16,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":16,"text":"Gold converts secure Silver data into purpose-built recruitment KPIs that can be consumed by dashboards, BI tools and ML workflows.","textPreview":"Gold converts secure Silver data into purpose-built recruitment KPIs that can be consumed by dashboards, BI tools and ML workflows.","textChars":131,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/ovahoza1","slide":16,"bbox":[60,165,1160,64]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":16,"text":"Gold dataset","textPreview":"Gold dataset","textChars":12,"textLines":1,"bbox":[72,174,368.67,54]}
+{"kind":"textbox","id":"sh/1032lszq","slide":16,"text":"Business question answered","textPreview":"Business question answered","textChars":26,"textLines":1,"bbox":[458.67,174,368.67,54]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":16,"text":"Implementation","textPreview":"Implementation","textChars":14,"textLines":1,"bbox":[845.33,174,368.67,54]}
+{"kind":"shape","id":"sh/judg7ads","slide":16,"bbox":[60,229,1160,64]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":16,"text":"city_talent_score","textPreview":"city_talent_score","textChars":17,"textLines":1,"bbox":[72,238,368.67,54]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":16,"text":"Where is candidate density high and what is avg salary by city?","textPreview":"Where is candidate density high and what is avg salary by city?","textChars":63,"textLines":1,"bbox":[458.67,238,368.67,54]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":16,"text":"COUNT + AVG expected salary","textPreview":"COUNT + AVG expected salary","textChars":27,"textLines":1,"bbox":[845.33,238,368.67,54]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":16,"bbox":[60,293,1160,64]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":16,"text":"salary_benchmarks","textPreview":"salary_benchmarks","textChars":17,"textLines":1,"bbox":[72,302,368.67,54]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":16,"text":"How do expected salaries vary by degree?","textPreview":"How do expected salaries vary by degree?","textChars":40,"textLines":1,"bbox":[458.67,302,368.67,54]}
+{"kind":"textbox","id":"sh/cvixczed","slide":16,"text":"Join candidates with education","textPreview":"Join candidates with education","textChars":30,"textLines":1,"bbox":[845.33,302,368.67,54]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":16,"bbox":[60,357,1160,64]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":16,"text":"candidate_engagement","textPreview":"candidate_engagement","textChars":20,"textLines":1,"bbox":[72,366,368.67,54]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":16,"text":"Which candidates are active?","textPreview":"Which candidates are active?","textChars":28,"textLines":1,"bbox":[458.67,366,368.67,54]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":16,"text":"Count login_logs per candidate","textPreview":"Count login_logs per candidate","textChars":30,"textLines":1,"bbox":[845.33,366,368.67,54]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":16,"bbox":[60,421,1160,64]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":16,"text":"interview_pipeline_funnel","textPreview":"interview_pipeline_funnel","textChars":25,"textLines":1,"bbox":[72,430,368.67,54]}
+{"kind":"textbox","id":"sh/ulwval87","slide":16,"text":"How many interviews by role, stage and status?","textPreview":"How many interviews by role, stage and status?","textChars":46,"textLines":1,"bbox":[458.67,430,368.67,54]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":16,"text":"Join schedules, jobs and stages","textPreview":"Join schedules, jobs and stages","textChars":31,"textLines":1,"bbox":[845.33,430,368.67,54]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":16,"bbox":[60,485,1160,64]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":16,"text":"job_hire_rate","textPreview":"job_hire_rate","textChars":13,"textLines":1,"bbox":[72,494,368.67,54]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":16,"text":"Which roles convert feedback into hires?","textPreview":"Which roles convert feedback into hires?","textChars":40,"textLines":1,"bbox":[458.67,494,368.67,54]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":16,"text":"Hire count / total feedback percentage","textPreview":"Hire count / total feedback percentage","textChars":38,"textLines":1,"bbox":[845.33,494,368.67,54]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":16,"text":"Reference alignment: Kimball/Ross dimensional modeling focuses on business processes, grain, dimensions and facts. Gold tables in this project are intentionally domain-specific and query-ready.","textPreview":"Reference alignment: Kimball/Ross dimensional modeling focuses on business processes, grain, dimensions and facts. Gold tables in this pr...","textChars":193,"textLines":1,"bbox":[80,605,1090,36]}
+{"kind":"notes","id":"nt/ifvcn1","slide":16,"text":""}
+{"kind":"slide","id":"sl/2yktfn","slide":17,"title":"ANALYTICAL COMPUTE","textShapes":14}
+{"kind":"shape","id":"sh/kre1w7mp","slide":17,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/val87ed8","slide":17,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/6psfil0r","slide":17,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":17,"text":"ANALYTICAL COMPUTE","textPreview":"ANALYTICAL COMPUTE","textChars":18,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":17,"text":"DuckDB Analytical SQL Over Parquet","textPreview":"DuckDB Analytical SQL Over Parquet","textChars":34,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/vixczed8","slide":17,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":17,"text":"DuckDB is used as lightweight analytical compute for Gold aggregation without making PostgreSQL do warehouse-style work.","textPreview":"DuckDB is used as lightweight analytical compute for Gold aggregation without making PostgreSQL do warehouse-style work.","textChars":120,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/d0z61032","slide":17,"bbox":[60,170,500,370]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":17,"text":"WHY DUCKDB?","textPreview":"WHY DUCKDB?","textChars":11,"textLines":1,"bbox":[88,198,260,20]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":17,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,241,14,20]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":17,"text":"Reads Parquet files directly from temporary Silver downloads.","textPreview":"Reads Parquet files directly from temporary Silver downloads.","textChars":61,"textLines":1,"bbox":[110,240,393,64]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":17,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,297,14,20]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":17,"text":"Uses SQL joins and group-by logic for KPI generation.","textPreview":"Uses SQL joins and group-by logic for KPI generation.","textChars":53,"textLines":1,"bbox":[110,296,393,64]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":17,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,353,14,20]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":17,"text":"Keeps Gold generation lake-first; PostgreSQL publish is optional for dashboard caching.","textPreview":"Keeps Gold generation lake-first; PostgreSQL publish is optional for dashboard caching.","textChars":87,"textLines":1,"bbox":[110,352,393,64]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":17,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,409,14,20]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":17,"text":"Simple to run locally during demo and easy to reason about in code.","textPreview":"Simple to run locally during demo and easy to reason about in code.","textChars":67,"textLines":1,"bbox":[110,408,393,64]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":17,"bbox":[610,170,610,370]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":17,"text":"REPRESENTATIVE GOLD QUERY PATTERN","textPreview":"REPRESENTATIVE GOLD QUERY PATTERN","textChars":33,"textLines":1,"bbox":[642,198,260,20]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":17,"text":"SELECT j.job_title,\n       COUNT(*) AS total_feedback,\n       SUM(CASE WHEN f.decision = 'Hire' THEN 1 ELSE 0 END) AS hire_count,\n       ROUND(100.0 * hire_count / COUNT(*), 2) AS hire_rate_pct\nFROM feedback f\nJOIN schedules s ON f.schedule_id = s.schedule_id\nJOIN jobs j ON s.job_id = j.job_id\nGROUP BY j.job_title;","textPreview":"SELECT j.job_title, |        COUNT(*) AS total_feedback, |        SUM(CASE WHEN f.decision = 'Hire' THEN 1 ELSE 0 END) AS hire_count, |  ...","textChars":316,"textLines":8,"bbox":[642,238,520,215]}
+{"kind":"notes","id":"nt/2yktfn","slide":17,"text":""}
+{"kind":"slide","id":"sl/i5u59d","slide":18,"title":"ORCHESTRATION","textShapes":27}
+{"kind":"shape","id":"sh/54zidony","slide":18,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/udg7adsj","slide":18,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/nyd0z610","slide":18,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/cvixczed","slide":18,"text":"ORCHESTRATION","textPreview":"ORCHESTRATION","textChars":13,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":18,"text":"Prefect Orchestration and 2-Minute Demo Schedule","textPreview":"Prefect Orchestration and 2-Minute Demo Schedule","textChars":48,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":18,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":18,"text":"The pipeline is orchestrated as a full Bronze -> Silver -> Gold flow, with an interval deployment for examiner demonstration.","textPreview":"The pipeline is orchestrated as a full Bronze -> Silver -> Gold flow, with an interval deployment for examiner demonstration.","textChars":125,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/c7u54zid","slide":18,"bbox":[60,170,355,370]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":18,"text":"FLOW STRUCTURE","textPreview":"FLOW STRUCTURE","textChars":14,"textLines":1,"bbox":[88,198,260,20]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,241,14,20]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":18,"text":"TalentFlow-Full-ELT creates or accepts a shared run_datetime.","textPreview":"TalentFlow-Full-ELT creates or accepts a shared run_datetime.","textChars":61,"textLines":1,"bbox":[110,240,263,72]}
+{"kind":"textbox","id":"sh/7u54zido","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,305,14,20]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":18,"text":"bronze_flow, silver_flow and gold_flow run in order.","textPreview":"bronze_flow, silver_flow and gold_flow run in order.","textChars":52,"textLines":1,"bbox":[110,304,263,72]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,369,14,20]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":18,"text":"publish_postgres flag optionally caches Gold tables in analytics schema.","textPreview":"publish_postgres flag optionally caches Gold tables in analytics schema.","textChars":72,"textLines":1,"bbox":[110,368,263,72]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":18,"bbox":[460,170,355,370]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":18,"text":"CLOUD DEMO DEPLOYMENT","textPreview":"CLOUD DEMO DEPLOYMENT","textChars":21,"textLines":1,"bbox":[488,198,260,20]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,241,14,20]}
+{"kind":"textbox","id":"sh/wval87ed","slide":18,"text":"Deployment name: talentflow-elt-every-2-min-demo.","textPreview":"Deployment name: talentflow-elt-every-2-min-demo.","textChars":49,"textLines":1,"bbox":[510,240,263,64]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,297,14,20]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":18,"text":"Interval: 120 seconds.","textPreview":"Interval: 120 seconds.","textChars":22,"textLines":1,"bbox":[510,296,263,64]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,353,14,20]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":18,"text":"Tags: talentflow, demo, etl.","textPreview":"Tags: talentflow, demo, etl.","textChars":28,"textLines":1,"bbox":[510,352,263,64]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,409,14,20]}
+{"kind":"textbox","id":"sh/lwval87e","slide":18,"text":"Prefect Cloud shows flow runs, state, failures and logs.","textPreview":"Prefect Cloud shows flow runs, state, failures and logs.","textChars":56,"textLines":1,"bbox":[510,408,263,64]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":18,"bbox":[860,170,355,370]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":18,"text":"REFERENCE FIT","textPreview":"REFERENCE FIT","textChars":13,"textLines":1,"bbox":[888,198,260,20]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[888,241,14,20]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":18,"text":"Prefect flows are decorated Python functions.","textPreview":"Prefect flows are decorated Python functions.","textChars":45,"textLines":1,"bbox":[910,240,263,72]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[888,305,14,20]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":18,"text":"Flow run states are tracked for observability.","textPreview":"Flow run states are tracked for observability.","textChars":46,"textLines":1,"bbox":[910,304,263,72]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":18,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[888,369,14,20]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":18,"text":"Deployments allow schedules and remote interaction.","textPreview":"Deployments allow schedules and remote interaction.","textChars":51,"textLines":1,"bbox":[910,368,263,72]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":18,"text":"Demo command used: python scripts/serve_elt_prefect_cloud.py","textPreview":"Demo command used: python scripts/serve_elt_prefect_cloud.py","textChars":60,"textLines":1,"bbox":[270,600,740,24]}
+{"kind":"notes","id":"nt/i5u59d","slide":18,"text":""}
+{"kind":"slide","id":"sl/x6mwdw","slide":19,"title":"PREFECT EVIDENCE","textShapes":7}
+{"kind":"shape","id":"sh/vahoza1g","slide":19,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/ovahoza1","slide":19,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/dg7adsji","slide":19,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":19,"text":"PREFECT EVIDENCE","textPreview":"PREFECT EVIDENCE","textChars":16,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":19,"text":"Visual Evidence: Prefect Cloud Orchestration","textPreview":"Visual Evidence: Prefect Cloud Orchestration","textChars":44,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/onyd0z61","slide":19,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":19,"text":"The Cloud UI screenshots prove that the full ELT was deployed on an interval schedule and that nested Bronze, Silver and Gold flows completed.","textPreview":"The Cloud UI screenshots prove that the full ELT was deployed on an interval schedule and that nested Bronze, Silver and Gold flows compl...","textChars":142,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":19,"bbox":[49,139,567,372]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":19,"text":"Deployment view: every 2 minutes schedule, ready status and recent successful runs.","textPreview":"Deployment view: every 2 minutes schedule, ready status and recent successful runs.","textChars":83,"textLines":1,"bbox":[59,487,547,20]}
+{"kind":"shape","id":"sh/y90je9cv","slide":19,"bbox":[664,139,567,372]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":19,"text":"Runs view: TalentFlow-Full-ELT triggers Bronze, Silver and Gold child flows.","textPreview":"Runs view: TalentFlow-Full-ELT triggers Bronze, Silver and Gold child flows.","textChars":76,"textLines":1,"bbox":[674,487,547,20]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":19,"bbox":[90,540,1090,58]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":19,"text":"How to explain it","textPreview":"How to explain it","textChars":17,"textLines":1,"bbox":[118,558,170,22]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":19,"text":"For the demo, the examiner can see recurring flow runs, completed states, duration, parameters and task-run counts instead of only trusting terminal output.","textPreview":"For the demo, the examiner can see recurring flow runs, completed states, duration, parameters and task-run counts instead of only trusti...","textChars":156,"textLines":1,"bbox":[292,554,800,28]}
+{"kind":"image","id":"im/6xkf6dcb","slide":19,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 230544.png","bbox":[55,145,555,330]}
+{"kind":"image","id":"im/qtcj6tov","slide":19,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 230633.png","bbox":[670,145,555,330]}
+{"kind":"notes","id":"nt/x6mwdw","slide":19,"text":""}
+{"kind":"slide","id":"sl/m1rv5n","slide":20,"title":"PREDICTIVE INTELLIGENCE","textShapes":31}
+{"kind":"shape","id":"sh/tcj6tova","slide":20,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":20,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":20,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":20,"text":"PREDICTIVE INTELLIGENCE","textPreview":"PREDICTIVE INTELLIGENCE","textChars":23,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":20,"text":"Machine Learning Workflow and Current Results","textPreview":"Machine Learning Workflow and Current Results","textChars":45,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/idonyd0z","slide":20,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":20,"text":"The current ML goal is not to claim a final high-performing model; it is to prove a complete, repeatable predictive-intelligence workflow.","textPreview":"The current ML goal is not to claim a final high-performing model; it is to prove a complete, repeatable predictive-intelligence workflow.","textChars":138,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/0fepkzup","slide":20,"bbox":[60,165,250,94]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":20,"text":"0.5021","textPreview":"0.5021","textChars":6,"textLines":1,"bbox":[76,181,218,34]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":20,"text":"Hire prediction accuracy","textPreview":"Hire prediction accuracy","textChars":24,"textLines":1,"bbox":[76,221,218,24]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":20,"bbox":[330,165,250,94]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":20,"text":"0.3958","textPreview":"0.3958","textChars":6,"textLines":1,"bbox":[346,181,218,34]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":20,"text":"Hire prediction F1","textPreview":"Hire prediction F1","textChars":18,"textLines":1,"bbox":[346,221,218,24]}
+{"kind":"shape","id":"sh/xobm58z2","slide":20,"bbox":[600,165,250,94]}
+{"kind":"textbox","id":"sh/83itgfml","slide":20,"text":"0.5016","textPreview":"0.5016","textChars":6,"textLines":1,"bbox":[616,181,218,34]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":20,"text":"Hire prediction ROC-AUC","textPreview":"Hire prediction ROC-AUC","textChars":23,"textLines":1,"bbox":[616,221,218,24]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":20,"bbox":[870,165,250,94]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":20,"text":"1.2278","textPreview":"1.2278","textChars":6,"textLines":1,"bbox":[886,181,218,34]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":20,"text":"Rating prediction MAE","textPreview":"Rating prediction MAE","textChars":21,"textLines":1,"bbox":[886,221,218,24]}
+{"kind":"shape","id":"sh/0fepkzup","slide":20,"bbox":[60,300,535,275]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":20,"text":"PIPELINE DESIGN","textPreview":"PIPELINE DESIGN","textChars":15,"textLines":1,"bbox":[88,328,260,20]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":20,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,371,14,20]}
+{"kind":"textbox","id":"sh/bulwval8","slide":20,"text":"Feature query joins feedback, schedules, candidates, jobs, stages, education and login counts.","textPreview":"Feature query joins feedback, schedules, candidates, jobs, stages, education and login counts.","textChars":94,"textLines":1,"bbox":[110,370,418,52]}
+{"kind":"textbox","id":"sh/032lszqt","slide":20,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,415,14,20]}
+{"kind":"textbox","id":"sh/tovahoza","slide":20,"text":"ColumnTransformer handles numeric and categorical features.","textPreview":"ColumnTransformer handles numeric and categorical features.","textChars":59,"textLines":1,"bbox":[110,414,418,52]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":20,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,459,14,20]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":20,"text":"Random Forest classifier/regressor artifacts are saved with joblib.","textPreview":"Random Forest classifier/regressor artifacts are saved with joblib.","textChars":67,"textLines":1,"bbox":[110,458,418,52]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":20,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,503,14,20]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":20,"text":"Feature importance CSVs are published to analytics.ml_feature_insights.","textPreview":"Feature importance CSVs are published to analytics.ml_feature_insights.","textChars":71,"textLines":1,"bbox":[110,502,418,52]}
+{"kind":"shape","id":"sh/j6tovaho","slide":20,"bbox":[645,300,575,275]}
+{"kind":"textbox","id":"sh/ulwval87","slide":20,"text":"TOP HIRE-MODEL FEATURE IMPORTANCES","textPreview":"TOP HIRE-MODEL FEATURE IMPORTANCES","textChars":34,"textLines":1,"bbox":[675,328,260,20]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":20,"text":"expected_salary","textPreview":"expected_salary","textChars":15,"textLines":1,"bbox":[675,372,170,18]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":20,"bbox":[855,376,270,10]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":20,"text":"0.0893","textPreview":"0.0893","textChars":6,"textLines":1,"bbox":[1133,371,42,18]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":20,"text":"gpa","textPreview":"gpa","textChars":3,"textLines":1,"bbox":[675,401,170,18]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":20,"bbox":[855,405,263.35,10]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":20,"text":"0.0871","textPreview":"0.0871","textChars":6,"textLines":1,"bbox":[1133,400,42,18]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":20,"text":"passing_year","textPreview":"passing_year","textChars":12,"textLines":1,"bbox":[675,430,170,18]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":20,"bbox":[855,434,198.95,10]}
+{"kind":"textbox","id":"sh/61032lsz","slide":20,"text":"0.0658","textPreview":"0.0658","textChars":6,"textLines":1,"bbox":[1133,429,42,18]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":20,"text":"login_count","textPreview":"login_count","textChars":11,"textLines":1,"bbox":[675,459,170,18]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":20,"bbox":[855,463,175.06,10]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":20,"text":"0.0579","textPreview":"0.0579","textChars":6,"textLines":1,"bbox":[1133,458,42,18]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":20,"text":"state_Maharashtra","textPreview":"state_Maharashtra","textChars":17,"textLines":1,"bbox":[675,488,170,18]}
+{"kind":"shape","id":"sh/vy90je9c","slide":20,"bbox":[855,492,133.64,10]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":20,"text":"0.0442","textPreview":"0.0442","textChars":6,"textLines":1,"bbox":[1133,487,42,18]}
+{"kind":"notes","id":"nt/m1rv5n","slide":20,"text":""}
+{"kind":"slide","id":"sl/jgxk6h","slide":21,"title":"DASHBOARD EVIDENCE","textShapes":13}
+{"kind":"shape","id":"sh/idonyd0z","slide":21,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/t47y1kre","slide":21,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/0je9cvix","slide":21,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":21,"text":"DASHBOARD EVIDENCE","textPreview":"DASHBOARD EVIDENCE","textChars":18,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":21,"text":"Visual Evidence: Gold KPI Dashboard and ML Insights","textPreview":"Visual Evidence: Gold KPI Dashboard and ML Insights","textChars":51,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/tcj6tova","slide":21,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":21,"text":"This screen closes the loop: source data becomes Gold KPIs and model feature insights visible to the admin user.","textPreview":"This screen closes the loop: source data becomes Gold KPIs and model feature insights visible to the admin user.","textChars":112,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":21,"bbox":[49,139,812,472]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":21,"text":"Admin dashboard showing Gold Layer KPIs and ML Feature Insights from analytics outputs.","textPreview":"Admin dashboard showing Gold Layer KPIs and ML Feature Insights from analytics outputs.","textChars":87,"textLines":1,"bbox":[59,587,792,20]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":21,"bbox":[900,145,315,430]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":21,"text":"WHAT THIS PROVES","textPreview":"WHAT THIS PROVES","textChars":16,"textLines":1,"bbox":[928,174,260,20]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":21,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[928,217,14,20]}
+{"kind":"textbox","id":"sh/sji5snel","slide":21,"text":"Gold KPIs are available inside the product, not only in backend files.","textPreview":"Gold KPIs are available inside the product, not only in backend files.","textChars":70,"textLines":1,"bbox":[950,216,228,60]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":21,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[928,269,14,20]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":21,"text":"Hire-rate by job is calculated from interview feedback outcomes.","textPreview":"Hire-rate by job is calculated from interview feedback outcomes.","textChars":64,"textLines":1,"bbox":[950,268,228,60]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":21,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[928,321,14,20]}
+{"kind":"textbox","id":"sh/svu9knih","slide":21,"text":"Feature insights are published from Random Forest artifacts into analytics output.","textPreview":"Feature insights are published from Random Forest artifacts into analytics output.","textChars":82,"textLines":1,"bbox":[950,320,228,60]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":21,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[928,373,14,20]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":21,"text":"The dashboard connects application, lakehouse, SQL analytics and ML into one reviewable flow.","textPreview":"The dashboard connects application, lakehouse, SQL analytics and ML into one reviewable flow.","textChars":93,"textLines":1,"bbox":[950,372,228,60]}
+{"kind":"image","id":"im/bi9s36hc","slide":21,"name":"","geometry":"roundRect","alt":"Screenshot 2026-06-19 005239.png","bbox":[55,145,800,430]}
+{"kind":"notes","id":"nt/jgxk6h","slide":21,"text":""}
+{"kind":"slide","id":"sl/cr1929","slide":22,"title":"ML RATIONALE","textShapes":24}
+{"kind":"shape","id":"sh/c7u54zid","slide":22,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":22,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":22,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/1032lszq","slide":22,"text":"ML RATIONALE","textPreview":"ML RATIONALE","textChars":12,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":22,"text":"Why Random Forest First?","textPreview":"Why Random Forest First?","textChars":24,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/judg7ads","slide":22,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":22,"text":"For the mid-term stage, Random Forest is a sensible baseline because TalentFlow features are mostly structured/tabular recruitment signals.","textPreview":"For the mid-term stage, Random Forest is a sensible baseline because TalentFlow features are mostly structured/tabular recruitment signals.","textChars":139,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/54zidony","slide":22,"bbox":[60,165,355,390]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":22,"text":"BREIMAN 2001","textPreview":"BREIMAN 2001","textChars":12,"textLines":1,"bbox":[88,193,260,20]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":22,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,236,14,20]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":22,"text":"Random Forest combines many tree predictors.","textPreview":"Random Forest combines many tree predictors.","textChars":44,"textLines":1,"bbox":[110,235,263,72]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":22,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,300,14,20]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":22,"text":"Generalization depends on individual tree strength and correlation.","textPreview":"Generalization depends on individual tree strength and correlation.","textChars":67,"textLines":1,"bbox":[110,299,263,72]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":22,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[88,364,14,20]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":22,"text":"Variable importance is part of the method family.","textPreview":"Variable importance is part of the method family.","textChars":49,"textLines":1,"bbox":[110,363,263,72]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":22,"bbox":[460,165,355,390]}
+{"kind":"textbox","id":"sh/lwval87e","slide":22,"text":"SCIKIT-LEARN IMPLEMENTATION","textPreview":"SCIKIT-LEARN IMPLEMENTATION","textChars":27,"textLines":1,"bbox":[488,193,260,20]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":22,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,236,14,20]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":22,"text":"Pipeline prevents leakage by applying preprocessing inside training flow.","textPreview":"Pipeline prevents leakage by applying preprocessing inside training flow.","textChars":73,"textLines":1,"bbox":[510,235,263,72]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":22,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,300,14,20]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":22,"text":"ColumnTransformer keeps numeric and categorical transformations explicit.","textPreview":"ColumnTransformer keeps numeric and categorical transformations explicit.","textChars":73,"textLines":1,"bbox":[510,299,263,72]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":22,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[488,364,14,20]}
+{"kind":"textbox","id":"sh/knih4byh","slide":22,"text":"Class weight balancing is used for hire classification.","textPreview":"Class weight balancing is used for hire classification.","textChars":55,"textLines":1,"bbox":[510,363,263,72]}
+{"kind":"shape","id":"sh/vu9knih4","slide":22,"bbox":[860,165,355,390]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":22,"text":"INTERPRETATION","textPreview":"INTERPRETATION","textChars":14,"textLines":1,"bbox":[888,193,260,20]}
+{"kind":"textbox","id":"sh/d0z61032","slide":22,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[888,236,14,20]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":22,"text":"Current metrics are modest and honestly reported.","textPreview":"Current metrics are modest and honestly reported.","textChars":49,"textLines":1,"bbox":[910,235,263,72]}
+{"kind":"textbox","id":"sh/vixczed8","slide":22,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[888,300,14,20]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":22,"text":"The achievement is an end-to-end ML path, not final model maturity.","textPreview":"The achievement is an end-to-end ML path, not final model maturity.","textChars":67,"textLines":1,"bbox":[910,299,263,72]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":22,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[888,364,14,20]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":22,"text":"Next work: stronger features, balanced labels, model cards and drift checks.","textPreview":"Next work: stronger features, balanced labels, model cards and drift checks.","textChars":76,"textLines":1,"bbox":[910,363,263,72]}
+{"kind":"notes","id":"nt/cr1929","slide":22,"text":""}
+{"kind":"slide","id":"sl/xy1w1q","slide":23,"title":"CONVERSATIONAL AI","textShapes":34}
+{"kind":"shape","id":"sh/l87ed8ba","slide":23,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":23,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/32lszqtc","slide":23,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":23,"text":"CONVERSATIONAL AI","textPreview":"CONVERSATIONAL AI","textChars":17,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":23,"text":"Natural-Language Analytics Roadmap","textPreview":"Natural-Language Analytics Roadmap","textChars":34,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/at47y1kr","slide":23,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":23,"text":"The LLM/Text-to-SQL component is planned after the data platform is stable, so natural-language answers can be grounded in trusted Gold tables.","textPreview":"The LLM/Text-to-SQL component is planned after the data platform is stable, so natural-language answers can be grounded in trusted Gold t...","textChars":143,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":23,"bbox":[55,190,185.83,94]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":23,"text":"User","textPreview":"User","textChars":4,"textLines":1,"bbox":[67,202,161.83,21]}
+{"kind":"textbox","id":"sh/9knih4by","slide":23,"text":"Recruiter asks business question","textPreview":"Recruiter asks business question","textChars":32,"textLines":1,"bbox":[67,232,161.83,42]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":23,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[241.83,228,14,24]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":23,"bbox":[251.83,190,185.83,94]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":23,"text":"Schema Context","textPreview":"Schema Context","textChars":14,"textLines":1,"bbox":[263.83,202,161.83,21]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":23,"text":"Gold table names, columns and business definitions","textPreview":"Gold table names, columns and business definitions","textChars":50,"textLines":1,"bbox":[263.83,232,161.83,42]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":23,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[438.67,228,14,24]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":23,"bbox":[448.67,190,185.83,94]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":23,"text":"LLM","textPreview":"LLM","textChars":3,"textLines":1,"bbox":[460.67,202,161.83,21]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":23,"text":"Intent parsing and SQL draft","textPreview":"Intent parsing and SQL draft","textChars":28,"textLines":1,"bbox":[460.67,232,161.83,42]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":23,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[635.5,228,14,24]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":23,"bbox":[645.5,190,185.83,94]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":23,"text":"Guardrail","textPreview":"Guardrail","textChars":9,"textLines":1,"bbox":[657.5,202,161.83,21]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":23,"text":"Validate tables, columns, filters and read-only query","textPreview":"Validate tables, columns, filters and read-only query","textChars":53,"textLines":1,"bbox":[657.5,232,161.83,42]}
+{"kind":"textbox","id":"sh/7u54zido","slide":23,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[832.33,228,14,24]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":23,"bbox":[842.33,190,185.83,94]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":23,"text":"Execution","textPreview":"Execution","textChars":9,"textLines":1,"bbox":[854.33,202,161.83,21]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":23,"text":"Run against Gold/analytics layer","textPreview":"Run against Gold/analytics layer","textChars":32,"textLines":1,"bbox":[854.33,232,161.83,42]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":23,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[1029.17,228,14,24]}
+{"kind":"shape","id":"sh/wval87ed","slide":23,"bbox":[1039.17,190,185.83,94]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":23,"text":"Answer","textPreview":"Answer","textChars":6,"textLines":1,"bbox":[1051.17,202,161.83,21]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":23,"text":"Return explanation and KPI result","textPreview":"Return explanation and KPI result","textChars":33,"textLines":1,"bbox":[1051.17,232,161.83,42]}
+{"kind":"shape","id":"sh/m1cfa9w3","slide":23,"bbox":[80,380,520,185]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":23,"text":"WHY NOT LLM-FIRST?","textPreview":"WHY NOT LLM-FIRST?","textChars":18,"textLines":1,"bbox":[108,408,260,20]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":23,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[108,451,14,20]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":23,"text":"A language model without trusted data produces impressive but unreliable answers.","textPreview":"A language model without trusted data produces impressive but unreliable answers.","textChars":81,"textLines":1,"bbox":[130,450,408,46]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":23,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[108,489,14,20]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":23,"text":"Gold tables give the model a governed semantic surface.","textPreview":"Gold tables give the model a governed semantic surface.","textChars":55,"textLines":1,"bbox":[130,488,408,46]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":23,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[108,527,14,20]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":23,"text":"Read-only SQL validation reduces operational risk.","textPreview":"Read-only SQL validation reduces operational risk.","textChars":50,"textLines":1,"bbox":[130,526,408,46]}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":23,"bbox":[680,380,520,185]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":23,"text":"REFERENCE CONNECTION","textPreview":"REFERENCE CONNECTION","textChars":20,"textLines":1,"bbox":[708,408,260,20]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":23,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[708,451,14,20]}
+{"kind":"textbox","id":"sh/knih4byh","slide":23,"text":"Vaswani et al. introduced Transformer attention foundations used by modern LLMs.","textPreview":"Vaswani et al. introduced Transformer attention foundations used by modern LLMs.","textChars":80,"textLines":1,"bbox":[730,450,408,46]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":23,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[708,489,14,20]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":23,"text":"In this project, LLMs are an interface layer, not the system of record.","textPreview":"In this project, LLMs are an interface layer, not the system of record.","textChars":71,"textLines":1,"bbox":[730,488,408,46]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":23,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[708,527,14,20]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":23,"text":"The trustworthy layer remains PostgreSQL + lakehouse + Gold validation.","textPreview":"The trustworthy layer remains PostgreSQL + lakehouse + Gold validation.","textChars":71,"textLines":1,"bbox":[730,526,408,46]}
+{"kind":"notes","id":"nt/xy1w1q","slide":23,"text":""}
+{"kind":"slide","id":"sl/c00tt0","slide":24,"title":"VALIDATION","textShapes":16}
+{"kind":"shape","id":"sh/7y1kre1w","slide":24,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":24,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/p4r65wju","slide":24,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":24,"text":"VALIDATION","textPreview":"VALIDATION","textChars":10,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":24,"text":"Testing, Validation and Quality Gates","textPreview":"Testing, Validation and Quality Gates","textChars":37,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":24,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":24,"text":"Testing was implemented as a project safety layer, especially for Gold analytics and lakehouse contracts.","textPreview":"Testing was implemented as a project safety layer, especially for Gold analytics and lakehouse contracts.","textChars":105,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/itgfmlkj","slide":24,"bbox":[60,165,535,82]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":24,"text":"Schema","textPreview":"Schema","textChars":6,"textLines":1,"bbox":[78,180,165,24]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":24,"text":"analytics schema exists; expected columns are present","textPreview":"analytics schema exists; expected columns are present","textChars":53,"textLines":1,"bbox":[245,179,310,40]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":24,"bbox":[650,165,535,82]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":24,"text":"Rows","textPreview":"Rows","textChars":4,"textLines":1,"bbox":[668,180,165,24]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":24,"text":"Gold tables are created and row counts are non-empty unless explicitly allowed","textPreview":"Gold tables are created and row counts are non-empty unless explicitly allowed","textChars":78,"textLines":1,"bbox":[835,179,310,40]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":24,"bbox":[60,277,535,82]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":24,"text":"Nulls/ranges","textPreview":"Nulls/ranges","textChars":12,"textLines":1,"bbox":[78,292,165,24]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":24,"text":"Candidate counts, salaries, login counts and hire rates are checked","textPreview":"Candidate counts, salaries, login counts and hire rates are checked","textChars":67,"textLines":1,"bbox":[245,291,310,40]}
+{"kind":"shape","id":"sh/gvy90je9","slide":24,"bbox":[650,277,535,82]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":24,"text":"Duplicates","textPreview":"Duplicates","textChars":10,"textLines":1,"bbox":[668,292,165,24]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":24,"text":"Candidate, job and funnel duplicate groups are detected","textPreview":"Candidate, job and funnel duplicate groups are detected","textChars":55,"textLines":1,"bbox":[835,291,310,40]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":24,"bbox":[60,389,535,82]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":24,"text":"Reconciliation","textPreview":"Reconciliation","textChars":14,"textLines":1,"bbox":[78,404,165,24]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":24,"text":"Gold totals are matched back to source login, schedule and feedback counts","textPreview":"Gold totals are matched back to source login, schedule and feedback counts","textChars":74,"textLines":1,"bbox":[245,403,310,40]}
+{"kind":"shape","id":"sh/xczed8v6","slide":24,"bbox":[650,389,535,82]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":24,"text":"Formula","textPreview":"Formula","textChars":7,"textLines":1,"bbox":[668,404,165,24]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":24,"text":"hire_rate_pct is recalculated and compared to stored Gold output","textPreview":"hire_rate_pct is recalculated and compared to stored Gold output","textChars":64,"textLines":1,"bbox":[835,403,310,40]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":24,"text":"Validation script: scripts/validate_gold_analytics.py","textPreview":"Validation script: scripts/validate_gold_analytics.py","textChars":53,"textLines":1,"bbox":[370,610,540,24]}
+{"kind":"notes","id":"nt/c00tt0","slide":24,"text":""}
+{"kind":"slide","id":"sl/27xjov","slide":25,"title":"PROJECT PLAN","textShapes":22}
+{"kind":"shape","id":"sh/a1gvy90j","slide":25,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":25,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":25,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":25,"text":"PROJECT PLAN","textPreview":"PROJECT PLAN","textChars":12,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":25,"text":"Current Status and Remaining Work","textPreview":"Current Status and Remaining Work","textChars":33,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":25,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/svu9knih","slide":25,"text":"This slide aligns with the mid-term report timeline while making the progress easy to explain verbally.","textPreview":"This slide aligns with the mid-term report timeline while making the progress easy to explain verbally.","textChars":103,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":25,"bbox":[75,230,160,220]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":25,"text":"Completed","textPreview":"Completed","textChars":9,"textLines":1,"bbox":[93,255,124,22]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":25,"text":"Dissertation outline","textPreview":"Dissertation outline","textChars":20,"textLines":1,"bbox":[89,305,132,55]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":25,"text":"5 May - 10 May 2026","textPreview":"5 May - 10 May 2026","textChars":19,"textLines":1,"bbox":[89,382,132,30]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":25,"bbox":[265,230,160,220]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":25,"text":"Completed","textPreview":"Completed","textChars":9,"textLines":1,"bbox":[283,255,124,22]}
+{"kind":"textbox","id":"sh/wval87ed","slide":25,"text":"Frontend + ETL development","textPreview":"Frontend + ETL development","textChars":26,"textLines":1,"bbox":[279,305,132,55]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":25,"text":"12 May - 5 June 2026","textPreview":"12 May - 5 June 2026","textChars":20,"textLines":1,"bbox":[279,382,132,30]}
+{"kind":"shape","id":"sh/epkzupwb","slide":25,"bbox":[455,230,160,220]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":25,"text":"Completed","textPreview":"Completed","textChars":9,"textLines":1,"bbox":[473,255,124,22]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":25,"text":"Testing Phase 1","textPreview":"Testing Phase 1","textChars":15,"textLines":1,"bbox":[469,305,132,55]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":25,"text":"6 June - 20 June 2026","textPreview":"6 June - 20 June 2026","textChars":21,"textLines":1,"bbox":[469,382,132,30]}
+{"kind":"shape","id":"sh/p4r65wju","slide":25,"bbox":[645,230,160,220]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":25,"text":"Pending","textPreview":"Pending","textChars":7,"textLines":1,"bbox":[663,255,124,22]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":25,"text":"Text-to-SQL framework","textPreview":"Text-to-SQL framework","textChars":21,"textLines":1,"bbox":[659,305,132,55]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":25,"text":"21 June - 30 June 2026","textPreview":"21 June - 30 June 2026","textChars":22,"textLines":1,"bbox":[659,382,132,30]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":25,"bbox":[835,230,160,220]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":25,"text":"Pending","textPreview":"Pending","textChars":7,"textLines":1,"bbox":[853,255,124,22]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":25,"text":"Conversational AI testing","textPreview":"Conversational AI testing","textChars":25,"textLines":1,"bbox":[849,305,132,55]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":25,"text":"1 July - 7 July 2026","textPreview":"1 July - 7 July 2026","textChars":20,"textLines":1,"bbox":[849,382,132,30]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":25,"bbox":[1025,230,160,220]}
+{"kind":"textbox","id":"sh/0z61032l","slide":25,"text":"Pending","textPreview":"Pending","textChars":7,"textLines":1,"bbox":[1043,255,124,22]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":25,"text":"Dissertation review/submission","textPreview":"Dissertation review/submission","textChars":30,"textLines":1,"bbox":[1039,305,132,55]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":25,"text":"9 July - 18 August 2026","textPreview":"9 July - 18 August 2026","textChars":23,"textLines":1,"bbox":[1039,382,132,30]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":25,"text":"Mid-term position: the data platform foundation is implemented; the final phase is intelligence, usability validation and production hardening.","textPreview":"Mid-term position: the data platform foundation is implemented; the final phase is intelligence, usability validation and production hard...","textChars":143,"textLines":1,"bbox":[105,535,1040,40]}
+{"kind":"notes","id":"nt/27xjov","slide":25,"text":""}
+{"kind":"slide","id":"sl/039vqu","slide":26,"title":"REFERENCES","textShapes":30}
+{"kind":"shape","id":"sh/upwb2hwf","slide":26,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":26,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/cvixczed","slide":26,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":26,"text":"REFERENCES","textPreview":"REFERENCES","textChars":10,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":26,"text":"Reference-Backed Design Decisions","textPreview":"Reference-Backed Design Decisions","textChars":33,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/54zidony","slide":26,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":26,"text":"Each major technical decision is connected to a recognized method, official documentation or foundational paper.","textPreview":"Each major technical decision is connected to a recognized method, official documentation or foundational paper.","textChars":112,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/judg7ads","slide":26,"bbox":[45,145,1190,53]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":26,"text":"Decision","textPreview":"Decision","textChars":8,"textLines":1,"bbox":[57,154,378.67,43]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":26,"text":"Reference basis","textPreview":"Reference basis","textChars":15,"textLines":1,"bbox":[453.67,154,378.67,43]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":26,"text":"How it appears in TalentFlow AI","textPreview":"How it appears in TalentFlow AI","textChars":31,"textLines":1,"bbox":[850.33,154,378.67,43]}
+{"kind":"shape","id":"sh/m1cfa9w3","slide":26,"bbox":[45,198,1190,53]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":26,"text":"Dimensional/Gold thinking","textPreview":"Dimensional/Gold thinking","textChars":25,"textLines":1,"bbox":[57,207,378.67,43]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":26,"text":"Kimball & Ross, The Data Warehouse Toolkit","textPreview":"Kimball & Ross, The Data Warehouse Toolkit","textChars":42,"textLines":1,"bbox":[453.67,207,378.67,43]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":26,"text":"Gold KPIs have business grain and reporting purpose","textPreview":"Gold KPIs have business grain and reporting purpose","textChars":51,"textLines":1,"bbox":[850.33,207,378.67,43]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":26,"bbox":[45,251,1190,53]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":26,"text":"Bronze/Silver/Gold","textPreview":"Bronze/Silver/Gold","textChars":18,"textLines":1,"bbox":[57,260,378.67,43]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":26,"text":"Databricks medallion architecture concepts","textPreview":"Databricks medallion architecture concepts","textChars":42,"textLines":1,"bbox":[453.67,260,378.67,43]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":26,"text":"Raw -> secure/versioned -> business-ready datasets","textPreview":"Raw -> secure/versioned -> business-ready datasets","textChars":50,"textLines":1,"bbox":[850.33,260,378.67,43]}
+{"kind":"shape","id":"sh/xs72x4na","slide":26,"bbox":[45,304,1190,53]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":26,"text":"Relational constraints","textPreview":"Relational constraints","textChars":22,"textLines":1,"bbox":[57,313,378.67,43]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":26,"text":"PostgreSQL documentation","textPreview":"PostgreSQL documentation","textChars":24,"textLines":1,"bbox":[453.67,313,378.67,43]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":26,"text":"PK/FK/UNIQUE/CHECK controls in DDL.sql","textPreview":"PK/FK/UNIQUE/CHECK controls in DDL.sql","textChars":38,"textLines":1,"bbox":[850.33,313,378.67,43]}
+{"kind":"shape","id":"sh/1gvy90je","slide":26,"bbox":[45,357,1190,53]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":26,"text":"Cloud lake storage","textPreview":"Cloud lake storage","textChars":18,"textLines":1,"bbox":[57,366,378.67,43]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":26,"text":"Microsoft Azure Data Lake Storage docs","textPreview":"Microsoft Azure Data Lake Storage docs","textChars":38,"textLines":1,"bbox":[453.67,366,378.67,43]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":26,"text":"Blob-backed hierarchical lake folders and Parquet","textPreview":"Blob-backed hierarchical lake folders and Parquet","textChars":49,"textLines":1,"bbox":[850.33,366,378.67,43]}
+{"kind":"shape","id":"sh/xczed8v6","slide":26,"bbox":[45,410,1190,53]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":26,"text":"Workflow orchestration","textPreview":"Workflow orchestration","textChars":22,"textLines":1,"bbox":[57,419,378.67,43]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":26,"text":"Prefect documentation","textPreview":"Prefect documentation","textChars":21,"textLines":1,"bbox":[453.67,419,378.67,43]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":26,"text":"Flows, deployments, schedules and Cloud UI monitoring","textPreview":"Flows, deployments, schedules and Cloud UI monitoring","textChars":53,"textLines":1,"bbox":[850.33,419,378.67,43]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":26,"bbox":[45,463,1190,53]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":26,"text":"Parquet analytics","textPreview":"Parquet analytics","textChars":17,"textLines":1,"bbox":[57,472,378.67,43]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":26,"text":"DuckDB documentation","textPreview":"DuckDB documentation","textChars":20,"textLines":1,"bbox":[453.67,472,378.67,43]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":26,"text":"SQL joins/aggregations over Parquet-backed Silver data","textPreview":"SQL joins/aggregations over Parquet-backed Silver data","textChars":54,"textLines":1,"bbox":[850.33,472,378.67,43]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":26,"bbox":[45,516,1190,53]}
+{"kind":"textbox","id":"sh/9knih4by","slide":26,"text":"Predictive model","textPreview":"Predictive model","textChars":16,"textLines":1,"bbox":[57,525,378.67,43]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":26,"text":"Breiman Random Forests; scikit-learn docs","textPreview":"Breiman Random Forests; scikit-learn docs","textChars":41,"textLines":1,"bbox":[453.67,525,378.67,43]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":26,"text":"Random Forest pipelines and feature importances","textPreview":"Random Forest pipelines and feature importances","textChars":47,"textLines":1,"bbox":[850.33,525,378.67,43]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":26,"bbox":[45,569,1190,53]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":26,"text":"Future LLM layer","textPreview":"Future LLM layer","textChars":16,"textLines":1,"bbox":[57,578,378.67,43]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":26,"text":"Vaswani et al., Attention Is All You Need","textPreview":"Vaswani et al., Attention Is All You Need","textChars":41,"textLines":1,"bbox":[453.67,578,378.67,43]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":26,"text":"Transformer/LLM foundation for Text-to-SQL interface","textPreview":"Transformer/LLM foundation for Text-to-SQL interface","textChars":52,"textLines":1,"bbox":[850.33,578,378.67,43]}
+{"kind":"notes","id":"nt/039vqu","slide":26,"text":""}
+{"kind":"slide","id":"sl/obbsl1","slide":27,"title":"SOURCE LIST","textShapes":25}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":27,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":27,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":27,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":27,"text":"SOURCE LIST","textPreview":"SOURCE LIST","textChars":11,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":27,"text":"Bibliography and Web Sources","textPreview":"Bibliography and Web Sources","textChars":28,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":27,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":27,"text":"These are the concrete references used to connect the implementation choices to accepted data-engineering and AI foundations.","textPreview":"These are the concrete references used to connect the implementation choices to accepted data-engineering and AI foundations.","textChars":125,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":27,"bbox":[55,150,560,440]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":27,"text":"BOOKS, PAPERS AND OFFICIAL DOCS","textPreview":"BOOKS, PAPERS AND OFFICIAL DOCS","textChars":31,"textLines":1,"bbox":[85,178,260,20]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":27,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[85,223,14,20]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":27,"text":"Ralph Kimball and Margy Ross, The Data Warehouse Toolkit.","textPreview":"Ralph Kimball and Margy Ross, The Data Warehouse Toolkit.","textChars":57,"textLines":1,"bbox":[107,222,438,42]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":27,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[85,257,14,20]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":27,"text":"Databricks Docs: What is the medallion lakehouse architecture?","textPreview":"Databricks Docs: What is the medallion lakehouse architecture?","textChars":62,"textLines":1,"bbox":[107,256,438,42]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":27,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[85,291,14,20]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":27,"text":"PostgreSQL Docs: Data Definition - Constraints.","textPreview":"PostgreSQL Docs: Data Definition - Constraints.","textChars":47,"textLines":1,"bbox":[107,290,438,42]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":27,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[85,325,14,20]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":27,"text":"Microsoft Learn: Introduction to Azure Data Lake Storage.","textPreview":"Microsoft Learn: Introduction to Azure Data Lake Storage.","textChars":57,"textLines":1,"bbox":[107,324,438,42]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":27,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[85,359,14,20]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":27,"text":"Prefect Docs: Flows, deployments and schedules.","textPreview":"Prefect Docs: Flows, deployments and schedules.","textChars":47,"textLines":1,"bbox":[107,358,438,42]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":27,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[85,393,14,20]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":27,"text":"DuckDB Docs: Parquet data support and read_parquet usage.","textPreview":"DuckDB Docs: Parquet data support and read_parquet usage.","textChars":57,"textLines":1,"bbox":[107,392,438,42]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":27,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[85,427,14,20]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":27,"text":"Breiman, L. Random Forests. Machine Learning 45, 5-32 (2001).","textPreview":"Breiman, L. Random Forests. Machine Learning 45, 5-32 (2001).","textChars":61,"textLines":1,"bbox":[107,426,438,42]}
+{"kind":"textbox","id":"sh/83itgfml","slide":27,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[85,461,14,20]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":27,"text":"scikit-learn User Guide: Pipeline, ColumnTransformer, ensemble methods.","textPreview":"scikit-learn User Guide: Pipeline, ColumnTransformer, ensemble methods.","textChars":71,"textLines":1,"bbox":[107,460,438,42]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":27,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[85,495,14,20]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":27,"text":"Vaswani et al. Attention Is All You Need. arXiv:1706.03762.","textPreview":"Vaswani et al. Attention Is All You Need. arXiv:1706.03762.","textChars":59,"textLines":1,"bbox":[107,494,438,42]}
+{"kind":"shape","id":"sh/4zidonyd","slide":27,"bbox":[665,150,560,440]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":27,"text":"URLS USED FOR CROSS-CHECKING","textPreview":"URLS USED FOR CROSS-CHECKING","textChars":28,"textLines":1,"bbox":[695,178,260,20]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":27,"text":"https://docs.databricks.com/aws/en/lakehouse/medallion\nhttps://www.postgresql.org/docs/current/ddl-constraints.html\nhttps://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction\nhttps://docs.prefect.io/v3/concepts/flows\nhttps://duckdb.org/docs/stable/data/parquet/overview\nhttps://link.springer.com/article/10.1023/A:1010933404324\nhttps://scikit-learn.org/stable/modules/compose.html\nhttps://scikit-learn.org/stable/modules/ensemble.html\nhttps://arxiv.org/abs/1706.03762","textPreview":"https://docs.databricks.com/aws/en/lakehouse/medallion | https://www.postgresql.org/docs/current/ddl-constraints.html | https://learn.mic...","textChars":493,"textLines":9,"bbox":[695,224,485,285]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":27,"text":"The implementation-specific evidence is from D:/report/2024da04133.pdf and D:/TalentFlow_AI project files.","textPreview":"The implementation-specific evidence is from D:/report/2024da04133.pdf and D:/TalentFlow_AI project files.","textChars":106,"textLines":1,"bbox":[696,528,475,30]}
+{"kind":"notes","id":"nt/obbsl1","slide":27,"text":""}
+{"kind":"slide","id":"sl/pc3b23","slide":28,"title":"CONCLUSION","textShapes":22}
+{"kind":"shape","id":"sh/nqxs72x4","slide":28,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/cbulwval","slide":28,"bbox":[0,713,1280,7]}
+{"kind":"shape","id":"sh/5sneloj2","slide":28,"bbox":[742.4,713,537.6,7]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":28,"text":"CONCLUSION","textPreview":"CONCLUSION","textChars":10,"textLines":1,"bbox":[845,27,370,20]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":28,"text":"Conclusion and Examiner Talking Points","textPreview":"Conclusion and Examiner Talking Points","textChars":38,"textLines":1,"bbox":[60,54,890,62]}
+{"kind":"shape","id":"sh/czed8v6p","slide":28,"bbox":[60,117,70,3]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":28,"text":"The project demonstrates a complete mid-term foundation: operational recruitment workflows, lakehouse ETL, validation, and AI readiness.","textPreview":"The project demonstrates a complete mid-term foundation: operational recruitment workflows, lakehouse ETL, validation, and AI readiness.","textChars":136,"textLines":1,"bbox":[60,130,1010,36]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":28,"bbox":[70,180,520,330]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":28,"text":"WHAT IS STRONG NOW","textPreview":"WHAT IS STRONG NOW","textChars":18,"textLines":1,"bbox":[100,210,260,20]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":28,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[100,253,14,20]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":28,"text":"End-to-end working application and ELT foundation.","textPreview":"End-to-end working application and ELT foundation.","textChars":50,"textLines":1,"bbox":[122,252,408,56]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":28,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[100,301,14,20]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":28,"text":"Clear data separation: OLTP for workflow, lakehouse for analytics.","textPreview":"Clear data separation: OLTP for workflow, lakehouse for analytics.","textChars":66,"textLines":1,"bbox":[122,300,408,56]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":28,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[100,349,14,20]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":28,"text":"SCD2 and PII handling show data engineering maturity.","textPreview":"SCD2 and PII handling show data engineering maturity.","textChars":53,"textLines":1,"bbox":[122,348,408,56]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":28,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[100,397,14,20]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":28,"text":"Gold validation and ML artifacts provide defensible evidence.","textPreview":"Gold validation and ML artifacts provide defensible evidence.","textChars":61,"textLines":1,"bbox":[122,396,408,56]}
+{"kind":"shape","id":"sh/je9cvixc","slide":28,"bbox":[690,180,520,330]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":28,"text":"WHAT WILL MAKE IT FINAL-READY","textPreview":"WHAT WILL MAKE IT FINAL-READY","textChars":29,"textLines":1,"bbox":[720,210,260,20]}
+{"kind":"textbox","id":"sh/u54zidon","slide":28,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[720,253,14,20]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":28,"text":"Real UI screenshots replacing report placeholders.","textPreview":"Real UI screenshots replacing report placeholders.","textChars":50,"textLines":1,"bbox":[742,252,408,56]}
+{"kind":"textbox","id":"sh/cbulwval","slide":28,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[720,301,14,20]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":28,"text":"Text-to-SQL guardrails and conversational testing.","textPreview":"Text-to-SQL guardrails and conversational testing.","textChars":50,"textLines":1,"bbox":[742,300,408,56]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":28,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[720,349,14,20]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":28,"text":"Better ML features, model evaluation and model-card documentation.","textPreview":"Better ML features, model evaluation and model-card documentation.","textChars":66,"textLines":1,"bbox":[742,348,408,56]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":28,"text":"•","textPreview":"•","textChars":1,"textLines":1,"bbox":[720,397,14,20]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":28,"text":"Security hardening: password hashing, stronger RBAC and alerts.","textPreview":"Security hardening: password hashing, stronger RBAC and alerts.","textChars":63,"textLines":1,"bbox":[742,396,408,56]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":28,"text":"Thank you. Questions?","textPreview":"Thank you. Questions?","textChars":21,"textLines":1,"bbox":[410,590,460,42]}
+{"kind":"notes","id":"nt/pc3b23","slide":28,"text":""}

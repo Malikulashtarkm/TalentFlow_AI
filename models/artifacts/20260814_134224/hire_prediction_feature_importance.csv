@@ -1,0 +1,26 @@
+feature,importance
+num__login_count,0.2085650492707661
+num__gpa,0.16053540803097122
+num__expected_salary,0.09629823974076458
+cat__degree_M.Tech,0.06886465899317265
+cat__degree_B.Sc,0.052621830307785104
+cat__degree_PhD,0.03897440719129333
+cat__job_title_Data Analyst,0.03339981337583126
+num__passing_year,0.03063639842213672
+"cat__salary_range_60,000 - 90,000",0.02819244731229374
+cat__job_location_Hyderabad,0.02534487400828697
+cat__department_Business Intelligence,0.022625766728221922
+cat__state_Arunachal Pradesh,0.02182117796576543
+cat__department_AI/ML,0.017656725937519498
+cat__job_location_Bangalore,0.013494984385977177
+cat__state_Punjab,0.012830236334774868
+cat__city_Ghaziabad,0.009696826164238852
+cat__degree_B.Tech,0.007676050002482755
+cat__state_Bihar,0.00760221162947718
+cat__state_Mizoram,0.006802888034087249
+cat__state_Meghalaya,0.0062817644532819124
+cat__job_location_Remote,0.005750509352964527
+cat__city_Aligarh,0.005193702545355424
+"cat__salary_range_100,000 - 150,000",0.0051924305412488535
+"cat__salary_range_90,000 - 140,000",0.005025024797005703
+cat__state_Sikkim,0.004956689023947245
