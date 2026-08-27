@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# TalentFlow AI
 
 TalentFlow AI is an end-to-end recruitment data product. It combines a Streamlit hiring portal, Azure PostgreSQL source data, Azure Blob Storage medallion layers, Hive-compatible external tables, Prefect orchestration, DuckDB gold aggregations, and ML-based hiring insights.
@@ -261,3 +262,6 @@ For the deeper GenAI architecture narrative, see `GENAI_SYSTEM_DESIGN.md`.
 
 
 
+=======
+# TalentFlow_AI
+>>>>>>> 6534687ce14e33e9237a71d3cd44a4db41860e35
