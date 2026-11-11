@@ -1,0 +1,1159 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/iie3ha",
+    "id": "iie3ha",
+    "slide": 23,
+    "layoutId": "82aa98a5-2d3f-403e-8276-180f9442bc8a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#07111F",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "82aa98a5-2d3f-403e-8276-180f9442bc8a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kj6tgbe",
+      "id": "1",
+      "bbox": [
+        0,
+        713,
+        1280,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mh87i1sn",
+      "id": "2",
+      "bbox": [
+        742,
+        713,
+        538,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D98F",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nihor6t8",
+      "id": "3",
+      "bbox": [
+        845,
+        27,
+        370,
+        20
+      ],
+      "geometry": "rect",
+      "text": "VIVA TALKING POINTS",
+      "textPreview": "VIVA TALKING POINTS",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "VIVA TALKING POINTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "VIVA TALKING POINTS",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#9EB2C7",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "VIVA TALKING POINTS",
+              "fontSize": 10,
+              "color": "#9EB2C7",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fqpgbah",
+      "id": "4",
+      "bbox": [
+        1168,
+        662,
+        52,
+        16
+      ],
+      "geometry": "rect",
+      "text": "Slide 23",
+      "textPreview": "Slide 23",
+      "resolvedFontSize": 8,
+      "resolvedTextStyle": {
+        "fontSize": 8,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Slide 23"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Slide 23",
+          "resolvedTextStyle": {
+            "fontSize": 8,
+            "color": "#9EB2C7",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Slide 23",
+              "fontSize": 8,
+              "color": "#9EB2C7",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1gz6pwb2",
+      "id": "5",
+      "bbox": [
+        60,
+        54,
+        910,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Use these points to explain the project confidently",
+      "textPreview": "Use these points to explain the project confidently",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Use these points to explain the project confidently"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Use these points to explain the project confidently",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "color": "#E8F2FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Use these points to explain the project confidently",
+              "fontSize": 31,
+              "color": "#E8F2FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed87e1sr",
+      "id": "6",
+      "bbox": [
+        60,
+        117,
+        70,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zehon6tc",
+      "id": "7",
+      "bbox": [
+        60,
+        130,
+        1040,
+        38
+      ],
+      "geometry": "rect",
+      "text": "The answers connect implementation choices to business and engineering value.",
+      "textPreview": "The answers connect implementation choices to business and engineering value.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The answers connect implementation choices to business and engineering value."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The answers connect implementation choices to business and engineering value.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#9EB2C7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The answers connect implementation choices to business and engineering value.",
+              "fontSize": 14,
+              "color": "#9EB2C7",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kbupsva1",
+      "id": "8",
+      "bbox": [
+        70,
+        200,
+        350,
+        130
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lc3q10bm",
+      "id": "9",
+      "bbox": [
+        70,
+        200,
+        350,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pcvmtozq",
+      "id": "10",
+      "bbox": [
+        88,
+        220,
+        314,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Why medallion?",
+      "textPreview": "Why medallion?",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Why medallion?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Why medallion?",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Why medallion?",
+              "fontSize": 16,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ob2l0jy5",
+      "id": "11",
+      "bbox": [
+        88,
+        258,
+        314,
+        60
+      ],
+      "geometry": "rect",
+      "text": "It separates raw capture, protected history, and trusted business metrics.",
+      "textPreview": "It separates raw capture, protected history, and trusted business metrics.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "It separates raw capture, protected history, and"
+          },
+          {
+            "index": 2,
+            "text": "trusted business metrics."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "It separates raw capture, protected history, and trusted business metrics.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "It separates raw capture, protected history, and trusted business metrics.",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nat4reh0",
+      "id": "12",
+      "bbox": [
+        465,
+        200,
+        350,
+        130
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29k3y9gf",
+      "id": "13",
+      "bbox": [
+        465,
+        200,
+        350,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D98F",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18bmp4zu",
+      "id": "14",
+      "bbox": [
+        483,
+        220,
+        314,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Why DuckDB?",
+      "textPreview": "Why DuckDB?",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#22D98F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Why DuckDB?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Why DuckDB?",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#22D98F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Why DuckDB?",
+              "fontSize": 16,
+              "color": "#22D98F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/072lwzy9",
+      "id": "15",
+      "bbox": [
+        483,
+        258,
+        314,
+        60
+      ],
+      "geometry": "rect",
+      "text": "It can query Parquet directly and works well for lake-first Gold aggregation.",
+      "textPreview": "It can query Parquet directly and works well for lake-first Gold aggregation.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "It can query Parquet directly and works well for"
+          },
+          {
+            "index": 2,
+            "text": "lake-first Gold aggregation."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "It can query Parquet directly and works well for lake-first Gold aggregation.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "It can query Parquet directly and works well for lake-first Gold aggregation.",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6t4nuho",
+      "id": "16",
+      "bbox": [
+        860,
+        200,
+        350,
+        130
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e5k3u903",
+      "id": "17",
+      "bbox": [
+        860,
+        200,
+        350,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7A52B",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4fm18zy",
+      "id": "18",
+      "bbox": [
+        878,
+        220,
+        314,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Why Random Forest?",
+      "textPreview": "Why Random Forest?",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#F7A52B",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Why Random Forest?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Why Random Forest?",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#F7A52B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Why Random Forest?",
+              "fontSize": 16,
+              "color": "#F7A52B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k36583yd",
+      "id": "19",
+      "bbox": [
+        878,
+        258,
+        314,
+        60
+      ],
+      "geometry": "rect",
+      "text": "It is a strong tabular baseline and gives feature-importance outputs.",
+      "textPreview": "It is a strong tabular baseline and gives feature-importance outputs.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "It is a strong tabular baseline and gives"
+          },
+          {
+            "index": 2,
+            "text": "feature-importance outputs."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "It is a strong tabular baseline and gives feature-importance outputs.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "It is a strong tabular baseline and gives feature-importance outputs.",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47ep476p",
+      "id": "20",
+      "bbox": [
+        70,
+        390,
+        540,
+        150
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58n6dc7a",
+      "id": "21",
+      "bbox": [
+        70,
+        390,
+        540,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ilcn2xoj",
+      "id": "22",
+      "bbox": [
+        88,
+        410,
+        504,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Why local NLP + LLM?",
+      "textPreview": "Why local NLP + LLM?",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Why local NLP + LLM?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Why local NLP + LLM?",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Why local NLP + LLM?",
+              "fontSize": 16,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmlob2p4",
+      "id": "23",
+      "bbox": [
+        88,
+        448,
+        504,
+        80
+      ],
+      "geometry": "rect",
+      "text": "The local matcher keeps common questions fast; Hugging Face mode handles harder Text-to-SQL without paid cloud AI.",
+      "textPreview": "The local matcher keeps common questions fast; Hugging Face mode handles harder Text-to-SQL without paid cloud AI.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The local matcher keeps common questions fast; Hugging Face mode handles harder"
+          },
+          {
+            "index": 2,
+            "text": "Text-to-SQL without paid cloud AI."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The local matcher keeps common questions fast; Hugging Face mode handles harder Text-to-SQL without paid cloud AI.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The local matcher keeps common questions fast; Hugging Face mode handles harder Text-to-SQL without paid cloud AI.",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wju5076t",
+      "id": "24",
+      "bbox": [
+        670,
+        390,
+        540,
+        150
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hk369s7y",
+      "id": "25",
+      "bbox": [
+        670,
+        390,
+        540,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D98F",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uhcnyxon",
+      "id": "26",
+      "bbox": [
+        688,
+        410,
+        504,
+        28
+      ],
+      "geometry": "rect",
+      "text": "What is the main contribution?",
+      "textPreview": "What is the main contribution?",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#22D98F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What is the main contribution?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What is the main contribution?",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#22D98F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What is the main contribution?",
+              "fontSize": 16,
+              "color": "#22D98F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vilo72p8",
+      "id": "27",
+      "bbox": [
+        688,
+        448,
+        504,
+        80
+      ],
+      "geometry": "rect",
+      "text": "An integrated recruitment data product combining OLTP workflows, lakehouse engineering, privacy, ML, and conversational analytics.",
+      "textPreview": "An integrated recruitment data product combining OLTP workflows, lakehouse engineering, privacy, ML, and conversational analytics.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "An integrated recruitment data product combining OLTP workflows, lakehouse"
+          },
+          {
+            "index": 2,
+            "text": "engineering, privacy, ML, and conversational analytics."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "An integrated recruitment data product combining OLTP workflows, lakehouse engineering, privacy, ML, and conversational analytics.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "An integrated recruitment data product combining OLTP workflows, lakehouse engineering, privacy, ML, and conversational analytics.",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

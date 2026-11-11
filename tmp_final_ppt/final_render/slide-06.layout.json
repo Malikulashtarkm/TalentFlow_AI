@@ -1,0 +1,1299 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/scca0c",
+    "id": "scca0c",
+    "slide": 6,
+    "layoutId": "82aa98a5-2d3f-403e-8276-180f9442bc8a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#07111F",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "82aa98a5-2d3f-403e-8276-180f9442bc8a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2lofepw",
+      "id": "1",
+      "bbox": [
+        0,
+        713,
+        1280,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3epoj6h",
+      "id": "2",
+      "bbox": [
+        742,
+        713,
+        538,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D98F",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4n6ho72",
+      "id": "3",
+      "bbox": [
+        845,
+        27,
+        370,
+        20
+      ],
+      "geometry": "rect",
+      "text": "SYSTEM MODULES",
+      "textPreview": "SYSTEM MODULES",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SYSTEM MODULES"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SYSTEM MODULES",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#9EB2C7",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SYSTEM MODULES",
+              "fontSize": 10,
+              "color": "#9EB2C7",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ipw7qton",
+      "id": "4",
+      "bbox": [
+        1168,
+        662,
+        52,
+        16
+      ],
+      "geometry": "rect",
+      "text": "Slide 6",
+      "textPreview": "Slide 6",
+      "resolvedFontSize": 8,
+      "resolvedTextStyle": {
+        "fontSize": 8,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Slide 6"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Slide 6",
+          "resolvedTextStyle": {
+            "fontSize": 8,
+            "color": "#9EB2C7",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Slide 6",
+              "fontSize": 8,
+              "color": "#9EB2C7",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3q58jyp8",
+      "id": "5",
+      "bbox": [
+        60,
+        54,
+        910,
+        62
+      ],
+      "geometry": "rect",
+      "text": "The implementation is broad but connected through one recruitment data model",
+      "textPreview": "The implementation is broad but connected through one recruitment data model",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The implementation is broad but connected through one recruitment"
+          },
+          {
+            "index": 2,
+            "text": "data model"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The implementation is broad but connected through one recruitment data model",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "color": "#E8F2FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The implementation is broad but connected through one recruitment data model",
+              "fontSize": 31,
+              "color": "#E8F2FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4reps36d",
+      "id": "6",
+      "bbox": [
+        60,
+        117,
+        70,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5snql87y",
+      "id": "7",
+      "bbox": [
+        60,
+        130,
+        1040,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Each module contributes a specific business or engineering capability.",
+      "textPreview": "Each module contributes a specific business or engineering capability.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Each module contributes a specific business or engineering capability."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Each module contributes a specific business or engineering capability.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#9EB2C7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Each module contributes a specific business or engineering capability.",
+              "fontSize": 14,
+              "color": "#9EB2C7",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qtw7utoj",
+      "id": "8",
+      "bbox": [
+        80,
+        185,
+        500,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rup8nyp4",
+      "id": "9",
+      "bbox": [
+        80,
+        185,
+        500,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/by9k3qts",
+      "id": "10",
+      "bbox": [
+        98,
+        205,
+        464,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Candidate portal",
+      "textPreview": "Candidate portal",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Candidate portal"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Candidate portal",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Candidate portal",
+              "fontSize": 16,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ad03uls7",
+      "id": "11",
+      "bbox": [
+        98,
+        243,
+        464,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Registration, login, profile update, education and salary details",
+      "textPreview": "Registration, login, profile update, education and salary details",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Registration, login, profile update, education and salary details"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Registration, login, profile update, education and salary details",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Registration, login, profile update, education and salary details",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0r25gbi",
+      "id": "12",
+      "bbox": [
+        665,
+        185,
+        500,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wzilwbax",
+      "id": "13",
+      "bbox": [
+        665,
+        185,
+        500,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D98F",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/na9kz6tg",
+      "id": "14",
+      "bbox": [
+        683,
+        205,
+        464,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Admin center",
+      "textPreview": "Admin center",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#22D98F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Admin center"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Admin center",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#22D98F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Admin center",
+              "fontSize": 16,
+              "color": "#22D98F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m9g3q1cv",
+      "id": "15",
+      "bbox": [
+        683,
+        243,
+        464,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Schedule interviews, inspect KPIs, view ML insights, run Ask Data",
+      "textPreview": "Schedule interviews, inspect KPIs, view ML insights, run Ask Data",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Schedule interviews, inspect KPIs, view ML insights, run Ask Data"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Schedule interviews, inspect KPIs, view ML insights, run Ask Data",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Schedule interviews, inspect KPIs, view ML insights, run Ask Data",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cr21gbm",
+      "id": "16",
+      "bbox": [
+        80,
+        310,
+        500,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obilsba1",
+      "id": "17",
+      "bbox": [
+        80,
+        310,
+        500,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7A52B",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76t4batk",
+      "id": "18",
+      "bbox": [
+        98,
+        330,
+        464,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Interviewer center",
+      "textPreview": "Interviewer center",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#F7A52B",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Interviewer center"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Interviewer center",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#F7A52B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Interviewer center",
+              "fontSize": 16,
+              "color": "#F7A52B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65k325sf",
+      "id": "19",
+      "bbox": [
+        98,
+        368,
+        464,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Assigned interviews, rating, comments, hire/hold/reject decision",
+      "textPreview": "Assigned interviews, rating, comments, hire/hold/reject decision",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Assigned interviews, rating, comments, hire/hold/reject decision"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Assigned interviews, rating, comments, hire/hold/reject decision",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Assigned interviews, rating, comments, hire/hold/reject decision",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/21onu9cn",
+      "id": "20",
+      "bbox": [
+        665,
+        310,
+        500,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32xo3eds",
+      "id": "21",
+      "bbox": [
+        665,
+        310,
+        500,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4365wzud",
+      "id": "22",
+      "bbox": [
+        683,
+        330,
+        464,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Data lakehouse",
+      "textPreview": "Data lakehouse",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Data lakehouse"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Data lakehouse",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Data lakehouse",
+              "fontSize": 16,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pof654vy",
+      "id": "23",
+      "bbox": [
+        683,
+        368,
+        464,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Bronze snapshots, Silver protection/history, Gold business datasets",
+      "textPreview": "Bronze snapshots, Silver protection/history, Gold business datasets",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Bronze snapshots, Silver protection/history, Gold business datasets"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Bronze snapshots, Silver protection/history, Gold business datasets",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Bronze snapshots, Silver protection/history, Gold business datasets",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpony9cj",
+      "id": "24",
+      "bbox": [
+        80,
+        435,
+        500,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqxo7ed4",
+      "id": "25",
+      "bbox": [
+        80,
+        435,
+        500,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D98F",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cr6p0jup",
+      "id": "26",
+      "bbox": [
+        98,
+        455,
+        464,
+        28
+      ],
+      "geometry": "rect",
+      "text": "ML insights",
+      "textPreview": "ML insights",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#22D98F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ML insights"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ML insights",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#22D98F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ML insights",
+              "fontSize": 16,
+              "color": "#22D98F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsz69ova",
+      "id": "27",
+      "bbox": [
+        98,
+        493,
+        464,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Hire, decision and rating models with feature importance",
+      "textPreview": "Hire, decision and rating models with feature importance",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Hire, decision and rating models with feature importance"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Hire, decision and rating models with feature importance",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Hire, decision and rating models with feature importance",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6t4nmpcf",
+      "id": "28",
+      "bbox": [
+        665,
+        435,
+        500,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7udovad0",
+      "id": "29",
+      "bbox": [
+        665,
+        435,
+        500,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7A52B",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/903ihcje",
+      "id": "30",
+      "bbox": [
+        683,
+        455,
+        464,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Analytics agent",
+      "textPreview": "Analytics agent",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#F7A52B",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Analytics agent"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Analytics agent",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#F7A52B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Analytics agent",
+              "fontSize": 16,
+              "color": "#F7A52B",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8zuho7i9",
+      "id": "31",
+      "bbox": [
+        683,
+        493,
+        464,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Natural-language questions converted to safe read-only SQL",
+      "textPreview": "Natural-language questions converted to safe read-only SQL",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Natural-language questions converted to safe read-only SQL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Natural-language questions converted to safe read-only SQL",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Natural-language questions converted to safe read-only SQL",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,17 @@
+.env
+config/.env
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+tmp_midsem_render/
+*.pdf
+*.docx
+models/artifacts/**/*.joblib
+models/artifacts/latest_run.txt
+*.log

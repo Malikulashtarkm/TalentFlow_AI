@@ -1,0 +1,1187 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/xhps6u",
+    "id": "xhps6u",
+    "slide": 2,
+    "layoutId": "82aa98a5-2d3f-403e-8276-180f9442bc8a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#07111F",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "82aa98a5-2d3f-403e-8276-180f9442bc8a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5k3y5cj",
+      "id": "1",
+      "bbox": [
+        0,
+        713,
+        1280,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98bm90va",
+      "id": "2",
+      "bbox": [
+        742,
+        713,
+        538,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D98F",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/872l0vup",
+      "id": "3",
+      "bbox": [
+        845,
+        27,
+        370,
+        20
+      ],
+      "geometry": "rect",
+      "text": "NARRATIVE",
+      "textPreview": "NARRATIVE",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "NARRATIVE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "NARRATIVE",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#9EB2C7",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "NARRATIVE",
+              "fontSize": 10,
+              "color": "#9EB2C7",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vad4bad0",
+      "id": "4",
+      "bbox": [
+        1168,
+        662,
+        52,
+        16
+      ],
+      "geometry": "rect",
+      "text": "Slide 2",
+      "textPreview": "Slide 2",
+      "resolvedFontSize": 8,
+      "resolvedTextStyle": {
+        "fontSize": 8,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Slide 2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Slide 2",
+          "resolvedTextStyle": {
+            "fontSize": 8,
+            "color": "#9EB2C7",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Slide 2",
+              "fontSize": 8,
+              "color": "#9EB2C7",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9k325cf",
+      "id": "5",
+      "bbox": [
+        60,
+        54,
+        910,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Final Presentation Roadmap",
+      "textPreview": "Final Presentation Roadmap",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Final Presentation Roadmap"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Final Presentation Roadmap",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "color": "#E8F2FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Final Presentation Roadmap",
+              "fontSize": 31,
+              "color": "#E8F2FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xcvmdkb6",
+      "id": "6",
+      "bbox": [
+        60,
+        117,
+        70,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbm54ful",
+      "id": "7",
+      "bbox": [
+        60,
+        130,
+        1040,
+        38
+      ],
+      "geometry": "rect",
+      "text": "The final review is structured to help the examiner see the problem, the implemented system, the intelligence layer, and the project evidence.",
+      "textPreview": "The final review is structured to help the examiner see the problem, the implemented system, the intelligence layer, and the project evid...",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The final review is structured to help the examiner see the problem, the implemented system, the intelligence layer, and the project evidence."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The final review is structured to help the examiner see the problem, the implemented system, the intelligence layer, and the project evidence.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#9EB2C7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The final review is structured to help the examiner see the problem, the implemented system, the intelligence layer, and the project evidence.",
+              "fontSize": 14,
+              "color": "#9EB2C7",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jed4futc",
+      "id": "8",
+      "bbox": [
+        70,
+        190,
+        530,
+        128
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/id4n6pcr",
+      "id": "9",
+      "bbox": [
+        90,
+        212,
+        34,
+        34
+      ],
+      "geometry": "rect",
+      "text": "1",
+      "textPreview": "1",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1",
+              "fontSize": 20,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obetwbyh",
+      "id": "10",
+      "bbox": [
+        140,
+        214,
+        420,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Why TalentFlow AI?",
+      "textPreview": "Why TalentFlow AI?",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Why TalentFlow AI?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Why TalentFlow AI?",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#E8F2FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Why TalentFlow AI?",
+              "fontSize": 18,
+              "color": "#E8F2FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9wna5gf2",
+      "id": "11",
+      "bbox": [
+        140,
+        250,
+        425,
+        48
+      ],
+      "geometry": "rect",
+      "text": "Recruitment data fragmentation, historical profile loss, slow reporting, and privacy exposure.",
+      "textPreview": "Recruitment data fragmentation, historical profile loss, slow reporting, and privacy exposure.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Recruitment data fragmentation, historical profile loss, slow reporting,"
+          },
+          {
+            "index": 2,
+            "text": "and privacy exposure."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Recruitment data fragmentation, historical profile loss, slow reporting, and privacy exposure.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#9EB2C7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Recruitment data fragmentation, historical profile loss, slow reporting, and privacy exposure.",
+              "fontSize": 14,
+              "color": "#9EB2C7",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m9crulgb",
+      "id": "12",
+      "bbox": [
+        645,
+        190,
+        530,
+        128
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/na5s36xw",
+      "id": "13",
+      "bbox": [
+        665,
+        212,
+        34,
+        34
+      ],
+      "geometry": "rect",
+      "text": "2",
+      "textPreview": "2",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2",
+              "fontSize": 20,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wzet0ved",
+      "id": "14",
+      "bbox": [
+        715,
+        214,
+        420,
+        26
+      ],
+      "geometry": "rect",
+      "text": "What was built",
+      "textPreview": "What was built",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What was built"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What was built",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#E8F2FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What was built",
+              "fontSize": 18,
+              "color": "#E8F2FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0na90fy",
+      "id": "15",
+      "bbox": [
+        715,
+        250,
+        425,
+        48
+      ],
+      "geometry": "rect",
+      "text": "Role-based portal, PostgreSQL schema, medallion ELT, Gold analytics, ML, and Ask Data.",
+      "textPreview": "Role-based portal, PostgreSQL schema, medallion ELT, Gold analytics, ML, and Ask Data.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Role-based portal, PostgreSQL schema, medallion ELT, Gold analytics,"
+          },
+          {
+            "index": 2,
+            "text": "ML, and Ask Data."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Role-based portal, PostgreSQL schema, medallion ELT, Gold analytics, ML, and Ask Data.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#9EB2C7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Role-based portal, PostgreSQL schema, medallion ELT, Gold analytics, ML, and Ask Data.",
+              "fontSize": 14,
+              "color": "#9EB2C7",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/axwbylwn",
+      "id": "16",
+      "bbox": [
+        70,
+        375,
+        530,
+        128
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/by5s7qxs",
+      "id": "17",
+      "bbox": [
+        90,
+        397,
+        34,
+        34
+      ],
+      "geometry": "rect",
+      "text": "3",
+      "textPreview": "3",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3",
+              "fontSize": 20,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3yt4vep",
+      "id": "18",
+      "bbox": [
+        140,
+        399,
+        420,
+        26
+      ],
+      "geometry": "rect",
+      "text": "What is new after mid-term",
+      "textPreview": "What is new after mid-term",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What is new after mid-term"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What is new after mid-term",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#E8F2FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What is new after mid-term",
+              "fontSize": 18,
+              "color": "#E8F2FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/547ad0fa",
+      "id": "19",
+      "bbox": [
+        140,
+        435,
+        425,
+        48
+      ],
+      "geometry": "rect",
+      "text": "NLP semantic matcher, downloaded Hugging Face LLM mode, feedback memory, and SQL repair.",
+      "textPreview": "NLP semantic matcher, downloaded Hugging Face LLM mode, feedback memory, and SQL repair.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "NLP semantic matcher, downloaded Hugging Face LLM mode, feedback"
+          },
+          {
+            "index": 2,
+            "text": "memory, and SQL repair."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "NLP semantic matcher, downloaded Hugging Face LLM mode, feedback memory, and SQL repair.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#9EB2C7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "NLP semantic matcher, downloaded Hugging Face LLM mode, feedback memory, and SQL repair.",
+              "fontSize": 14,
+              "color": "#9EB2C7",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tk3ah07e",
+      "id": "20",
+      "bbox": [
+        645,
+        375,
+        530,
+        128
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sju9ov6t",
+      "id": "21",
+      "bbox": [
+        665,
+        397,
+        34,
+        34
+      ],
+      "geometry": "rect",
+      "text": "4",
+      "textPreview": "4",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4",
+              "fontSize": 20,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rilsfqp8",
+      "id": "22",
+      "bbox": [
+        715,
+        399,
+        420,
+        26
+      ],
+      "geometry": "rect",
+      "text": "How it is validated",
+      "textPreview": "How it is validated",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "How it is validated"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "How it is validated",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#E8F2FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "How it is validated",
+              "fontSize": 18,
+              "color": "#E8F2FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmlon",
+      "id": "23",
+      "bbox": [
+        715,
+        435,
+        425,
+        48
+      ],
+      "geometry": "rect",
+      "text": "Gold reconciliation, contract tests, agent tests, ML metrics, and security controls.",
+      "textPreview": "Gold reconciliation, contract tests, agent tests, ML metrics, and security controls.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Gold reconciliation, contract tests, agent tests, ML metrics, and security"
+          },
+          {
+            "index": 2,
+            "text": "controls."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Gold reconciliation, contract tests, agent tests, ML metrics, and security controls.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#9EB2C7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Gold reconciliation, contract tests, agent tests, ML metrics, and security controls.",
+              "fontSize": 14,
+              "color": "#9EB2C7",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,1059 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/sbwy3t",
+    "id": "sbwy3t",
+    "slide": 11,
+    "layoutId": "82aa98a5-2d3f-403e-8276-180f9442bc8a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#07111F",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "82aa98a5-2d3f-403e-8276-180f9442bc8a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r2to7yl",
+      "id": "1",
+      "bbox": [
+        0,
+        713,
+        1280,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qtsv2x0",
+      "id": "2",
+      "bbox": [
+        742,
+        713,
+        538,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D98F",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2pkbmhgf",
+      "id": "3",
+      "bbox": [
+        845,
+        27,
+        370,
+        20
+      ],
+      "geometry": "rect",
+      "text": "GOLD ANALYTICS",
+      "textPreview": "GOLD ANALYTICS",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "GOLD ANALYTICS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "GOLD ANALYTICS",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#9EB2C7",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "GOLD ANALYTICS",
+              "fontSize": 10,
+              "color": "#9EB2C7",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgvu1wf2",
+      "id": "4",
+      "bbox": [
+        1168,
+        662,
+        52,
+        16
+      ],
+      "geometry": "rect",
+      "text": "Slide 11",
+      "textPreview": "Slide 11",
+      "resolvedFontSize": 8,
+      "resolvedTextStyle": {
+        "fontSize": 8,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Slide 11"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Slide 11",
+          "resolvedTextStyle": {
+            "fontSize": 8,
+            "color": "#9EB2C7",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Slide 11",
+              "fontSize": 8,
+              "color": "#9EB2C7",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvmtsryh",
+      "id": "5",
+      "bbox": [
+        60,
+        54,
+        910,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Gold datasets convert recruitment activity into business questions",
+      "textPreview": "Gold datasets convert recruitment activity into business questions",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Gold datasets convert recruitment activity into business questions"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Gold datasets convert recruitment activity into business questions",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "color": "#E8F2FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Gold datasets convert recruitment activity into business questions",
+              "fontSize": 31,
+              "color": "#E8F2FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rudczmxw",
+      "id": "6",
+      "bbox": [
+        60,
+        117,
+        70,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qt4bqhgb",
+      "id": "7",
+      "bbox": [
+        60,
+        130,
+        1040,
+        38
+      ],
+      "geometry": "rect",
+      "text": "The dashboard consumes curated tables instead of forcing managers to inspect raw transactional rows.",
+      "textPreview": "The dashboard consumes curated tables instead of forcing managers to inspect raw transactional rows.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The dashboard consumes curated tables instead of forcing managers to inspect raw transactional rows."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The dashboard consumes curated tables instead of forcing managers to inspect raw transactional rows.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#9EB2C7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The dashboard consumes curated tables instead of forcing managers to inspect raw transactional rows.",
+              "fontSize": 14,
+              "color": "#9EB2C7",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t0rapsfy",
+      "id": "8",
+      "bbox": [
+        100,
+        190,
+        1080,
+        48
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szitgnyd",
+      "id": "9",
+      "bbox": [
+        130,
+        204,
+        300,
+        22
+      ],
+      "geometry": "rect",
+      "text": "city_talent_score",
+      "textPreview": "city_talent_score",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "city_talent_score"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "city_talent_score",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "city_talent_score",
+              "fontSize": 15,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yts3mxk7",
+      "id": "10",
+      "bbox": [
+        480,
+        204,
+        610,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Which cities have stronger candidate pipelines?",
+      "textPreview": "Which cities have stronger candidate pipelines?",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Which cities have stronger candidate pipelines?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Which cities have stronger candidate pipelines?",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Which cities have stronger candidate pipelines?",
+              "fontSize": 15,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ju1kv21s",
+      "id": "11",
+      "bbox": [
+        100,
+        252,
+        1080,
+        48
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0A1728",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvalo72d",
+      "id": "12",
+      "bbox": [
+        130,
+        266,
+        300,
+        22
+      ],
+      "geometry": "rect",
+      "text": "salary_benchmarks",
+      "textPreview": "salary_benchmarks",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "salary_benchmarks"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "salary_benchmarks",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "salary_benchmarks",
+              "fontSize": 15,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lgj2xsjy",
+      "id": "13",
+      "bbox": [
+        480,
+        266,
+        610,
+        22
+      ],
+      "geometry": "rect",
+      "text": "How do expected salaries vary by education?",
+      "textPreview": "How do expected salaries vary by education?",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "How do expected salaries vary by education?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "How do expected salaries vary by education?",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "How do expected salaries vary by education?",
+              "fontSize": 15,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hs3qxkj",
+      "id": "14",
+      "bbox": [
+        100,
+        314,
+        1080,
+        48
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7i1kz21o",
+      "id": "15",
+      "bbox": [
+        130,
+        328,
+        300,
+        22
+      ],
+      "geometry": "rect",
+      "text": "candidate_engagement",
+      "textPreview": "candidate_engagement",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "candidate_engagement"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "candidate_engagement",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "candidate_engagement",
+              "fontSize": 15,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jals729",
+      "id": "16",
+      "bbox": [
+        480,
+        328,
+        610,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Which candidates are active or inactive?",
+      "textPreview": "Which candidates are active or inactive?",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Which candidates are active or inactive?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Which candidates are active or inactive?",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Which candidates are active or inactive?",
+              "fontSize": 15,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tkj21cju",
+      "id": "17",
+      "bbox": [
+        100,
+        376,
+        1080,
+        48
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0A1728",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulc3uhkf",
+      "id": "18",
+      "bbox": [
+        130,
+        390,
+        300,
+        22
+      ],
+      "geometry": "rect",
+      "text": "interview_pipeline_funnel",
+      "textPreview": "interview_pipeline_funnel",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "interview_pipeline_funnel"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "interview_pipeline_funnel",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "interview_pipeline_funnel",
+              "fontSize": 15,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmlk3m10",
+      "id": "19",
+      "bbox": [
+        480,
+        390,
+        610,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Where is the interview process slowing down?",
+      "textPreview": "Where is the interview process slowing down?",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Where is the interview process slowing down?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Where is the interview process slowing down?",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Where is the interview process slowing down?",
+              "fontSize": 15,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqlkbmh8",
+      "id": "20",
+      "bbox": [
+        100,
+        438,
+        1080,
+        48
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpcjihgn",
+      "id": "21",
+      "bbox": [
+        130,
+        452,
+        300,
+        22
+      ],
+      "geometry": "rect",
+      "text": "job_hire_rate",
+      "textPreview": "job_hire_rate",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "job_hire_rate"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "job_hire_rate",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "job_hire_rate",
+              "fontSize": 15,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsn2dwzy",
+      "id": "22",
+      "bbox": [
+        480,
+        452,
+        610,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Which jobs have better hire recommendation rates?",
+      "textPreview": "Which jobs have better hire recommendation rates?",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Which jobs have better hire recommendation rates?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Which jobs have better hire recommendation rates?",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Which jobs have better hire recommendation rates?",
+              "fontSize": 15,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

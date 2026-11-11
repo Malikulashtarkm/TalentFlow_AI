@@ -1,0 +1,1047 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/hdggjp",
+    "id": "hdggjp",
+    "slide": 19,
+    "layoutId": "82aa98a5-2d3f-403e-8276-180f9442bc8a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#07111F",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "82aa98a5-2d3f-403e-8276-180f9442bc8a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "651a54d0-2194-4bfe-babb-841e2c2f1b7f",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ut0fu1ob",
+      "id": "1",
+      "bbox": [
+        0,
+        713,
+        1280,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgry5gnm",
+      "id": "2",
+      "bbox": [
+        742,
+        713,
+        538,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D98F",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfixwb61",
+      "id": "3",
+      "bbox": [
+        845,
+        27,
+        370,
+        20
+      ],
+      "geometry": "rect",
+      "text": "TESTING",
+      "textPreview": "TESTING",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TESTING"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TESTING",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#9EB2C7",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TESTING",
+              "fontSize": 10,
+              "color": "#9EB2C7",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jitg7q5s",
+      "id": "4",
+      "bbox": [
+        1168,
+        662,
+        52,
+        16
+      ],
+      "geometry": "rect",
+      "text": "Slide 19",
+      "textPreview": "Slide 19",
+      "resolvedFontSize": 8,
+      "resolvedTextStyle": {
+        "fontSize": 8,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Slide 19"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Slide 19",
+          "resolvedTextStyle": {
+            "fontSize": 8,
+            "color": "#9EB2C7",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Slide 19",
+              "fontSize": 8,
+              "color": "#9EB2C7",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih0fylo7",
+      "id": "5",
+      "bbox": [
+        60,
+        54,
+        910,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Validation covers schema, data quality, contracts, and the new agent",
+      "textPreview": "Validation covers schema, data quality, contracts, and the new agent",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Validation covers schema, data quality, contracts, and the new agent"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Validation covers schema, data quality, contracts, and the new agent",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "color": "#E8F2FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Validation covers schema, data quality, contracts, and the new agent",
+              "fontSize": 31,
+              "color": "#E8F2FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5kby9gny",
+      "id": "6",
+      "bbox": [
+        60,
+        117,
+        70,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4j2x0b6d",
+      "id": "7",
+      "bbox": [
+        60,
+        130,
+        1040,
+        38
+      ],
+      "geometry": "rect",
+      "text": "The final project includes tests for both the data product and the conversational analytics layer.",
+      "textPreview": "The final project includes tests for both the data product and the conversational analytics layer.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#9EB2C7",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The final project includes tests for both the data product and the conversational analytics layer."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The final project includes tests for both the data product and the conversational analytics layer.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#9EB2C7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The final project includes tests for both the data product and the conversational analytics layer.",
+              "fontSize": 14,
+              "color": "#9EB2C7",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmtgbq5o",
+      "id": "8",
+      "bbox": [
+        80,
+        200,
+        500,
+        120
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6lkf2lo3",
+      "id": "9",
+      "bbox": [
+        80,
+        200,
+        500,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3a9cbqh",
+      "id": "10",
+      "bbox": [
+        98,
+        220,
+        464,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Gold validation",
+      "textPreview": "Gold validation",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Gold validation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Gold validation",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Gold validation",
+              "fontSize": 16,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x43algr2",
+      "id": "11",
+      "bbox": [
+        98,
+        258,
+        464,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Row counts, nulls, duplicates, ranges, formulas, reconciliation",
+      "textPreview": "Row counts, nulls, duplicates, ranges, formulas, reconciliation",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Row counts, nulls, duplicates, ranges, formulas, reconciliation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Row counts, nulls, duplicates, ranges, formulas, reconciliation",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Row counts, nulls, duplicates, ranges, formulas, reconciliation",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1sra18r",
+      "id": "12",
+      "bbox": [
+        650,
+        200,
+        500,
+        120
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v21sj69c",
+      "id": "13",
+      "bbox": [
+        650,
+        200,
+        500,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47u9gvqt",
+      "id": "14",
+      "bbox": [
+        668,
+        220,
+        464,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Project contracts",
+      "textPreview": "Project contracts",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Project contracts"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Project contracts",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Project contracts",
+              "fontSize": 16,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/583ap0re",
+      "id": "15",
+      "bbox": [
+        668,
+        258,
+        464,
+        50
+      ],
+      "geometry": "rect",
+      "text": "SCD2, versioned lake paths, Hive tables, dashboard exposure",
+      "textPreview": "SCD2, versioned lake paths, Hive tables, dashboard exposure",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SCD2, versioned lake paths, Hive tables, dashboard exposure"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SCD2, versioned lake paths, Hive tables, dashboard exposure",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SCD2, versioned lake paths, Hive tables, dashboard exposure",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5crel8n",
+      "id": "16",
+      "bbox": [
+        80,
+        380,
+        500,
+        120
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6lsnq98",
+      "id": "17",
+      "bbox": [
+        80,
+        380,
+        500,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#14C8FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9kvqp",
+      "id": "18",
+      "bbox": [
+        98,
+        400,
+        464,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Agent tests",
+      "textPreview": "Agent tests",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#14C8FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agent tests"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agent tests",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#14C8FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agent tests",
+              "fontSize": 16,
+              "color": "#14C8FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twnat0ra",
+      "id": "19",
+      "bbox": [
+        98,
+        438,
+        464,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Local matching, Hugging Face prompt parsing, response extraction, fallback narration",
+      "textPreview": "Local matching, Hugging Face prompt parsing, response extraction, fallback narration",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Local matching, Hugging Face prompt parsing, response extraction, fallback"
+          },
+          {
+            "index": 2,
+            "text": "narration"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Local matching, Hugging Face prompt parsing, response extraction, fallback narration",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Local matching, Hugging Face prompt parsing, response extraction, fallback narration",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1sjad0je",
+      "id": "20",
+      "bbox": [
+        650,
+        380,
+        500,
+        120
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0D1B2D",
+      "lineColor": "#1E3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0ra94vit",
+      "id": "21",
+      "bbox": [
+        650,
+        380,
+        500,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#22D98F",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fqh8bq1o",
+      "id": "22",
+      "bbox": [
+        668,
+        400,
+        464,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Latest result",
+      "textPreview": "Latest result",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#22D98F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Latest result"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Latest result",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#22D98F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Latest result",
+              "fontSize": 16,
+              "color": "#22D98F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ep8r2l03",
+      "id": "23",
+      "bbox": [
+        668,
+        438,
+        464,
+        50
+      ],
+      "geometry": "rect",
+      "text": "10 targeted agent tests passed after the final update",
+      "textPreview": "10 targeted agent tests passed after the final update",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#E8F2FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10 targeted agent tests passed after the final update"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10 targeted agent tests passed after the final update",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#E8F2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10 targeted agent tests passed after the final update",
+              "fontSize": 14,
+              "color": "#E8F2FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pgjah0jq",
+      "id": "24",
+      "bbox": [
+        85,
+        570,
+        1090,
+        30
+      ],
+      "geometry": "rect",
+      "text": "Verification command result: 10 passed across huggingface_sql_agent, analytics_agent, and local_sql_model tests.",
+      "textPreview": "Verification command result: 10 passed across huggingface_sql_agent, analytics_agent, and local_sql_model tests.",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#22D98F",
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Verification command result: 10 passed across huggingface_sql_agent, analytics_agent, and local_sql_model tests."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Verification command result: 10 passed across huggingface_sql_agent, analytics_agent, and local_sql_model tests.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#22D98F",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Verification command result: 10 passed across huggingface_sql_agent, analytics_agent, and local_sql_model tests.",
+              "fontSize": 16,
+              "color": "#22D98F",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

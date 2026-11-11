@@ -1,0 +1,1206 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/14bup87q",
+    "id": "14bup87q",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#07111F",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e9wvu54r",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#07111F",
+      "lineColor": "#07111F",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1c7e50ni",
+      "id": "2",
+      "bbox": [
+        0,
+        713,
+        1280,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#25C7F7",
+      "lineColor": "#25C7F7",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbedwfmx",
+      "id": "3",
+      "bbox": [
+        742.4,
+        713,
+        537.6,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#25D689",
+      "lineColor": "#25D689",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rm5czq50",
+      "id": "4",
+      "bbox": [
+        845,
+        27,
+        370,
+        20
+      ],
+      "geometry": "rect",
+      "text": "ANALYTICAL COMPUTE",
+      "textPreview": "ANALYTICAL COMPUTE",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ANALYTICAL COMPUTE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ANALYTICAL COMPUTE",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#A9B8CA",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ANALYTICAL COMPUTE",
+              "fontSize": 10,
+              "color": "#A9B8CA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6lwvql4v",
+      "id": "5",
+      "bbox": [
+        60,
+        54,
+        890,
+        62
+      ],
+      "geometry": "rect",
+      "text": "DuckDB Analytical SQL Over Parquet",
+      "textPreview": "DuckDB Analytical SQL Over Parquet",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DuckDB Analytical SQL Over Parquet"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DuckDB Analytical SQL Over Parquet",
+          "resolvedTextStyle": {
+            "fontSize": 33,
+            "color": "#F5F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DuckDB Analytical SQL Over Parquet",
+              "fontSize": 33,
+              "color": "#F5F7FB",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8ne10n6",
+      "id": "6",
+      "bbox": [
+        60,
+        117,
+        70,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#25C7F7",
+      "lineColor": "#25C7F7",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/snedsvml",
+      "id": "7",
+      "bbox": [
+        60,
+        130,
+        1010,
+        36
+      ],
+      "geometry": "rect",
+      "text": "DuckDB is used as lightweight analytical compute for Gold aggregation without making PostgreSQL do warehouse-style work.",
+      "textPreview": "DuckDB is used as lightweight analytical compute for Gold aggregation without making PostgreSQL do warehouse-style work.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DuckDB is used as lightweight analytical compute for Gold aggregation without making PostgreSQL do warehouse-style work."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DuckDB is used as lightweight analytical compute for Gold aggregation without making PostgreSQL do warehouse-style work.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#A9B8CA",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DuckDB is used as lightweight analytical compute for Gold aggregation without making PostgreSQL do warehouse-style work.",
+              "fontSize": 14,
+              "color": "#A9B8CA"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jilcvq54",
+      "id": "8",
+      "bbox": [
+        60,
+        170,
+        500,
+        370
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#101D31",
+      "lineColor": "#1F3B56",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ihcvml4j",
+      "id": "9",
+      "bbox": [
+        88,
+        198,
+        260,
+        20
+      ],
+      "geometry": "rect",
+      "text": "WHY DUCKDB?",
+      "textPreview": "WHY DUCKDB?",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "WHY DUCKDB?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "WHY DUCKDB?",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#25C7F7",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "WHY DUCKDB?",
+              "fontSize": 10,
+              "color": "#25C7F7",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4by9or6l",
+      "id": "10",
+      "bbox": [
+        88,
+        241,
+        14,
+        20
+      ],
+      "geometry": "rect",
+      "text": "•",
+      "textPreview": "•",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "•",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#25D689",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "•",
+              "fontSize": 15,
+              "color": "#25D689",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pc7qhwn6",
+      "id": "11",
+      "bbox": [
+        110,
+        240,
+        393,
+        64
+      ],
+      "geometry": "rect",
+      "text": "Reads Parquet files directly from temporary Silver downloads.",
+      "textPreview": "Reads Parquet files directly from temporary Silver downloads.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Reads Parquet files directly from temporary Silver"
+          },
+          {
+            "index": 2,
+            "text": "downloads."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Reads Parquet files directly from temporary Silver downloads.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F5F7FB",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Reads Parquet files directly from temporary Silver downloads.",
+              "fontSize": 15,
+              "color": "#F5F7FB"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29grm1of",
+      "id": "12",
+      "bbox": [
+        88,
+        297,
+        14,
+        20
+      ],
+      "geometry": "rect",
+      "text": "•",
+      "textPreview": "•",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "•",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#25D689",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "•",
+              "fontSize": 15,
+              "color": "#25D689",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ap8fm50",
+      "id": "13",
+      "bbox": [
+        110,
+        296,
+        393,
+        64
+      ],
+      "geometry": "rect",
+      "text": "Uses SQL joins and group-by logic for KPI generation.",
+      "textPreview": "Uses SQL joins and group-by logic for KPI generation.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Uses SQL joins and group-by logic for KPI generation."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Uses SQL joins and group-by logic for KPI generation.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F5F7FB",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Uses SQL joins and group-by logic for KPI generation.",
+              "fontSize": 15,
+              "color": "#F5F7FB"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gnepkr69",
+      "id": "14",
+      "bbox": [
+        88,
+        353,
+        14,
+        20
+      ],
+      "geometry": "rect",
+      "text": "•",
+      "textPreview": "•",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "•",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#25D689",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "•",
+              "fontSize": 15,
+              "color": "#25D689",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/honqdwnu",
+      "id": "15",
+      "bbox": [
+        110,
+        352,
+        393,
+        64
+      ],
+      "geometry": "rect",
+      "text": "Keeps Gold generation lake-first; PostgreSQL publish is optional for dashboard caching.",
+      "textPreview": "Keeps Gold generation lake-first; PostgreSQL publish is optional for dashboard caching.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Keeps Gold generation lake-first; PostgreSQL publish is"
+          },
+          {
+            "index": 2,
+            "text": "optional for dashboard caching."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Keeps Gold generation lake-first; PostgreSQL publish is optional for dashboard caching.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F5F7FB",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Keeps Gold generation lake-first; PostgreSQL publish is optional for dashboard caching.",
+              "fontSize": 15,
+              "color": "#F5F7FB"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulw7ihoj",
+      "id": "16",
+      "bbox": [
+        88,
+        409,
+        14,
+        20
+      ],
+      "geometry": "rect",
+      "text": "•",
+      "textPreview": "•",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "•"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "•",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#25D689",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "•",
+              "fontSize": 15,
+              "color": "#25D689",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fm58bm54",
+      "id": "17",
+      "bbox": [
+        110,
+        408,
+        393,
+        64
+      ],
+      "geometry": "rect",
+      "text": "Simple to run locally during demo and easy to reason about in code.",
+      "textPreview": "Simple to run locally during demo and easy to reason about in code.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Simple to run locally during demo and easy to reason about"
+          },
+          {
+            "index": 2,
+            "text": "in code."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Simple to run locally during demo and easy to reason about in code.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F5F7FB",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Simple to run locally during demo and easy to reason about in code.",
+              "fontSize": 15,
+              "color": "#F5F7FB"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0ji9wb6t",
+      "id": "18",
+      "bbox": [
+        610,
+        170,
+        610,
+        370
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#071421",
+      "lineColor": "#1F3B56",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/14rqpgne",
+      "id": "19",
+      "bbox": [
+        642,
+        198,
+        260,
+        20
+      ],
+      "geometry": "rect",
+      "text": "REPRESENTATIVE GOLD QUERY PATTERN",
+      "textPreview": "REPRESENTATIVE GOLD QUERY PATTERN",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REPRESENTATIVE GOLD QUERY PATTERN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REPRESENTATIVE GOLD QUERY PATTERN",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#25D689",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REPRESENTATIVE GOLD QUERY PATTERN",
+              "fontSize": 10,
+              "color": "#25D689",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90nq9gfi",
+      "id": "20",
+      "bbox": [
+        642,
+        238,
+        520,
+        215
+      ],
+      "geometry": "rect",
+      "text": "SELECT j.job_title,\n       COUNT(*) AS total_feedback,\n       SUM(CASE WHEN f.decision = 'Hire' THEN 1 ELSE 0 END) AS hire_count,\n       ROUND(100.0 * hire_count / COUNT(*), 2) AS hire_rate_pct\nFROM feedback f\nJOIN schedules s ON f.schedule_id = s.schedule_id\nJOIN jobs j ON s.job_id = j.job_id\nGROUP BY j.job_title;",
+      "textPreview": "SELECT j.job_title, |        COUNT(*) AS total_feedback, |        SUM(CASE WHEN f.decision = 'Hire' THEN 1 ELSE 0 END) AS hire_count, |  ...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SELECT j.job_title,"
+          },
+          {
+            "index": 2,
+            "text": "       COUNT(*) AS total_feedback,"
+          },
+          {
+            "index": 3,
+            "text": "       SUM(CASE WHEN f.decision = 'Hire' THEN 1 ELSE 0 END) AS hire_count,"
+          },
+          {
+            "index": 4,
+            "text": "       ROUND(100.0 * hire_count / COUNT(*), 2) AS hire_rate_pct"
+          },
+          {
+            "index": 5,
+            "text": "FROM feedback f"
+          },
+          {
+            "index": 6,
+            "text": "JOIN schedules s ON f.schedule_id = s.schedule_id"
+          },
+          {
+            "index": 7,
+            "text": "JOIN jobs j ON s.job_id = j.job_id"
+          },
+          {
+            "index": 8,
+            "text": "GROUP BY j.job_title;"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SELECT j.job_title,",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SELECT j.job_title,",
+              "fontSize": 13.51,
+              "color": "#D8ECFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "       COUNT(*) AS total_feedback,",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "       COUNT(*) AS total_feedback,",
+              "fontSize": 13.51,
+              "color": "#D8ECFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "       SUM(CASE WHEN f.decision = 'Hire' THEN 1 ELSE 0 END) AS hire_count,",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "       SUM(CASE WHEN f.decision = 'Hire' THEN 1 ELSE 0 END) AS hire_count,",
+              "fontSize": 13.51,
+              "color": "#D8ECFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "       ROUND(100.0 * hire_count / COUNT(*), 2) AS hire_rate_pct",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "       ROUND(100.0 * hire_count / COUNT(*), 2) AS hire_rate_pct",
+              "fontSize": 13.51,
+              "color": "#D8ECFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "FROM feedback f",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FROM feedback f",
+              "fontSize": 13.51,
+              "color": "#D8ECFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "JOIN schedules s ON f.schedule_id = s.schedule_id",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "JOIN schedules s ON f.schedule_id = s.schedule_id",
+              "fontSize": 13.51,
+              "color": "#D8ECFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "JOIN jobs j ON s.job_id = j.job_id",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "JOIN jobs j ON s.job_id = j.job_id",
+              "fontSize": 13.51,
+              "color": "#D8ECFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "GROUP BY j.job_title;",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "color": "#D8ECFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "GROUP BY j.job_title;",
+              "fontSize": 13.51,
+              "color": "#D8ECFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

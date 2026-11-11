@@ -1,0 +1,26 @@
+feature,importance
+num__gpa,0.13262691107389357
+num__login_count,0.10336985038281721
+num__expected_salary,0.09640078554105093
+cat__degree_B.Sc,0.06683212001637977
+cat__job_location_Hyderabad,0.047603033456147026
+cat__job_title_Data Analyst,0.04368670552134871
+cat__state_Mizoram,0.04035691894152595
+"cat__salary_range_60,000 - 90,000",0.03869659391270958
+cat__job_location_Bangalore,0.03644972082042808
+cat__department_Business Intelligence,0.034289211522936076
+cat__degree_M.Tech,0.033850887173278166
+cat__degree_B.Tech,0.029238797148598138
+"cat__salary_range_100,000 - 150,000",0.023762767684982464
+num__passing_year,0.021374750691593652
+cat__department_AI/ML,0.019682720136893882
+cat__stage_name_Screening,0.017021292320158133
+cat__job_title_ML Engineer,0.016013559476653515
+cat__degree_PhD,0.01530499664229738
+cat__department_Infrastructure,0.015035068218096003
+cat__job_title_Cloud Architect,0.013313554976135554
+"cat__salary_range_120,000 - 180,000",0.010626480098876784
+cat__stage_name_Technical Round 1,0.009497703874583914
+cat__job_title_Data Engineer,0.007662403023937479
+cat__state_Chhattisgarh,0.007634053804064939
+cat__state_Andhra Pradesh,0.007443186005156936

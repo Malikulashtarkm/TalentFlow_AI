@@ -1,0 +1,112 @@
+{
+  "hire_prediction": {
+    "accuracy": 0.7552,
+    "f1": 0.8427,
+    "roc_auc": 0.8262,
+    "support": 241,
+    "positive_rate": 0.8422,
+    "confusion_matrix": [
+      [
+        24,
+        14
+      ],
+      [
+        45,
+        158
+      ]
+    ],
+    "classification_report": {
+      "Not Hire": {
+        "precision": 0.34782608695652173,
+        "recall": 0.631578947368421,
+        "f1-score": 0.4485981308411215,
+        "support": 38.0
+      },
+      "Hire": {
+        "precision": 0.9186046511627907,
+        "recall": 0.7783251231527094,
+        "f1-score": 0.8426666666666667,
+        "support": 203.0
+      },
+      "accuracy": 0.7551867219917012,
+      "macro avg": {
+        "precision": 0.6332153690596563,
+        "recall": 0.7049520352605652,
+        "f1-score": 0.6456323987538941,
+        "support": 241.0
+      },
+      "weighted avg": {
+        "precision": 0.828606371329437,
+        "recall": 0.7551867219917012,
+        "f1-score": 0.7805313788601491,
+        "support": 241.0
+      }
+    }
+  },
+  "decision_prediction": {
+    "accuracy": 0.7884,
+    "weighted_f1": 0.8165,
+    "support": 241,
+    "classes": [
+      "Hire",
+      "Hold",
+      "Reject"
+    ],
+    "confusion_matrix": [
+      [
+        168,
+        34,
+        1
+      ],
+      [
+        8,
+        21,
+        7
+      ],
+      [
+        0,
+        1,
+        1
+      ]
+    ],
+    "classification_report": {
+      "Hire": {
+        "precision": 0.9545454545454546,
+        "recall": 0.8275862068965517,
+        "f1-score": 0.8865435356200527,
+        "support": 203.0
+      },
+      "Hold": {
+        "precision": 0.375,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.45652173913043476,
+        "support": 36.0
+      },
+      "Reject": {
+        "precision": 0.1111111111111111,
+        "recall": 0.5,
+        "f1-score": 0.18181818181818182,
+        "support": 2.0
+      },
+      "accuracy": 0.7883817427385892,
+      "macro avg": {
+        "precision": 0.48021885521885527,
+        "recall": 0.6369731800766284,
+        "f1-score": 0.5082944855228898,
+        "support": 241.0
+      },
+      "weighted avg": {
+        "precision": 0.860974894169915,
+        "recall": 0.7883817427385892,
+        "f1-score": 0.816459571382584,
+        "support": 241.0
+      }
+    }
+  },
+  "rating_prediction": {
+    "mae": 0.3017,
+    "r2": 0.5309,
+    "support": 241,
+    "rating_mean": 4.4995
+  }
+}

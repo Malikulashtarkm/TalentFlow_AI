@@ -1,0 +1,26 @@
+feature,importance
+num__passing_year,0.0829870354285643
+num__expected_salary,0.07923741579288818
+num__gpa,0.07563594656091609
+num__login_count,0.06453587304665945
+cat__stage_name_Screening,0.027194040030396067
+cat__state_Mizoram,0.026672312207755105
+cat__job_title_Cloud Architect,0.021425058990699797
+cat__state_Maharashtra,0.020982408292525755
+cat__department_Infrastructure,0.020466894745959068
+cat__department_Business Intelligence,0.02006860661525785
+cat__state_Kerala,0.019399788070169968
+cat__stage_name_Technical Round 1,0.018078848157328218
+cat__state_Chhattisgarh,0.01806830361815397
+"cat__salary_range_60,000 - 90,000",0.01797192247540804
+cat__state_Assam,0.01675409060790338
+cat__department_AI/ML,0.016667701880233237
+cat__state_Bihar,0.016360447009487654
+cat__job_title_Backend Developer,0.015919442598786398
+cat__degree_M.Tech,0.015513718712885783
+cat__degree_PhD,0.015498864873076054
+cat__degree_B.Sc,0.01506669665066745
+"cat__salary_range_70,000 - 110,000",0.014969917202230164
+cat__state_Nagaland,0.014248855342731967
+cat__degree_B.Tech,0.014196133297763045
+cat__state_West Bengal,0.01381918164706241
